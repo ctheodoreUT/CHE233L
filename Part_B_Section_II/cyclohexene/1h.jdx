@@ -1,0 +1,1990 @@
+##TITLE=	cyclohexene
+##JCAMP-DX=	6.0	$$ MestReNova 17.0.0-41178
+##DATA TYPE=	LINK
+##BLOCKS=	4    
+##ORIGIN=	Mestrelab Research S.L.
+##OWNER=	ctheodore
+##$MNOVA/METADATA=	(DOCUMENT,BASE64)
+eyJuYW1lIjoiL1VzZXJzL2N0aGVvZG9yZS9Eb2N1bWVudHMvY2xhc3Nlcy9OTVIgZXhwZXJpbWVudC9
+naXRodWIgZmlsZXMvY3ljbG9oZXhlbmUvY3ljbG9oZXhlbmUubW5vdmEiLCJwYWdlcyI6W3siaXRlbX
+MiOlsiMSIsICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIzIiAgICAgICAgICAgI
+CAgICAgICAgICAgICAgICAgICAgICAgICBdfV19
+##TITLE=	
+##JCAMP-CS=	3.7	$$ MestReNova 17.0.0-41178
+##BLOCK_ID=	1
+##ORIGIN=	Mestrelab Research S.L.
+##OWNER=	ctheodore
+##$MNOVA/METADATA=	(ITEM,BASE64)
+eyJhbmdsZSI6MC4wLCJwb2ludHMiOlt7IngiOjUzMjEuMCwieSI6NTg2MS4wNTYyMzg5MTkwOTQ1fSx
+7IngiOjU1MjIuNTA0NTczNzYyNjM4LCJ5Ijo1ODYxLjA1NjIzODkxOTA5NDV9LHsieCI6NTUyMi41MD
+Q1NzM3NjI2MzgsInkiOjYwODcuNzE2Mjk2OTAwNDI5fSx7IngiOjUzMjEuMCwieSI6NjA4Ny43MTYyO
+TY5MDA0Mjl9LHsieCI6NTMyMS4wLCJ5Ijo1ODYxLjA1NjIzODkxOTA5NDV9XSwieiI6MS4wfQ==
+##NAMES=	
+##ATOMLIST=	
+$$ AN	AS	NH
+	1	C	2
+	2	C	2
+	3	C	2
+	4	C	1
+	5	C	1
+	6	C	2
+##BONDLIST=	
+$$ AN1	AN2	BT
+	1	2	S
+	2	3	S
+	3	4	S
+	4	5	D
+	5	6	S
+	6	1	S
+##MAXRASTER=	32768
+##XY_RASTER=	
+$$ AN	X	Y	Z
+	1	-32768	-12612	0
+	2	-32768	12612	0
+	3	-10921	25224	0
+	4	10921	12612	0
+	5	10921	-12612	0
+	6	-10921	-25224	0
+##END=		$$ JCAMP-CS
+##TITLE=	Predicted 1H NMR Spectrum
+##JCAMP-DX=	6.0	$$ MestReNova 17.0.0-41178
+##DATA TYPE=	NMR PEAK ASSIGNMENTS
+##DATA CLASS=	ASSIGNMENTS
+##BLOCK_ID=	2
+##ORIGIN=	Mestrelab Research S.L.
+##OWNER=	ctheodore
+##CROSS REFERENCE=	STRUCTURE: BLOCK_ID=1                                     
+NMR SPECTRUM: BLOCK_ID=3                                     
+##.OBSERVE FREQUENCY=	500
+##.OBSERVE NUCLEUS=	^1H
+##NPOINTS=	10
+##XUNITS=	PPM
+##YUNITS=	ARBITRARY UNITS
+##PEAKASSIGNMENTS=	(XYWA)
+(2.0026496934889981283, 0.016896402463316917419, 0.011970767691462103066, <1>)
+(2.0026496934889981283, 0.016896402463316917419, 0.011970767691462103066, <1>)
+(2.0026496934889981283, 0.016896402463316917419, 0.013071853062651128674, <2>)
+(2.0026496934889981283, 0.016896402463316917419, 0.013071853062651128674, <2>)
+(1.6081082839207758717, 0.023630373179912567139, 0.01013605288051733222, <3>)
+(1.6081082839207758717, 0.023630373179912567139, 0.01013605288051733222, <3>)
+(5.6562657904453139679, 0.014372367411851882935, 0.013014596211106344015, <4>)
+(5.6562657904453139679, 0.014372367411851882935, 0.013014596211106344015, <5>)
+(1.6081082839207758717, 0.023630373179912567139, 0.01013605288051733222, <6>)
+(1.6081082839207758717, 0.023630373179912567139, 0.01013605288051733222, <6>)
+##END=		$$ NMR PEAK ASSIGNMENTS
+##TITLE=	Predicted 1H NMR Spectrum
+##JCAMP-DX=	6.0	$$ MestReNova 17.0.0-41178
+##DATA TYPE=	NMR SPECTRUM
+##DATA CLASS=	XYDATA
+##BLOCK_ID=	3
+##ORIGIN=	Mestrelab Predictor, Modgraph NMRPredict Desktop
+##OWNER=	ctheodore
+##NUMDIM=	1
+##$MNOVA/METADATA=	(ITEM,BASE64)
+eyJhbmdsZSI6MC4wLCJheGVzIjp7IngiOnsibWF4IjoxMi41MDAwNzgxMjU0ODgyODUsIm1pbiI6MC4
+wMDAxOTA3MzYwNTUzODE1OTYxNH0sInkiOnsibWF4IjowLjAyNzEyMTg1NTY0NDUwOTE5NiwibWluIj
+otMC4wMDI0NjU2MDYzODQxMjA2MzMzfX0sInBvaW50cyI6W3sieCI6NTMyMS4wLCJ5Ijo1ODM1LjB9L
+HsieCI6ODcyMi4wLCJ5Ijo1ODM1LjB9LHsieCI6ODcyMi4wLCJ5Ijo4MjA4LjB9LHsieCI6NTMyMS4w
+LCJ5Ijo4MjA4LjB9LHsieCI6NTMyMS4wLCJ5Ijo1ODM1LjB9XSwieiI6MC4wfQ==
+##.OBSERVE FREQUENCY=	500
+##.OBSERVE NUCLEUS=	^1H
+##.SOLVENT NAME=	DMSO-d6
+##.PULSE SEQUENCE=	
+##.ACQUISITIONMODE=	SIMULTANEOUS (DQD)
+##$ORIGINAL FORMAT=	Predictor
+##$MNOVA/SCALES_VERSION=	9
+##$PARAMETER FILE=	(parameters, ASCII, , 0)
+$$ <?xml version="1.0" encoding="utf-8"?>
+$$ <PredictorParameters>
+$$     <Title>Predicted 1H NMR Spectrum</Title>
+$$     <Origin>Mnova: NMR Prediction</Origin>
+$$     <Name>Mestrelab Predictor, Modgraph NMRPredict Desktop</Name>
+$$     <Version>1.7, 1.22 (5.076)</Version>
+$$     <Nucleus>1H</Nucleus>
+$$     <Solvent>DMSO-d6</Solvent>
+$$     <From>0</From>
+$$     <To>12.5</To>
+$$     <Frequency>500</Frequency>
+$$     <LineWidth>0.75</LineWidth>
+$$     <Size>65536</Size>
+$$     <DEPT>0</DEPT>
+$$     <ProtonatedCarbons>0</ProtonatedCarbons>
+$$     <ExcludeLabile>true</ExcludeLabile>
+$$     <FastPrediction>0</FastPrediction>
+$$     <ProtonDecoupled>0</ProtonDecoupled>
+$$     <Reference/>
+$$     <Options>
+$$         <Settings>
+$$             <Predictor Name="Mestrelab Predictor">
+$$                 <Settings>
+$$                     <Model>/Applications/MestReNova.app/Contents/Resources/data/1H.mbst</Model>
+$$                 </Settings>
+$$             </Predictor>
+$$             <Predictor Name="Modgraph NMRPredict Desktop">
+$$                 <Settings>
+$$                     <Algorithm hoption="2" hsolvent="1" usnucleus="1">Fast Increments</Algorithm>
+$$                     <JsAlgorithm>Fast Increments</JsAlgorithm>
+$$                     <NMRSOAPDIR>/Applications/MestReNova.app/Contents/Resources/NMRPredict</NMRSOAPDIR>
+$$                     <NMRTEMPDIR>/private/var/folders/3f/5b3_td5j7k3f1lyt31390d3jfxj842/T/NMRPredict-1574477954</NMRTEMPDIR>
+$$                     <NMRUSDATABASEDIR>/Users/ctheodore/Library/Application Support/Mestrelab Research S.L./MestReNova/NMRPredict/NMR1HDatabase</NMRUSDATABASEDIR>
+$$                     <Databases>ABCDEFGHIJKLMNOPQRSTUVWXYZ</Databases>
+$$                 </Settings>
+$$             </Predictor>
+$$         </Settings>
+$$     </Options>
+$$     <MoleculeID>{7688aec8-ea0f-40bb-ab78-3d410e457517}</MoleculeID>
+$$ </PredictorParameters>
+$$ 
+##XUNITS=	HZ
+##YUNITS=	ARBITRARY UNITS
+##FIRSTX=	6250
+##LASTX=	0.095367431640625
+##DELTAX=	-0.095367431640625
+##XFACTOR=	1
+##YFACTOR=	1.1481452946510896237E-11
+##FIRSTY=	6.4484915185403224314E-08
+##MINY=	1.6813956449368561152E-08
+##MAXY=	0.024656232446432113647
+##NPOINTS=	65536
+##XYDATA=	(X++(Y..Y))
+6250E616%%%j6J6j6QqQ%%qQq%%J6j6q%%%%Qq%%%q%%j6J6qQqQ%qq%Qq%QqQk4L2k4%%%%Qj6%
+6245E552Qq%%%%%q%J6j6%q%%%%q%%QQj6Q%qQqQ%j6Q%j6J6qQj6QqQqqQQqq%Qq%%%%%q%%Qj6
+6239E488J6qq%QqqQQq%%%q%%%%%%%qqQQq%%%q%%%q%%Qq%%Qq%%%q%QQj6q%%q%%%%Qq%%%%%%
+6233E432%%%q%q%%%%Q%%%%qq%Qqq%Q%%q%%qJ6q%qqJ6q%qqQQq%%%%%q%%%q%%Q%%j6%J6j6J6
+6227E376qqqQQq%q%QQq%q%q%%%q%%%Qj6J6%qqQQqq%%%Qq%%%%Qqq%%%%q%%%%%qqQQqqQJ6qq
+6220E304q%q%%Q%%%%qq%QqQQj6%qQ%q%%%%%%Qq%q%q%%%%%%%q%%%Qj6J6j6%%%%%%%%%%%%%%
+6214E240qq%%%%%%%Qqq%Qq%Qj6QqQ%j6J6qQ%j6Q%qQqqK4k4Qq%%%%%%%%q%%Qq%%%%%q%%%%%
+6208E176%%%%%%qq%Qq%%Q%%qq%Q%%%%q%q%Qj6QJ6q%qqJ6j6QqQq%%qqJ6qQq%qJ6q%%q%%Qj6
+6203E112qQQq%q%QQq%qqQQq%QqQj6%qJ6qQqqQj6Q%qQ%qJ6qj6Q%QqqQQqq%%Qqq%QqqJ6qqQ%
+6197E064%q%%Qq%%%%%%%q%%%q%%%%Qq%%%%%q%%%%%%Qq%q%%%%%%Qj6qQQq%q%%%%%%%q%%Qq%
+6190E000%Qq%%%%%q%%%%%%%%%q%%qJ6j6%%q%%Q%Qq%q%%j6K4qq%%%%%j6J6qJ6qj6QQq%%Qq%
+6185D952q%%Qq%%%q%Qqk4K4%%q%%Qqq%Qq%%Q%%q%Qk4Q%%Q%%j6qJ6qqJ6%q%%j6J6q%%Qj6J6
+6179D904q%%%qq%%%Q%qJ6q%qQq%Qqq%%%%%%%%qqJ6qqQQj6Q%%Qj6%J6j6%q%%%%%%q%QQqq%%
+6173D840%%q%%Q%%q%q%%Q%%q%%Qqq%%q%J6qq%%%%Qq%%%%%q%%Qq%%QqqQQq%j6K4j6Q%qq%J6
+6167D800k4Q%Q%j6Q%%%%%Qk4J6%j6%%%Qq%q%QQq%q%%%%Qqq%QqqQQ%%q%q%%Q%qQj6Q%%%%%%
+6161D744%qq%Qq%%%J6qqQ%q%%q%%Q%%%j6Qj6QQ%%q%%%%%%%qq%Q%QqqJ6j6%%%%%Q%j6J6j6q
+6155D680J6qQq%%%qqK4qj6Q%Qq%%%q%%Qq%%qJ6j6QqqJ6q%%j6K4qj6Q%%%%q%%QqqQJ6qqqq%
+6150D632Q%%%%Qj6Qq%Qq%q%%%%%%%%qQj6K4j6%Qq%%%%Qq%%%qqJ6qqQq%%Qq%%qJ6j6%qJ6%%
+6144D600q%j6Q%QQ%k4QQqq%Q%%%j6J6q%qJ6q%q%Q%%%%q%q%%Q%%qq%Q%qJ6qqQq%j6K4%j6Q%
+6139D552j6QJ6j6%Qq%q%QQqq%%%%%%%%q%%%%%%%%%q%J6j6%%%%Qj6Q%%%q%%%%%%Qq%q%%Qq%
+6133D504q%%Qq%%%Qqj6J6qK4j6%%qqQ%%q%%Q%%q%q%%Qj6J6q%q%J6j6QqQ%%Qqq%Qq%%%%%%Q
+6127D472j6q%Q%%%Qqqq%QQqq%Q%Qq%%%%%%%q%%%q%J6j6qJ6q%%%q%QQqq%Qq%%Qq%%%q%%%%%
+6121D416q%QqJ6j6Qk4J6%qqQ%K4j6%q%%%%%%%%%%q%q%%Q%%%%q%%%qqQQ%%q%%%%%%%qQ%j6Q
+6115D368qJ6q%Qq%qQj6Q%%%qQ%Qj6%%qJ6j6J6q%qJ6j6QqqQ%%Q%q%%qQq%%qJ6j6J6q%%qQ%q
+6110D328%QqQq%%j6Q%%Qq%qJ6j6QqQqQq%Qj6QQq%q%Q%%q%Qqq%%QqqQ%%qQqQqQ%j6J6q%%%%
+6104D288qQq%%%%%%%%Qqq%%%Qq%q%%QqqL2l2qQQ%qJ6j6%q%%Q%qJ6j6Qq%qQq%%%Q%%%%QqQk4
+6098D232QqQJ6j6q%Q%%%%j6J6%%qq%Q%%%%q%%Qq%q%Q%j6K4j6q%Q%%%%%%q%Qj6%J6q%%%%%%
+6092D208Qqq%%q%%Q%qqQ%J6qqqJ6%qqqQQq%%%%%q%%q%Q%qQJ6l2qJ6QqQq%K4l2Qj6QqK4%%%
+6087D176j6QqJ6k4K4qj6Q%j6%L2k4J6j6qJ6%q%%j6J6j6Q%Qj6QQ%j6J6qqQ%%%j6J6j6%J6j6
+6082D128Qj6qK4q%Qk4M0k4QQj6qJ6qqQk4M0l2Q%%%j6%Q%qJ6qq%%Q%%q%J6ql2J6QJ6l2K4%%
+6077D112qj6K4k4QQj6%j6J6%%J6q%%q%J6%l2J6QqqJ6%qJ6k4%J6j6QqqQj6QQ%%m0L2qK4k4K4
+6073D088qqq%%%%%%%%%%%Q%j6J6%qq%Qj6j6L2qqQQqqQQqq%%q%QQq%%%%%q%%%q%%Q%%%%%%q
+6067D032%q%%Qj6K4j6%%Qk4K4q%q%%Qq%%Qq%%QqqJ6q%qJ6qq%%%%Qq%q%%Qq%%%%%%%%%%%%Q
+6061D008q%q%%%%Qj6J6j6Qj6%J6qQq%%%%%%q%%%%%%%%Qq%%%%%q%%%j6J6Qq%%%%%%%%q%%Qq
+6055C960q%Q%%k4J6QqQ%j6%qK4j6%QQq%q%%Q%%qq%%%%%Qqq%QQk4K4qj6Q%Qqq%Q%%%%%%%qQ
+6049C928j6%J6q%q%%QqqQQq%%%%%q%%%%%%%%Qqq%%%%QJ6qqqq%Q%qJ6j6Qj6QQq%%%%%%%q%%
+6044C880Qq%QQq%q%%Qq%%qJ6j6qJ6%%q%%%%%Qqq%Qq%%QqqJ6q%%%q%QqQqqQJ6qq%%%%%%%qQ
+6038C856j6Q%%Q%%q%%%q%QqQQj6qJ6Qj6%%QqQq%%j6%J6q%%%%%qJ6q%%%q%%Qq%%%qqJ6%%%q
+6032C816%qK4k4Q%%qJ6%qqJ6k4J6qQq%%J6j6q%%Qj6K4qj6QQQj6Q%j6Qq%%Qj6J6%%q%Qq%j6
+6027C776Q%Qq%%qJ6qq%Q%qQ%%q%%qQ%%Q%%j6%%Q%j6QQqqJ6j6Qj6QQq%%%J6j6%%%j6J6j6K4
+6021C768j6Q%%qQ%q%qJ6qqQqQ%qQ%q%%Qj6Qq%qJ6j6J6j6Q%Qq%q%%Qq%%Q%%q%%%%%%%%%q%%
+6016C720%%Qq%%%%Qq%%%%Qq%%%%%%%qqQQqq%Q%%%%q%%Q%%%%qqQQq%%Qqq%QqqQJ6qq%%%%%%
+6009C696Qj6%Qq%%%%%%QqqQQq%%Qj6qQQqq%Q%%%Qj6Qk4J6%QqJ6k4Q%%%%J6j6qQj6J6j6QQq
+6004C664qQQ%j6%QqQ%%%qqQQqq%Q%%q%%Q%%q%QQqq%%%%%%%%%%q%%Q%%q%%%%%q%%Qq%%%Q%j6
+5998C624J6qq%Q%%%%q%%%%%%%%%q%%%%%%Qj6J6q%%%%%%%%Qqq%%qJ6j6Qj6J6Qj6QqqJ6qQ%Q
+5992C616j6%qQq%QqQ%qQj6J6j6J6q%j6Q%Q%qQj6QQqqJ6q%%%qQj6Q%QqQ%qqJ6Qqqj6Q%qL2j6
+5987C576J6j6Qq%j6%K4qqqJ6j6qJ6%%qQ%%j6%J6q%qJ6j6Q%qQqQqQqqJ6%qqQ%q%Qj6Q%j6Q%
+5981C536%Q%Qj6Qq%QqQ%%%%%QQqq%%j6q%J6%qK4k4J6j6qK4j6%qJ6j6J6j6J6qqQ%%qqJ6qQq
+5976C520%q%qK4qj6J6q%QqQq%%%%%%%%qQq%%%Q%qQ%%j6J6%qq%J6j6Q%j6%J6%q%%Q%qqQ%qQ
+5971C496%Qj6%Q%%q%J6j6Qj6Q%%qQqQqQQj6%Q%j6Q%Q%k4QJ6q%qQ%q%Qj6%J6j6J6k4J6qQq%
+5966C464%q%J6%q%Qj6Q%qQqQ%%%qQ%%q%qQ%QqqqK4j6QqqK4j6%%Q%j6QJ6k4%J6%k4J6%q%J6
+5960C456qk4K4k4QQ%%QqqqQ%Qj6J6q%qQ%j6J6J6qqqJ6q%%%%qq%Qk4L2%J6n6QM8%m0J6K4k4
+5956C424k4QN6j6l2j6J6k4J6j6M0q%K4ql2%Qj6L2k4qM0k4l2M0m8J6QM0qk4k4%%%J6L2j6k4
+5952C392qJ6%j6j6P2m0QK4o4J6M8m0Qk4J6qqQ%%q%K4q%qQ%qQQk4q%K4j6%J6j6Q%%q%QQj6j6
+5947C360J6%Qj6J6j6Qq%%Qk4J6%%j6J6Qj6Q%QqqQQ%qQj6%%%%%Qq%%%q%J6j6Qq%q%Q%Qq%%%
+5942C352%%%QqqJ6qq%%%%Qq%j6J6QqqQ%%q%%%%%%%%Q%%qqK4k4Qq%J6qq%%%Qq%%%%%%Q%%q%
+5936C328%%%%%%%j6J6q%Q%%q%Qqj6K4j6%%%%%%%%Q%%%%qQj6QqQ%j6J6%q%%qQ%QJ6k4qJ6j6
+5931C296Q%qQq%Q%%qJ6j6%%J6j6%%Qj6Q%qQ%%%%q%Q%q%Qj6QQ%j6Q%%qQqQq%%%%qQqQ%%%%%
+5925C280%Qj6QqQq%%Qq%%%%%j6J6%%%%qQqQq%Qj6J6qqQq%Q%%%qQ%%q%Qqq%Q%j6J6qQq%Qq%
+5919C248%Qq%%%%Qqq%%%%%Q%%q%%%Qj6QqQqJ6%q%%Qq%q%%Qq%%Qq%%%%Q%%q%%j6J6q%Q%Qqq
+5913C224%Qq%%%%%q%QQ%%q%q%%%%Qq%%%%%%%%%%Qq%%%%%q%%Q%%q%%%%%q%%%%%%%q%%%%QQj6
+5906C192qL2k4%J6k4qJ6%%%Q%%q%qJ6Qk4Q%Qqq%J6q%qqJ6qQ%qQq%%%%%%%%q%QQq%%%%j6J6
+5901C184qQj6QqJ6j6QQqqJ6qq%%Q%Qk4J6q%%%%%%Qk4QQ%%%q%%Qq%%Q%%qq%Qq%%%%Qj6J6qQ
+5895C160q%%%q%QQj6QQj6%%%Q%%j6%J6q%Qq%%%%%%%q%%j6K4j6%Qq%QQq%%%%%%Qk4QQqQQq%
+5890C136qqQQq%q%%Qq%%Q%%q%%%%%j6K4j6Q%%q%j6L2l2J6%%qJ6J6k4Qqj6qL2QqJ6m0Q%QqJ6
+5884C120k4J6k4QK4k4J6k4QK4j6%Qj6%K4m0K4Qk4k4M8%q%QqqJ6j6j6J6j6QQ%Q%q%%qJ6q%%
+5880C096%%%%qj6L2j6QqQqQl2K4Qqj6K4j6qJ6%%%Qj6%Qj6qJ6%Qq%q%%Q%Q%%q%%j6J6j6%K4
+5875C088q%qQQl2K4%%j6%Q%qqL2l2J6%qQ%%%q%%%%%%%%%q%J6j6%QqQq%Q%q%qJ6%qj6J6%Qj6
+5870C048J6q%qq%K4qqQ%qqJ6%qQj6%%QqQQqq%qQqQ%%q%Q%%Qj6J6q%%%%%qQk4QQ%Qj6Q%Qj6
+5864C024%QQ%Qk4%%%%%Q%q%Qq%QqQ%j6%%QqQ%qQ%j6J6%%Qj6qQ%Qq%%qQ%q%J6j6Qqq%Q%Q%%
+5858C016qqJ6j6%QQQj6q%%%qQQj6Q%qQQj6Q%qQqJ6l2K4%qQ%qqJ6%%%j6Q%Qj6%Qq%J6j6%Q%
+5853B992Qj6j6J6QqQj6J6%qq%QqQQqj6QQq%QQj6%qQQq%qQqQ%Qj6J6q%%%QqqQqQqQq%QqQ%j6
+5847B960Q%%%%%%q%%Q%%%Qj6%J6qj6Q%%%%%%j6J6%%q%%Q%%qqQQq%%%Q%j6J6%qj6J6qQj6QQ
+5842B952q%Qq%%%%%%%%%%%%QqqQQqq%Qq%%Qq%%%%%%Qq%Qj6%Q%%%%%%j6J6Q%j6Q%j6QqQ%qQ
+5836B928%%%%%qJ6j6%Q%%%Qq%%%j6J6q%%%%%qqQQ%QqQk4Q%Q%%%%q%%%%Qq%q%QQqq%%%Q%%q
+5830B904%%Qq%%QqqQqJ6q%Qj6J6q%q%%%%%%Qq%%%%Qq%%%%%%%%Qqq%Q%%%%%%%%%%%%q%qJ6k4
+5824B872J6qQqQq%%Q%q%%%Qq%J6qj6J6q%Qj6J6j6QqqJ6j6J6%q%QqQj6QQ%j6Qj6K4qqJ6%q%
+5819B872qQ%%%q%Qj6Qq%J6q%%%%qJ6q%qQqQqQ%%q%J6q%%%j6Q%j6J6qQ%%%%qQqQ%%j6QQ%q%
+5813B848qK4j6%J6qqQ%j6%%Q%j6J6%%q%qQqJ6j6J6qQqQj6QQ%Qj6Qj6%J6j6qQQq%%%%%%%%%
+5808B832%%%%%%%%%%%%%%q%%Qq%%%%Q%%%qQj6J6j6K4qqq%QqqQQq%%%%Q%%q%%%%%q%%qJ6qQ
+5802B816qQ%qqQQ%%%%qqJ6q%Qq%%%%%%%q%Qj6J6%%%%%%j6QQqQqQQj6QqQq%Qq%qQ%%j6K4q%
+5796B800q%QqQ%q%%%qJ6q%qQq%J6q%%%qQQ%q%%%qQqJ6q%qQqqQ%%qQJ6j6QqQj6%Qj6QQ%qQj6
+5790B768J6%k4J6%Qq%Q%qQqqK4k4%Qq%%QqQqq%J6j6QJ6q%Qk4%%Qq%%J6qQqqJ6j6Q%%q%%Qj6
+5785B752J6Qq%qqJ6j6%%qJ6qJ6j6Qq%Q%%qJ6k4K4j6Qj6%J6j6QQq%%Qq%%%j6QQj6J6j6QJ6q
+5780B752%%Q%%q%qqQQq%%Q%%q%%%%%Qk4Q%%Qj6J6qqQJ6k4K4j6%%q%J6q%%%%%%%%Qk4Q%J6j6
+5774B728QqQk4J6%Q%%k4L2qqq%%%%%%Qq%K4k4%Q%%q%%%%%%QqqQQq%%QqqQQq%q%%%%%%Qq%Q
+5768B720Qqq%Qk4K4q%q%QQ%%j6qK4j6%%%%%%%%%Q%%q%QQq%qqq%K4k4%QQQq%q%%%%%%%qqQQ
+5763B696%%q%%Q%Qj6qj6K4%Q%Qj6Qk4%J6%q%QqqQQ%%Qj6Qj6QQ%QqqQqQQk4%J6k4K4j6q%J6
+5758B680%%%q%%Q%qQq%QqqQqJ6j6K4j6%J6j6%%j6J6j6J6qQq%%QqQj6%%Q%%j6J6%QqQj6QQq
+5752B664QqQqq%%J6j6%%QqqQQq%Qj6Q%%%q%J6qQ%j6Q%qJ6j6Q%qQ%q%%Qq%QqqQqJ6qqJ6j6Q
+5747B648Qj6%QqJ6qqJ6j6QqqK4j6%J6q%q%Q%qQj6J6q%QqqQqQQj6J6qqQj6K4qq%%Q%j6J6qq
+5742B624Qq%J6k4L2j6%Qq%%qQ%%j6QqJ6qJ6qqQqQ%q%%qJ6j6Q%%Q%j6Q%qQ%%q%%%%Q%Qj6Qq
+5736B616qQqJ6%k4J6J6j6q%%QQq%q%%Qq%%Qq%%%QQqq%Q%%q%J6qqqQJ6qq%Q%%qq%%%Qj6QQj6
+5731B592J6%qQj6%QQqq%QqQQj6J6j6Q%QqJ6k4Q%%%%k4K4qQq%Qq%%%q%QQq%q%%Q%%%%%%Qj6
+5725B584%Qq%%qK4k4QQqq%QqqQQ%%q%J6j6qJ6q%%%%%%%%qJ6qQ%qq%Q%%%%%Qqq%Q%%%%q%%Q
+5719B576qq%Q%Qq%%%%%qqQJ6qq%Q%%j6QJ6qj6J6j6J6%q%%%%q%QQq%Qj6%Q%%%%%%q%%%Q%j6
+5714B544K4qq%Qq%%Q%%q%%%%Qqq%Q%Qq%%%%Qqq%%%Q%%%%%%q%%%%%%Qqq%%QJ6qq%%%%J6qqq
+5707B536%Qj6L2k4Qj6J6q%J6qqJ6j6Qj6%QqQQq%%Q%j6J6qQ%%k4%K4qq%Q%%q%QJ6qqq%%%%q
+5702B520K4qq%q%%Q%%q%%%%QQqQqqQ%q%%%j6L2Qk4qJ6j6%QK4l2QJ6k4Qk4K4%qQ%%qqQ%L2j6
+5697B528j6K4j6q%Qk4QK4k4J6j6%K4j6K4j6%j6k4qK4j6M8m0QQJ6k4J6Qj6K4l2Q%Ql2M0k4%
+5693B496%%QK4l2K4q%qQk4QQj6QK4m0J6Qq%J6%j6q%J6j6q%K4l2J6L2%n6K4m0Q0o4M0Qqqm0
+5689B456L2%j6J6J6qqK4j6K4m0L2k4j6M8k4qk4L2k4%L2k4L2m0K4j6Qj6M0%%Qk4J6o4K4k4M0
+5685B488j6L2Qk4J6k4%qQQQj6qJ6qQj6%QQj6K4m8N6k4qK4Qj6%j6QqQQJ6k4l2M0j6Q%%qqJ6
+5681B480%qQqqqQL2j6j6j6K4qQJ6k4Qj6J6%qJ6q%%%j6K4Qk4Q%j6J6j6J6%qQ%q%%Q%%q%%qQ
+5676B464q%J6%q%qqJ6qQ%q%J6qj6QQj6J6%%qJ6q%%j6J6qQj6Q%qQ%%%%q%%q%J6%%%%q%%QqJ6
+5670B464q%qQj6%Qq%%Q%%%%%Qq%%%q%QqqQ%%qQQqQ%%%qQQj6%%%%%qJ6qqQqQqJ6q%qQ%q%Qj6
+5664B424J6Qj6q%Q%Qqq%Q%Qq%%Qq%%%%Qqq%Q%%q%%%%%%Q%j6J6qj6J6qQqQ%%q%%Q%Qqq%Q%%
+5658B424%%%%j6J6Qj6qJ6qqJ6qQq%Qqq%J6j6J6j6Q%%q%%Qq%q%QQq%%QqqQQq%%Qj6%J6j6%J6
+5653B416qJ6j6%%%%%%%%%QqqQq%Qj6J6q%%QQk4QQ%%q%%qQQ%qQqJ6k4%J6qQj6Q%q%J6qq%Q%
+5647B400%qQ%qQ%%j6%K4qj6J6q%QqQq%%Q%qqJ6qQk4J6Qj6%J6qj6QJ6qq%%QqJ6j6J6k4QJ6j6
+5643B384QqQqqQ%Qj6%J6q%%Qqj6QQ%qJ6j6%QqJ6j6QqQqQ%qQqQ%Qj6j6J6qJ6j6Q%j6QQ%%Qj6
+5637B368J6qq%QQj6Q%j6QqJ6j6J6%j6%%J6qQqQj6%Qq%%QQk4J6%%qQ%%q%QqJ6q%%qQqqQ%%Q
+5632B368qqQ%q%J6j6%J6j6Q%Q%%Qj6%qQqQ%%%qQQj6Q%%q%qQ%%QqQqq%J6%%%%%j6%J6j6J6%
+5626B360%qqQ%%%%q%%%%%Q%Qj6%Q%%qQj6J6j6QqQQ%%j6Q%Qq%qQ%qQq%QqJ6qqQq%%QqQj6J6
+5621B344qQ%qQj6QJ6j6qJ6j6Q%qQ%%%%%%%%qqQQq%%Qq%QQj6qQJ6qq%%q%%Q%%%%%%%%q%QQq
+5615B328%%%%qJ6j6QqQ%q%%%%%%%J6k4J6%qqJ6q%%%Q%%%%qqQQ%%qq%Qq%%%%%%%%Q%%j6qK4
+5609B320q%Qq%%%%%%%QqQj6Q%%q%Q%%q%%%%%%Q%j6J6qqQQqqQ%%%Qq%%qJ6qq%%Qq%%Qq%%%%
+5603B296%%%j6J6%%qQJ6l2K4qJ6k4QQqq%Q%%%Qqq%%QQq%q%%Q%%qq%QqJ6Qj6%QqqQQ%%%%qq
+5597B280%%J6q%qQ%j6QJ6%j6Q%k4K4%Qq%%qqQQq%%Qq%%%%Q%%q%q%QQj6qJ6j6J6qQ%%%q%%%
+5592B272Q%Qj6Q%%j6%Q%%%%%%%Qq%%qQj6K4Qk4QqQj6J6%Qqq%qJ6j6%Q%qQj6K4%qQ%j6Q%qQ
+5587B264J6k4J6%j6QqQqQ%q%%%%%%QQq%q%QJ6k4qJ6j6QqJ6%qJ6j6%%%%Q%Qqj6K4k4J6qQ%q
+5582B256qJ6qQq%%q%%Q%Qqq%Q%%%%%%%%q%%%QQqq%%%QqJ6k4Qq%QQq%%QqqQQq%%qQj6Q%Qq%
+5575B240q%J6qqQQqq%Q%QqqJ6qqQ%Qq%%%q%QQq%q%%%%%%Q%%q%%Qq%%%%%%%%Qqq%Q%%q%%Q%
+5569B232%q%QQq%q%QQj6qQQq%%Q%%q%%%QQl2K4q%%%Qj6J6j6qJ6Qq%%%Qq%%%%%j6J6%%%%%Q
+5564B232k4K4qq%%%QQj6%%%QQQl2Qj6qJ6J6q%%Qqq%QqqQJ6k4%K4qQqqQq%%Qq%q%QQq%%%%%
+5558B208%%%Q%%q%%Qq%%%%Qqq%Q%%%%q%%Q%%%%%%%%q%%Qq%%%QQqq%%q%%%%Qq%%Q%%%%qqJ6
+5552B200q%%%Qq%%Qq%%%%%%Q%%%qQk4QQ%%%%%%Qj6QqJ6%q%%%%%q%%%%QqQQj6Qqq%K4j6J6j6
+5546B184%%J6j6%Qq%%j6J6qJ6j6J6j6%%%Q%Q%%q%%Qq%%%%Qq%%Qj6q%Q%Q%%%%%qJ6qqQqqQq
+5540B168J6j6QqJ6q%%%QqQk4QQ%%J6j6%%%q%QQ%%qqJ6j6Q%qQj6Q%%QQq%q%%Q%Qq%qQj6J6q
+5535B168%%%q%J6q%%%%%%%%QQqq%qQj6J6Qqq%Q%%q%%%%%Qj6J6Qk4Q%%%Qj6J6q%%%%qQ%%qQ
+5529B160Qj6J6j6QQq%j6J6%%qQQj6QqJ6j6Q%qQqQqQj6J6qqQqJ6qqQqQ%%qJ6qj6K4j6J6qQq
+5524B152qQqQqQqQ%%q%%%J6k4QQq%qQ%%%qQ%%qJ6j6%%J6q%Qj6J6j6Qq%J6j6Q%%qQ%%%q%Qj6
+5519B128J6%q%Q%q%j6J6%%%Qq%qQ%%qQqQqJ6qQq%%q%QqQqQqqQQq%qJ6%%q%QqqQ%%QqQ%q%%
+5513B128%qQ%%%%qQ%qQ%q%qK4j6Q%q%qJ6qQqQ%qQq%qQQq%%%qQ%%%qJ6k4QqJ6Qj6qJ6q%%%Q
+5507B120J6j6qQj6QQ%qQq%%J6j6%Qj6J6%qqJ6qqQQj6J6q%qQj6%K4%Q%%qq%%%%%%q%J6qk4L2
+5502B120qqQQ%%j6QJ6qqj6QQ%%%%q%%%QQ%qQk4qJ6M0%k4q%Qk4QK4k4Qq%m0O4%%qj6q%%%Qj6
+5497B088qL2%k4K4Qk4QqqK4m8M8Qm0J6Ql2M0%m0M0QqQk4qJ6%j6M8m8qK4QQn6L2%k4L2k4J6
+5492B096Qk4M8o4O4n6QL2k4n6R6m8K4o4K4qM8l2%M8j6j6k4J6J6m0M8l2J6qJ6l2L2m0M8l2J6
+5489B088L2m8J6qJ6k4K4j6Ql2M8j6k4QJ6QQj6%%k4QJ6Qk4K4k4Q%K4l2%J6Qqq%j6M8k4l2J6
+5485B072L2j6j6q%QJ6j6Qj6L2k4QqJ6Qq%j6J6q%qQQj6qQQ%%Qj6%%q%QJ6q%q%Q%j6J6q%QqJ6
+5480B088j6Qj6J6qqQJ6q%j6Q%Qq%qQQ%%Qj6%j6J6%%%%%%%Qj6%J6q%%%%%%%q%%Qq%%Q%%%%q
+5474B064%%Qq%Qj6J6%qQqQq%%%%%%%J6j6%%QQk4J6%%q%%%%%q%%Q%%%qQj6J6%%qQq%J6q%%Q
+5469B072j6qQQq%%QqqJ6j6QqQQ%j6J6j6Q%%%%Qq%q%QQj6QQj6Qq%J6j6Qq%%Qq%%%%Qq%%Qq%
+5463B048%%%Qj6K4k4%QqQq%J6j6%Q%Q%q%%%%%q%QQqq%Qq%%%%%%%%Qq%%Qq%%Q%%q%%%%%%%Q
+5457B048j6Qq%Q%Qq%q%%Qq%%%%%%Q%%%Qq%%%%j6J6q%%%%%%%%%%%Qqq%Q%%%%%%%%%%%%qQJ6
+5451B048j6q%QQq%%%q%%%%Qq%%%%Q%%%Qj6%J6k4Q%Q%q%%%%Q%%%qJ6j6%Q%Qj6qJ6qQq%%%Qq
+5445B024%%QQj6%%q%%Q%%%%%%%%%Qk4J6qqJ6qQQq%qqJ6J6qqq%%Qq%%%q%J6qj6K4Qj6qQQj6
+5440B008Q%q%%Q%%%%%qJ6q%%%%%%%%%%%%%%j6QQj6QQq%%%q%QQq%%QqqQQq%%%%%%%%%%%%%%
+5434B008%%%qq%Q%Qq%%Q%j6J6q%Qq%%QqqQQq%%%%QqQqq%%Qq%J6%q%%%%qK4j6Qq%%%qQq%J6
+5428B008j6J6q%%%q%%Q%%%%q%QqQqJ6qQj6%%%%QQj6QqQqQq%J6j6%Qj6QQ%q%Q%qqK4q%qQj6
+5422A984QqQ%qQ%%q%%Q%%qQqQqQ%qJ6q%j6J6%%qQ%j6J6%q%Qj6QQq%%J6j6qQ%%%Qq%qJ6qQ%
+5417A992q%%%q%%Qq%QqQj6Q%%%QqQq%%J6j6qQQq%%qQ%Q%j6QQqQq%Qj6Q%%%%qQ%qQ%q%%QqQ
+5411A976%qQqQj6J6%qQ%%%%j6J6%q%qQ%%qQQqQj6Q%%%%%j6J6qQ%%%%%%%%%%%%%%%%q%%Q%j6
+5405A952J6qQq%%%Qq%%%%%J6j6%J6qq%Qq%%%%%%%%%%%%%%%QQj6%Qj6%Q%Q%%qqQQqq%Q%%qq
+5399A944QQ%%q%%Q%Qq%q%q%%%J6qQqq%%Q%%%%q%%%%Qq%%Q%Qq%q%%%QqK4j6j6%%K4j6QQ%q%
+5393A952%k4J6J6k4Q%k4L2j6J6qQj6%Qq%QQq%%%%Qq%%%%Qqq%Qq%QqQj6J6Qqj6QqQqQQq%%%
+5388A936%%%Q%%%qQk4QJ6%Qj6%Qj6Q%Q%%j6Q%j6J6qQ%q%Q%%%%%qJ6j6qJ6qJ6j6%Qj6Q%Q%q
+5382A928qQQqQj6J6%qQq%J6j6J6qqQqj6J6Q%j6%QQq%%%%%%%%Q%%qqQQq%%%%qJ6j6qJ6%q%%
+5377A920%%Qj6J6%%q%%%Q%%q%%%QQq%q%%%%%%%%%%%q%QQq%q%%Qq%QQqq%Qj6J6%q%Qq%%QQj6
+5371A912%%%qJ6Qk4Q%%QqQj6J6q%qQ%qJ6%%q%Q%q%qQqQ%q%J6q%Qq%J6k4Q%qQ%qQqJ6%qQj6
+5365A904J6j6Q%%qQQj6QqQ%qQQj6%%qQ%%qJ6%Qj6J6q%q%QqqQ%%Qq%%%Q%qQqqQ%%j6K4qqQQ
+5360A912j6J6q%Qq%q%QqQ%%%%qQ%%q%qQ%Qj6QQ%%%q%%%%%Qq%%qQQ%q%%q%QQqj6J6qQqQ%qQ
+5354A896%%%qQ%%%%q%QQq%%q%Qq%QqQ%k4K4qQj6QQ%j6J6j6J6%%%j6QQqQ%q%q%QqQ%q%J6q%
+5348A888%%%%QqqJ6q%qJ6%k4%J6qQ%%%q%Q%J6j6qQqq%%QQ%%Qk4J6qK4j6j6J6%%%%%%%Qqq%
+5343A880%%Qq%Q%Qk4QQ%%q%%%%Q%%q%%Q%%%Qqq%%%%%%%Qq%%%%%QQq%%%q%%Qqq%Q%Q%%q%%%
+5336A880%%%Qq%%Qq%%%%%%%%%%%q%%%K4qq%%%%Qq%%%%%%Qqq%Q%%%%%%%%qqQQq%%%%%%%%%q
+5330A864%%%%Q%Qj6J6%q%%%Qq%%%%%q%%%%Q%Q%%qj6J6qQqQq%%%%%%%Q%%%%%%qq%%%Q%%%Qq
+5324A864q%Q%%%Qq%%%q%QQq%q%%Q%%q%%%%Q%%%%%%%%%QqqQQqq%Qq%%%%%%%%%%%%Q%%%%qq%
+5317A848%QQq%QQj6j6QQ%qQj6QQQqQj6%%%Q%Qq%%%q%%Qq%%%%%%%%%Qj6QQ%%qq%%K4k4Q%%%
+5312A848%%qJ6j6J6q%%%%%%%%%%%%%%qJ6j6Qj6J6%%%%%%QqqQQ%%q%q%%%J6j6Qj6QQ%Qqj6J6
+5306A848j6Q%%Q%%J6l2J6j6K4%q%%%q%%Qq%J6qj6qK4J6%k4%QqqJ6%l2J6%qJ6J6j6q%Q%%qq
+5301A824QJ6%%k4J6Qj6qL2j6k4Q%QQqqK4qqQk4L2j6J6%j6qJ6qQj6%%%J6j6%Q%%Ql2K4%Q%%
+5297A840%j6J6%qqQj6%%%QJ6j6QQj6qJ6%k4K4%%%qqQ%J6j6J6j6qJ6Qj6j6J6%Q%%q%qqK4q%
+5292A824%K4m8K4qQj6J6qQj6K4QqqQqJ6qj6Qq%%Q%%%Qq%%Qq%q%QQqq%Q%Q%%qq%Q%%q%%%%%
+5286A816%Q%Qq%%qJ6qqJ6%qQj6%J6%j6%Q%%%%q%QqQq%Q%%QqqQqQq%Qj6QqQQQk4J6q%Qq%Qj6
+5280A808Q%qQ%Q%qQqqJ6%qq%J6q%%%%Qq%%Q%q%%qJ6q%%Q%q%Qq%Qj6J6j6QQqq%Q%%%%qqQQj6
+5275A800QJ6q%qqJ6Qq%%q%%QQqq%Q%Qqj6J6q%%Qj6J6q%qQQq%%QqqQQqqQQqq%Q%%Qj6%Q%%q
+5269A800%%%%Q%%q%%%%Qq%%%%qJ6q%Q%qK4l2Q%qQQqQqQq%QqqJ6q%q%J6j6Q%q%Qj6J6%j6K4
+5263A808j6%J6j6Qq%Qj6J6j6J6%%qQqqQQ%q%%%%%%Qq%%%QQqqqK4j6qJ6k4J6qJ6qQq%%%%%%
+5258A792%%Qqj6K4%q%qQ%%Qq%%%qqQQ%%%%%%q%QQq%q%QqJ6k4J6%%qQ%%%q%Qj6Q%%Q%%q%%%
+5252A784%Q%%q%%Q%%%%q%%Q%%q%%%%QQj6Q%j6%J6QqqQ%qqQ%Q%j6K4l2J6J6k4QQq%qqK4%%%
+5247A792k4J6qJ6qQ%j6QqQ%qQQ%q%%qJ6qq%%%QqQ%%qQ%qQ%q%Q%q%qQQj6Q%Qq%J6qqQq%%qJ6
+5241A784q%qJ6qj6Q%QqQqQ%%%%qJ6q%qQ%q%Qq%QqQqQqQ%qQQ%j6q%Q%QqqQQ%%q%Q%k4K4j6Q
+5235A768qQJ6k4Q%%%%%%Qq%%%%%q%%Q%Qq%%%%%q%%%K4k4QqQq%Q%%%%%%%%q%%Q%%%%%%%%%Q
+5229A776qq%%%Qq%%%%J6k4K4j6Q%%%%%%q%%Q%%%Qq%%%%%q%%%%%%Qq%%Qq%%%%%%%%%%Q%%%Q
+5223A776j6qQQ%%q%QqqK4j6%Q%q%%Qq%%Qq%%%%%%Qq%%%%%q%%%%Q%%q%%Q%%%%%j6J6qQ%qQq
+5217A752QqqQQ%%q%%%QQqq%Q%%q%%Qq%QqQj6J6%qQqqQQqq%%%Q%Qj6QqQq%%%%Q%j6J6%q%qQ
+5211A744Q%%q%%qJ6qqQ%qJ6q%%%%QqQq%%qJ6q%Q%%qQj6qJ6%q%%qQ%QqQqqQQ%qQq%%%%J6j6
+5205A736%%QqQ%j6QQq%%qqQQ%%Qj6J6%%qJ6k4QQqqqL2k4J6qqQQ%qqJ6q%%qqL2j6%%%J6j6J6
+5200A752qj6%QQj6Qj6L2j6qK4j6%QqJ6%j6QQk4QQqQ%k4J6qJ6%%qqQ%q%Q%qJ6%j6J6%qQq%J6
+5195A752j6qQ%%q%Q%j6J6qQ%j6J6%qQQ%j6J6qQqqQqQ%Qqj6Q%Q%%Qj6%%%%Q%%Qj6qQ%%J6qq
+5189A728QqQq%%%%q%Q%%QqQ%k4QQ%%%%%qJ6q%Qq%J6l2K4qQq%q%%%J6q%Qq%%q%QQqQj6%Q%%
+5183A728%q%Qq%Q%%%%j6qJ6QqQ%qqQqJ6%Qk4J6%q%J6j6Q%q%%Q%%q%qQqQJ6j6J6j6%Qj6%QQ
+5178A728qqQ%%%%QQj6qQqQqQQqQQl2QJ6qQ%j6Qq%J6q%k4K4qq%L2k4K4qqj6%QQ%q%Qq%Q%qq
+5173A704Q%J6j6Qj6J6k4QK4j6k4M0j6%%%QQq%qJ6%k4%QqJ6j6Qj6J6Q%%j6QQQj6j6QQj6K4j6
+5168A704QqQq%J6q%Qj6J6j6J6j6%QQq%J6j6%%J6j6q%Qq%QqQ%%%j6J6%%%Qj6Q%q%Q%qQQq%q
+5163A704Qq%QqQq%%%QqJ6j6Q%%q%%%%Qj6K4j6%Q%q%Qq%qJ6q%%%qQ%Q%q%qQQqJ6j6Qq%%qQQ
+5157A712q%Qq%%qQ%Qqq%J6q%%qQqQ%qJ6j6Qj6QQ%j6J6%Qqq%%%QqQ%qQq%J6j6qJ6%%%qQq%%
+5152A696qQ%q%J6%Qj6qK4j6J6j6QqQq%%J6j6Q%%qQ%q%qQ%qJ6k4K4q%%qQ%qQQ%qQq%qQ%%%%
+5146A696%Q%q%Qqj6QQQq%%%q%%%Qq%J6qj6J6%%%%%%q%%QqQq%Qqj6J6%Q%qqQ%Q%qQqQ%qQq%
+5140A688Q%%%j6J6%qQqQqq%QJ6j6%%%%%%%Qq%%%QQqq%Q%%%%q%%J6k4QqQQqqQq%%Q%Q%%q%Q
+5134A696Qq%%%q%%%%%%Q%%q%Qj6Qq%%%Q%%%%%%%%q%%Q%%%Qqj6J6qQ%%qQq%qQ%qQqJ6%%%%q
+5128A680%%%%Qq%%%QqJ6q%j6J6%%qQj6QJ6j6%qQ%%%%Qq%Qj6Q%%QqqQQq%%qJ6j6%QqJ6q%qQ
+5123A680%Qj6%%Q%%Qqj6K4q%j6J6qQ%%j6J6%q%K4k4%%Q%%%%q%%Q%q%Q%Qj6Q%%j6J6qJ6k4J6
+5118A680q%qQ%%Q%%q%J6k4Q%J6j6%%QqQ%q%%%Qq%%qQQqQ%%qQqQq%q%Q%qQqJ6%%j6QQj6Q%%
+5112A672%q%J6qqQq%%%QqQj6K4j6%%%J6qq%%%qJ6j6J6%%J6j6qJ6k4J6Qj6%%%j6J6%%J6j6%
+5107A664%%q%J6qQk4J6Qj6K4qQk4%q%qM0qj6Q%Qq%J6k4Q%%%Qj6QQqj6J6qJ6k4J6q%Qqj6K4
+5102A664J6qJ6l2QQk4Q%K4Qj6q%j6J6Qj6k4L2qQ%%j6J6q%%QqQQk4QJ6q%j6%K4%k4J6j6Qj6
+5098A640K4%qQQk4Q%Q%%j6QK4k4qQQq%q%qJ6J6q%q%%%%Qk4%J6q%j6K4J6k4j6L2%qj6qJ6Qq
+5093A648QqQqQ%%Qqj6K4k4QQq%%Qq%QQqq%%%%%Qk4J6QqQj6J6%Qj6%J6qq%Q%j6Q%J6j6Q%J6
+5088A672j6%%%%qQ%qQj6J6q%Q%j6J6j6J6qQj6J6j6QQqQ%j6Q%J6qqQ%j6%%Q%%Qq%%%%Q%qQq
+5082A648q%QQqQqQ%q%qQ%%Qj6%J6qQqqQQqQqQq%qQq%J6j6QQq%%J6k4Q%%%%qQ%Q%q%Q%j6QQ
+5077A656qJ6k4%Q%%%qJ6j6J6q%%QqqQ%qqJ6Qq%%QqQj6J6j6J6j6%Q%%qQ%qQQqq%%Q%q%QJ6q
+5071A656qqqJ6%%qQqQqQ%qJ6j6%Qq%%QQj6%%%%%qK4qqQ%qQqQ%qQq%qQqQ%q%QqQqJ6j6Q%qQ
+5065A640qQQqq%Q%qQJ6k4%Q%%%%Qq%qQqQq%QqQqJ6j6J6%%j6%Qq%QQk4QQq%%qJ6qQqQqqQQq
+5060A632%%%%Q%%%%j6J6qQqQj6%QQj6J6q%Q%qQq%%Q%qQqQj6QQq%%QqQ%%qj6QQQj6J6%j6J6
+5054A640j6J6j6J6%q%%%q%%Q%Qq%qJ6Qk4%Q%%q%J6q%%%%%%%j6L2k4%%%Q%%Qj6%QQqQj6%qJ6
+5049A632q%%%Q%%qqQQqQQk4Q%Q%j6%Q%Q%%qQqQq%qQqJ6q%%%Qq%%%%Qq%%Qq%%Qq%%%%%%%%%
+5043A624%Q%Qj6qQQqqQQq%%%q%%Q%%%%%QqqJ6q%%%%%%%%%Qq%%%%qqK4j6QqQqQj6QQ%%q%%%
+5037A616%%Q%%q%%Q%%q%%Q%%%qQj6QQj6K4j6QqqQQj6J6qQ%q%%%%%%%QqQj6K4k4J6qQ%%j6K4
+5031A632j6%q%QQ%%q%%Qq%j6K4%q%%%Qq%q%%Q%QQqj6J6j6Q%Qj6J6j6J6q%%Q%%%%qqQQ%%qq
+5026A608%QQQqq%%%qJ6q%J6k4QQq%Q%%q%%%%QQj6%qQ%%%%%%%q%%Q%%%%%Q%%q%%%%%%Q%qj6
+5020A600K4j6%%J6j6QqQq%J6q%%q%%Q%%q%%%%Q%qJ6j6%Qq%QqQqQ%qJ6j6qJ6q%Q%%qQq%Q%q
+5014A608%%%%qQJ6j6QqQ%q%%%Q%qQq%%QQl2J6Qq%qQ%%%%j6J6qQQqqQQ%%qq%Q%qQ%%Qk4QJ6
+5008A616j6Qj6J6%qqQJ6qQj6J6q%Q%j6qK4j6%QqQQ%q%q%Q%q%K4k4%Qq%%%%%%%%Qq%Q%j6K4
+5003A616j6qK4%%qj6QQ%%%%Qq%q%%%%%%%q%QqJ6j6Q%QqJ6k4QQq%q%QQq%%%%%q%QQk4J6%%%
+4998A600%%QqqJ6j6%Q%%%Qqq%%QQ%%q%%%QQqqq%%Q%qJ6j6%Q%%q%%QqqQJ6q%%%%%q%QQq%q%
+4992A592QQ%%q%%%%%%%q%%%%%%Q%%%%q%%Qq%%Qq%%Q%%q%qQJ6qqQqqQQ%Qq%qqQQ%%j6J6%q%
+4985A592Qq%QQqq%Q%Qqq%%%%%%%%%Qq%%%%%%Qq%q%QQ%%q%%Qq%%%%QqqJ6J6j6q%Q%%qq%Q%%
+4979A592%%QqQj6%Q%%q%QQqq%QqqJ6j6QQ%%%%%%q%QQqqQQ%%q%q%QQqqJ6j6%%%Qq%%QqqQQ%
+4973A592Qqq%Qq%qJ6Qj6Qq%%%%%%QQq%QqQj6q%QQ%%q%%Q%%q%QQqq%Qq%%%%Qq%%%%%%%%Q%%
+4967A592qqQQ%%q%%Qq%%%%%%Qq%QqQj6J6q%Qq%%%%Q%%%%%%%%%%%%qqQJ6q%q%%%%%%Qq%%%%
+4961A584%%Qq%%%%%%Qq%q%QQqq%Q%qJ6qqQ%%Qj6Q%qQQq%%%Q%%q%qqQQ%%%%%%%QQqj6J6%j6
+4955A576QqQJ6qqq%J6qqJ6j6%Qq%%%Q%%%%%%q%%QJ6k4QqQj6J6%%%%%%%%%qq%Q%Q%%qq%%%Q
+4949A576%%%Qj6qQJ6q%%%%%%%%Qqq%%J6j6QqQQqqQQq%q%%Q%%%QqqQQqq%Qq%%Q%%%%%%%%%%
+4943A576q%%Qq%%Q%%%Qq%q%%Qq%%%%Q%%q%%%%%%%%Q%%q%%Q%%q%Qj6%J6%qqQ%Qq%%%%%%Qqq
+4937A560QQqQj6J6q%%%%QqQj6J6%j6QqJ6j6J6qQj6Q%%J6k4%Q%%%%%q%%Q%%%%%Qq%q%%Q%qQ
+4931A568%Qj6Q%qQ%%QqqQQq%%%%%%%qQqQqQ%QqqJ6qq%%%J6q%%qJ6j6%%Qq%%J6qQqq%Qq%%J6
+4925A576j6QqQq%qQ%%%%%%%Qq%QqK4j6j6%%K4j6%QQj6J6qq%qJ6q%%qQQ%Qj6QQk4J6%j6J6Q
+4920A576%j6q%J6%q%%%Q%%q%K4j6Qqj6J6q%%%QQqqj6QJ6q%%%Qj6J6Qj6qL2l2%QQqqQQ%Qj6
+4915A560qQJ6k4QQ%%q%qj6J6QQj6%K4j6Q%qJ6j6%qK4l2Q%J6qJ6%J6l2q%%J6q%qL2%j6q%%%
+4910A560%k4L2%Q%k4J6ql2L2j6L2%qk4QJ6%j6j6QK4J6k4q%J6j6%j6L2J6l2%J6%QqQk4Q%%K4
+4906A584k4qQK4l2%qK4qj6Qj6K4qqQK4j6J6k4%qM0k4%%qK4j6%j6J6Qqq%QQq%%Qq%%Q%Qk4j6
+4901A536QQ%J6Ql2QJ6qqQJ6m0K4Qj6j6K4%Qj6J6q%qqK4j6QqJ6qQk4qL2l2QJ6qqJ6q%Q%Qj6
+4897A552%qQQq%QQq%q%%%%%%Q%Qqq%%Qj6Q%J6j6QQl2J6Qq%Qq%%%Q%J6l2K4j6qQ%Qq%%%%%%
+4891A552qJ6j6K4j6%%Qj6Q%%%%Qq%%%%%%%%Qq%%%%%QQqq%Qq%q%q%QJ6%%%%%j6J6qqJ6j6QQ
+4885A560j6Q%%%qQQj6J6qQqqqQQqJ6j6J6j6Q%%q%%Qq%q%QQ%%q%%Q%Q%%qq%%%%%Q%%%%qq%Q
+4880A544%Q%%qqJ6Qj6J6q%%%%%q%%%%%%QqqQQ%%q%%Qj6J6%%q%%%%Qq%J6j6%%%Q%Qqq%%%%%
+4874A544Q%%q%%%%%%%%Q%%q%QQqq%%q%QQj6QQj6%Q%%%%%Qq%%Qq%%%%%%Qq%%Qq%%%%%%%%Qq
+4867A544%q%QJ6q%%%q%%Qq%%Q%%q%%%%%%%%%%%%%%Q%%%%%Qqq%Qq%%%%%q%%Q%Qq%J6k4QQqq
+4861A536QQq%%%%Qj6L2j6q%Qq%%%%Qq%%Qqq%Qq%%%J6q%%%%%%qJ6j6J6q%%%%Qqq%%QQq%%%q
+4855A536%%Qq%%Qq%%%%%Q%j6J6q%%%%Qq%%%%Q%%%j6J6q%%%QqqJ6j6Q%Q%j6Q%Qj6J6qqQQq%
+4850A536%%%%%%%Qq%%Qq%%%%%%%%%%Qq%%%%Qqq%Q%%%%%%qQQq%%%qQ%%Qq%%QqQqqJ6%j6QqQ
+4844A536%%%qQq%Q%%qJ6j6QqJ6q%%%%%%%%%qQqJ6j6Q%%%%%%%%%%%%%%qQ%%%%%%qQ%%%Qj6Q
+4838A536qQqQqQ%q%J6j6QqQqQqJ6j6Q%%%qQqQ%%%j6J6j6K4qqJ6q%%%%q%%%%%%Q%%%%q%%%Q
+4832A536Qq%q%%Qq%%%J6qQq%%qqQQ%%%%%j6K4j6%%%%%%%%QQq%q%QQ%%qq%%%%%Q%Qqq%Q%qJ6
+4826A544j6%%%%%Q%%q%QQq%%%q%%Qj6J6%%q%%Qq%%Qq%%%%%%%%QQq%q%%%qQ%qQ%Q%qQq%qQ%
+4820A528%Qq%%%%Qq%Qq%qJ6%j6QQq%qQ%%qQ%qQ%Qq%%%%%%qQq%Q%%qQ%qQqQ%%Qj6Qj6QQj6Q
+4814A520J6q%qqJ6q%qJ6Qj6QqJ6k4J6qJ6j6%K4%j6k4K4qQ%qQqK4j6%Qj6%J6j6%J6j6%Q%%%
+4809A528%q%qQJ6q%j6%Q%%%qJ6qJ6k4Q%%Qq%%Q%%q%q%QQq%%%Qj6Q%%Q%%q%%Qq%%%QqJ6l2J6
+4803A520QqJ6qj6Q%qQQQqqQj6%%%Q%Qqq%QQqQj6QQqqQJ6q%%%j6J6q%%%q%%Q%Q%%q%%%q%J6
+4798A528qJ6j6%Qj6Q%J6q%qQj6J6Qj6%%qJ6j6%J6%q%Qq%%%%%QqQq%Q%q%Q%j6%Qq%Q%Qqj6J6
+4792A520Qqq%Q%qQqJ6%qQq%%J6j6%%Q%qQq%%Q%qqJ6qqQ%%%%Qj6K4j6%%Qj6J6q%qJ6q%%%q%
+4787A512%Q%q%J6qj6QJ6j6J6j6Qq%Q%QqQJ6qj6qQ%qL2l2QqQqJ6qqqL2qqqqQQ%Qqj6K4j6Qq
+4782A512QQQj6QQj6J6qk4J6Qq%%%%%%Q%%%qQk4J6%%%%Q%%%%q%%%%%qQj6K4j6%J6%%qJ6qj6
+4776A512Q%%%%%%Qj6J6%q%%%%%%Q%%j6J6j6Q%%QQqq%%%%%Qq%%%%%%%%%%%%%%%%Qq%%%%Qq%
+4770A520%%q%QQ%%%%q%%%%Q%%q%%%%Qq%J6j6%Q%%q%%Q%Qj6q%Qq%J6q%Q%%q%%%%Qq%%%%%J6
+4764A536j6qK4qqQqQj6%Q%j6J6j6J6%Q%qj6J6q%QqQQj6%J6%q%%Qj6J6q%Qq%q%%%QJ6q%q%q
+4759A512%%K4l2J6j6QK4k4%Q%%%%%%%J6l2K4qq%%QQqq%Qq%%%%Q%%%%%%%%q%%%%%%%%%%%%Q
+4754A520%%%%qqQQq%%%%%%Q%%qq%%QJ6j6q%Q%%%Qqq%%%%%Q%%%%%%%%%Qqq%Q%%%Q%%q%%Q%%
+4747A520q%%Qq%%%%Qq%%%%Qq%q%QQq%%QqqQQq%%Q%%qqQQj6J6q%%%%%%%q%%Qq%QQq%q%%Q%Q
+4741A520q%%%%%%%%Qqq%QQj6Qj6QJ6q%%%%%%%%%%%%%%%%%%%%%%%%%%qJ6j6QQq%%Qqq%%%qK4
+4735A520%%%qqQQq%q%%Q%%%Qq%%Qqq%%%%%%%%QQq%Qqj6J6%q%%%%QQq%Qk4Q%%%%%%Qq%%%QQ
+4729A520qq%Qq%%%QQj6q%QQQq%q%%Qq%%qJ6qQq%%%%%%%Q%qQj6J6%j6J6%q%q%QqJ6J6k4QqJ6
+4723A520k4K4%j6J6qqQq%J6q%qQQqk4K4j6Q%%QqqJ6%Ql2K4Qk4Q%Qj6J6qQ%%J6k4%j6J6Qj6
+4719A496J6q%Qj6qK4%%qj6K4j6%%%K4k4QQQj6k4L2Qj6Q%j6K4q%j6J6qQql2M8k4QJ6Qqm8M0
+4714A512q%j6J6%K4qj6J6qqQk4Qj6K4K4l2%Q%%q%%J6%qQQm0L2L2q0M0k4L2qM8k4j6Qm0QK4
+4710A512%l2K4qJ6q%J6qQQk4j6J6%%%K4k4%J6Ql2%J6%q%%qL2l2J6q%QqqK4qj6J6Qj6QQQqk4
+4705A496J6%Qq%qj6J6%%Q%%qqJ6Qk4Q%J6j6%Qk4J6%qqM0k4K4l2K4qq%%qK4j6qQQj6K4j6%Q
+4701A512Q%j6J6qj6J6qqQJ6j6QQk4QQj6qJ6J6k4Q%Qq%%%%Qj6J6q%%%%Q%QqqQQq%q%q%J6k4
+4696A488QqQJ6qqJ6j6J6%j6K4j6j6L2q%q%%Qj6QQ%%qq%Q%Qq%%Qq%%%%%%Q%%q%%Q%%%%q%%%
+4690A504%%%Qq%%Q%%q%%%Q%j6J6q%%%%Qq%QQq%q%%%%Q%%q%%Q%%q%QQqq%%%j6K4j6Q%q%j6Q
+4684A488L2j6%%%%%%%%%%%%q%QqK4j6%%%%q%%%%Q%%%%q%QQq%%%%%Qqj6L2l2J6J6k4%Qq%%%
+4679A496%Qq%%Qq%%%QQq%%Qqq%Qq%%%%%QQqq%Q%%%%q%%QqqQQ%%%QqqQQq%q%%Qq%%Qq%%Q%%
+4672A504q%QQ%j6J6q%Qq%q%%Q%%%qJ6q%%%%QqQj6Q%%qJ6qQj6%J6q%%Qq%%Qq%%Qqq%Qq%J6q
+4666A504J6j6Qq%%%qJ6j6%Q%%Qj6K4k4QQQj6q%J6q%Q%j6J6qQ%q%%%%Qqq%QQQj6q%%QJ6q%q
+4661A504%%%%%%%%%%Q%%%%%%qq%Q%%%%%%%Q%%%%qq%%%Q%%q%QQ%%q%%%%%%%%%%QqQj6K4j6%
+4655A504%%j6J6%%%%%%%Qq%Qj6Qj6J6%qQq%%Qq%%Q%%q%%%%Qq%QQqq%Q%%q%%Q%%%%q%qJ6j6
+4649A488J6q%%Qq%QQqq%%%%%%%%%%%Q%Qq%qqQQj6J6%%%%%%%%%%%%q%%%%QqQj6J6qQqQQqq%
+4643A496%Q%%%%q%%QqQQj6J6j6%%QQq%%QqqQQq%%%%%%%%%j6K4j6QqQQ%j6QQk4J6%%%%Qq%%
+4637A504%%%%Qq%%%q%QQqq%Q%%%QqqJ6qqQ%Qq%%Qq%%QqqJ6qqQqJ6j6J6qQq%%%%Q%qj6J6%%
+4632A504%%%%%%%Qq%%%%%%%%%%QqqQQ%%q%%%%%%%%Qq%%Qqq%Q%%qQQj6%Q%Qq%%%q%%%%%QQq
+4625A504%%%%%q%%Qq%%%J6qqQQj6Q%%qQ%qqQQq%%Qq%%Q%%q%QQq%%%%%%%%%q%%%%%%Qq%%Q%
+4619A504%q%%%%%%Qqq%Qq%%Q%Q%%j6QQj6Q%QQj6%J6qQ%k4J6qQqQ%Qq%qqQQq%Q%Qj6%Qq%Qj6
+4613A488J6j6%QJ6k4J6qK4k4qJ6Qk4Q%%%J6qj6K4j6qJ6qqQQ%j6J6qQ%%qQj6K4j6%Q%q%%Qq
+4608A496%J6j6%Q%Qqq%%%%%%QQqqQ%j6J6%%Qj6QqqJ6%qQQj6qQQ%%q%QQq%%%q%%Q%%%Qqq%Q
+4603A504%%qqQQq%%%QQq%q%%Q%%q%QQq%%Qqj6J6q%Q%%%%q%%%J6qqQ%q%Qq%%%QQq%%%%%%%%
+4596A504%qqJ6q%Qj6J6%%q%%Q%%%%q%%%%%J6j6qQQ%%qJ6q%%q%q%QQj6QJ6j6Q%q%%%%Qq%%Q
+4591A504qqK4j6Q%%j6J6%%qqJ6qJ6k4Q%Q%Qq%%%%q%q%J6%qQq%QQj6Q%%%qQq%J6%%qQj6Qj6
+4585A488Q%Q%%qQqQQq%%qQq%%QqQq%%Q%%%%QqQj6Qj6J6%%%q%J6%%q%%q%Qj6J6Qq%j6J6%Qq
+4580A504qQQj6Qq%Q%%%q%J6%q%%%qQ%%%q%%%J6qQ%qQ%j6QQqq%%%%QQQj6%%%%q%QQq%%%%%%
+4574A504%%QqqQQqqQQj6qQJ6q%%QqqQQq%q%%Q%Qq%%Qqq%%J6qQ%q%%Q%%j6J6%qj6K4j6%J6q
+4568A504qQ%qJ6qQ%%j6J6j6Q%%%Qj6QQq%%Qqq%Q%%%%q%QQ%q%qQqQ%%%Q%q%Qq%%%QqQj6Q%Q
+4562A512qQj6QQ%q%%QqqJ6qQqQq%%%%%%%QQk4Q%%%Qq%q%qK4qQ%%j6Q%%%Qqq%Q%%q%J6q%qQ
+4556A504QqQqq%Q%%Qq%%%q%QqQ%%%%qQ%qQ%%q%%%QqJ6q%q%%QQq%q%%%J6j6Q%q%%Qj6K4%q%
+4550A504q%%%Q%Qqq%Qq%%%QQqqQJ6k4Q%q%Q%%%Qq%q%%Q%Qqq%Q%%%%%%q%QQ%%qj6J6qQ%Qj6
+4544A496%%%QqK4j6Qq%%%%Qq%%%QqqK4j6Qq%QQqq%%%%%qQJ6q%q%qQ%%Qq%Q%k4J6J6q%qqQ%
+4539A504%QqQqqJ6%j6J6q%Qq%Q%qQ%j6J6q%qK4q%qq%QqK4q%%%%qqJ6q%%Q%q%Qj6Q%QqqQJ6
+4533A520qq%QqQqQq%QqQ%j6QQj6J6j6J6q%Qq%qJ6%qj6K4qqJ6%qQ%%%j6J6q%%qJ6%j6Q%%%%
+4528A504Qq%Qj6Q%j6L2qj6%Q%%%J6k4J6%qQ%j6QJ6j6qQQk4J6QqqQQ%qqQqQQ%q%%J6j6QqQ%
+4523A512j6qQ%J6j6%QqK4J6m0qL2m0M0k4Q%QqqQq%qL2qJ6k4j6K4k4J6%J6qk4QQQqK4l2J6Q
+4518A520j6qqQJ6l2J6K4q%q%qJ6j6Q%j6QJ6q%%qK4qqQJ6k4Q%%qj6QQQj6%qJ6Qm0K4QQQ%k4
+4513A496%QQq%J6j6j6J6Q%q%QqJ6k4%J6%%j6L2k4%%%%Qq%Q%Qqj6%QK4k4Qj6Q%J6qj6%J6q%
+4509A504qJ6%qQj6QqQQ%%j6K4%%j6%%%Qq%%qJ6Qqq%q%QqQQ%%%q%Q%q%Qq%%%%Q%j6K4j6QQk4
+4503A496J6qJ6j6%Q%qJ6k4QQq%Q%%q%QQq%q%Qj6J6q%Q%%q%%Qq%%Q%qJ6qqJ6q%q%J6qQqqqQ
+4497A504Q%%%%%%%%%%%%q%%%J6j6Q%%Qq%%Qqq%Q%%%Qq%%%q%%Qq%%Q%%%%%%q%%Q%Q%%qqqJ6
+4491A512Qj6QQq%q%%Q%Qj6qQJ6qq%%%%%%qQJ6qQj6Q%q%%J6j6J6j6Q%%%Qq%%%q%Qj6J6j6J6
+4486A512J6j6j6QQq%J6qQq%Qq%q%%Q%%%%QQj6qQQ%qQj6Q%%qQ%Q%qQ%%%%q%%%%%Qj6QQq%%%
+4480A512%%Qj6Q%QqqQQqQqQq%%%%%Q%%q%%Qq%%%QqQj6J6%qqJ6j6J6%%%q%%Q%%q%QqJ6q%%q
+4474A512%QqJ6j6%%%%%Q%%%Qq%%%%%%%%QqqJ6j6%J6k4J6%qQj6J6%j6J6Qq%q%J6q%%%%%%%%
+4469A520QqqJ6k4QJ6qqQQqqQQj6qJ6qQj6QJ6j6QJ6l2QqQJ6%qQqQj6%J6j6QQ%q%%Qj6%Q%q%
+4464A512qJ6qQqQq%%%%Q%%Qk4%J6%%%%%%qJ6k4K4q%q%%J6qq%QqJ6%%j6K4j6Qq%qL2l2QqQ%
+4459A520%%J6j6q%Q%%qQ%Qj6Q%qQqQ%Qq%%qQqQq%QqQQj6Q%q%Qj6K4q%j6J6j6Q%J6j6QqJ6q
+4453A520%qQqJ6j6J6q%qQqQqQqQqQqQqQq%%Qj6K4q%qQqqJ6%qQQj6%Q%qQ%q%Qq%J6j6Qq%%Q
+4448A520qQ%Qj6Qq%QQq%q%Q%q%%Q%%%%%%q%Q%qQ%J6j6%%Qj6%J6q%%q%Q%Qj6Q%%%%Q%%q%%%
+4442A520%%%Q%%qq%Q%%%QqqQQq%%%%%%Q%%q%%%%Q%%%%j6J6%%%%%%%%%%%%q%%Q%%q%%Qq%%Q
+4436A528qQQj6qJ6%%%%%%%%%%%%%%q%K4j6%qQq%QQj6Q%j6J6qQ%q%Q%%%%%Qq%q%%Q%%%Qqq%
+4430A520Qq%QQq%%%%%q%%%J6j6Q%q%%Qq%QQq%%%%j6K4qq%%%%Qq%%%%Q%%%qQj6Q%%qQ%Q%%q
+4424A520%qJ6qj6K4q%%Qq%%%K4k4QqQq%q%J6qq%Q%Qq%QQj6Qj6K4qqq%QQ%%%%%%j6QqJ6Qk4
+4418A512%J6Qq%QqQj6%Q%%%K4j6j6%%Q%qJ6qQqqQ%%qQ%Q%%k4J6%Qq%qQqJ6%qqQ%%%%qQQqq
+4413A520J6j6Q%%qQqJ6j6%J6%qJ6qQj6QqQ%j6K4j6q%QQqQqJ6j6Qj6Q%QQqq%Q%qQ%qqJ6Q%j6
+4408A528%Q%q%%QqQqQk4J6%Q%%%%qQqQqQqQ%Qj6Qq%Q%j6J6%Qq%%j6J6qJ6qqQ%q%J6j6%Q%q
+4402A528%QqJ6qqK4j6%%%qQqQj6QqQQ%q%J6j6%Qq%%Qq%Q%qq%K4qq%J6%j6J6qqJ6j6Qq%Qj6
+4397A520J6%q%J6j6%J6%j6J6j6Qq%QqQq%qJ6Qj6%qqL2qj6J6J6qq%%%%%Qj6J6qQj6qL2m0L2
+4392A544%j6J6%j6K4l2L2k4J6J6l2j6K4j6J6qQq%Qj6K4q%j6J6j6QJ6Qk4Qj6J6J6j6qj6N6m8
+4388A520M8m8J6j6J6J6J6m8%K4%k4QJ6%%qq%%%Q%%%Qqq%%%%QQqqQQ%qj6L2k4J6j6%QqQQj6
+4383A528%J6q%q%Q%Qq%%%Qj6Q%Q%qQ%Qq%%Qqq%Qq%%%%Q%%q%%%%%%%%Qq%%%QQqq%Q%j6J6q%
+4377A536%%Qq%%Qq%%%%Qqq%Q%Qq%%Q%j6J6q%qQQqq%Q%Qq%%%%%%%%QqqQQ%%%%q%%Qq%%%%%%
+4371A536Qq%%%%Q%%q%J6qqJ6j6Qq%%%%Q%%j6J6qQq%%Qq%%Qq%%Q%%%%%%%%q%QQj6%J6qqQ%j6
+4365A528Q%Q%%%%%qqQQ%qJ6q%%%%%%%Q%j6J6qq%%Qj6J6%%%Qq%q%QQq%%%%Qq%%Qq%%%%%%Qq
+4359A544%%%%%%%j6K4%qqJ6q%%%%qJ6q%Qj6J6%qQj6QqJ6q%%%qQ%qJ6%j6Q%qQ%%Q%%qqJ6q%
+4354A544%%Q%%q%Qq%%%%Qj6J6%%q%q%Q%%%%%qK4k4%Q%%qJ6qqQ%%qQQ%j6QJ6j6qJ6j6Q%Qq%
+4348A544%%%%Q%q%QqQ%j6J6qQ%qQ%%%%qqJ6qqJ6qQ%%%%%%Qq%q%QqqK4qq%Q%%qJ6j6J6k4J6
+4343A552qQqQQqqJ6q%%QQj6q%%QqK4j6%%%%Qq%%%%Q%%%%q%QQq%q%%Qq%%%%QQj6qJ6qQq%%%
+4337A552%Q%Qq%%%q%%Q%%q%%QqQj6J6%%%qqK4%qqqK4j6%Q%%q%%Q%Qk4K4j6Qj6J6%%j6J6Qk4
+4331A544J6%%%%Qqq%Q%Qq%q%QQq%%Qq%%Q%%q%q%QJ6j6Qj6J6%j6J6%%qQ%q%%%%Q%%%j6J6qL2
+4326A592l2q%Q%j6K4qqQQ%%j6J6q%q%QJ6%%q%%%qJ6k4J6qqQj6K4Qj6J6q%qqQQ%%j6QQj6K4
+4321A576q%qqqQQQQj6k4M0k4k4M8J6n6J6%K4l2Q%K4%K4k4k4%Q%%Q%Qj6qQQ%Q%%%qj6K4%qj6
+4316A552J6%qQQq%%QqqQQqQk4J6qqQJ6qQk4J6qq%QQQj6qJ6j6qJ6qQqK4q%q%%Qk4L2q%%%%%
+4311A568%Qq%q%%Q%%q%qJ6Qj6%%Qq%%Qq%%Qj6QQQj6%%Q%%qQQj6Qj6J6j6QQ%%q%%qJ6qJ6j6
+4305A560QQj6Q%%%%%QqqQ%%%Qj6%QQqQq%q%Q%qQ%%%q%J6q%qQ%%%J6j6Qj6%Q%%qQQq%qQ%%%
+4299A568qQqQqJ6%qQQj6qQQq%%q%J6qJ6qj6Q%Qq%QQq%q%%%QQq%qqJ6q%Qq%q%QQ%%q%%%qJ6
+4294A576Qj6qK4k4%%Q%Qq%%Qq%%Q%%q%QQq%%%%j6J6q%qQ%Qj6QqJ6Q%%k4Q%q%K4q%qQQj6Qq
+4288A568QqQ%qQ%Qq%qqQQ%Qq%%%%j6K4q%%%%QQq%qq%QqqQQ%%%%%%QQ%j6Qj6%qQQ%Qj6J6%q
+4282A576%%%Qqq%%QJ6j6qJ6q%%%%%Qq%%%QQqq%%%%%%%%QQj6j6QJ6q%%Q%%%%%j6J6q%%QQqq
+4276A576%%%Q%%%%q%%%J6qJ6j6%q%J6%j6%%QQqqQ%Qk4K4j6Q%%qQ%qQ%%%%%%q%QQ%k4J6%%Q
+4271A592q%%%%qJ6j6QJ6k4QQq%%%%%qJ6qQqQ%qQk4J6%%%%%Q%%q%%%%%%%Q%j6J6j6QQ%%qJ6
+4265A600j6Q%qQqQ%%q%%Qq%%K4l2J6qQq%%Qq%%Q%%%Q%Qqq%qJ6qqQ%Qq%%%%%%%%%%%%%%Qj6
+4260A584J6%%qqQQq%%Qq%%Qq%%%%%%%%Qq%%%%J6k4Q%Qq%%Q%Qq%j6K4j6Qq%%Q%%%%q%%Qq%Q
+4254A600qqK4qq%%%%%Q%%%%%%q%%%Q%j6J6qqQQj6J6qQ%%%%%%q%%Q%%j6J6%q%J6j6%QqQj6Q
+4248A592Qq%QQq%%%%%%%q%%Qq%%%K4j6q%%%%%%%%Qq%%%%%%Q%%%%q%%Q%%q%QQq%%Q%Qqq%%%
+4242A600Q%%q%%%%QqqQQq%%QqqK4j6%Q%%%%%%%%q%%%%Q%%J6k4%Q%%%Qq%%%%%%%J6k4%Q%%%
+4236A608%Q%j6J6%j6J6q%%%QqQj6J6%j6qJ6Qj6%Q%Qj6Qj6J6%%J6qj6%Q%qQQqQqqQ%q%Qq%Q
+4231A608qQ%qQ%Qk4J6%j6J6%%j6K4qj6QQ%%%qqQ%%Qq%qQQqqQQqQqQ%%qQj6QJ6j6QqQQqqQq
+4225A600J6%j6%Qq%qQJ6qJ6qqqJ6j6%Q%Qq%q%J6j6QqQqQqJ6k4J6%Qq%Qq%%Q%%q%%%%%%Qj6
+4220A600J6%qqQqJ6q%qQj6J6Qq%%Q%j6J6q%QQqq%Qq%%%%%%Q%%%%q%%Q%%%%q%QQ%Qqq%%QQq
+4214A624q%%%Qq%%%QQj6qQJ6q%%%q%%Q%%%%Qj6%Q%q%QqQ%%qQqQqQqJ6qq%%Qq%QQq%%q%%J6
+4208A632%qqQ%qQQ%j6QqqJ6qQ%%Q%q%Q%j6QQ%qq%J6j6%Q%qQQq%%%%qJ6q%qQ%qQ%qQQ%q%Qq
+4202A624j6J6%%Qj6Q%%qQqQ%%%%J6j6%Qq%QqQj6J6%%q%%Qq%QQq%%%q%%Q%%qq%%QQ%Qj6qQQ
+4196A632%%q%%%%%QQq%q%q%%%K4k4QJ6j6j6J6J6qq%Qq%q%QQq%%QJ6k4%Qq%q%QQ%%%%qqQQ%
+4191A632%%%%%q%%%%%q%K4j6%Qq%%Q%%%%%%qqQJ6q%%%%%%%%%%%%%%Q%%q%q%QQq%%%%%%%%Q
+4185A640q%QQqq%%%%Qj6QJ6k4QqJ6%qQQqq%%%%QQq%q%%Qq%%Qq%%%%Q%%j6J6%qQ%qQ%%Qj6%
+4179A632Q%%%%%Q%%qq%Qq%QJ6k4Q%%q%QQqqQQq%%Q%Qj6q%Q%%%%%Q%%%%qqQ%j6J6%Qk4J6qQ
+4173A640%J6q%q%%Qq%%Q%%%%q%%%QQq%q%QQqq%%%%QQq%%%%%%%q%%Q%%%%q%%Q%%%%q%%J6k4
+4167A632J6%q%Q%%%Q%%qq%%%Q%Qq%%%%%q%%Q%%%Qq%%%%Qq%%Qj6J6j6Q%Qq%%%%%qK4qq%%%Q
+4161A656%%q%%Q%Q%j6Qj6%Q%%%Qq%%Q%%%%J6j6qQqJ6qQ%j6QQj6J6%j6%%%Qq%QQqqQQq%%%%
+4155A656%%%%%%Qq%%Qj6K4qq%%%%%%%Qj6%J6qQqqQ%%%%%Q%%%%%%%%q%%Qq%qQJ6j6Q%%%qQq
+4149A656Q%%%Qk4%QJ6k4Q%J6j6J6q%qQQqq%J6qqJ6j6%QQq%QqqJ6j6Q%qQ%qQ%%%qQ%%%qJ6q
+4144A664%Q%q%J6qqQQk4J6Ql2K4Qqj6QQQj6Qj6J6%QqQj6%J6j6K4qqQj6K4j6q%%Q%%Q%j6QQ
+4139A680j6J6%Qj6%qJ6q%%qK4%k4L2k4J6k4J6Qk4%K4k4QQl2M0%k4L2k4QqK4j6%k4J6j6L2k4
+4135A664K4%Ql2K4k4K4k4J6QQm0K4k4K4K4Qj6l2Q%qJ6qJ6K4m0qQK4l2QQqqQJ6j6qQJ6J6ql2
+4131A664M0j6J6k4k4%M0qqJ6j6qJ6Ql2K4q%M0m0K4J6n6Q%L2L2p2M0n6M8l2%M0l2M0m8l2R6
+4127A728p2N6j04J20n6p2J20n6M0k4qM8m8%K4p2L2N6m0K4l2%k4M8J6k4K4l2l2M0%O4p2M8j6
+4124A704j6l2M0qQ%l2m0J04r6N6L2Ql2j6L2m0k4M0J6qk4%K4%k4N6k4qm0J6L2%m8O4m0Qk4M0
+4120A704m0QqL2j6J6qj6j6J6J6Qj6%J6%j6%qL2qqk4J6%L2k4qqL2k4QL2m8L2%j6Qj6qJ6j6K4
+4116A696q%J6k4Qk4J6QK4k4%q%%Q%Q%Qq%%Q%%qq%%%qK4qqQ%%q%QQq%%%j6J6k4K4j6K4qq%Q
+4111A696%%q%%Q%%%Qk4Q%Q%%%%QqqK4j6Q%%%%q%%%%Q%%%%Qj6Q%q%%Q%%%%Qk4J6qJ6%q%q%%
+4105A696%%Q%%qqJ6qQQQqk4QQQqq%%%Q%%%%%QqqJ6qqQQj6Q%J6%qqQj6Q%qJ6qQ%q%Q%%%qJ6
+4099A720j6Qq%%qK4%j6%J6q%%qQ%%q%Qj6J6%%qQ%qQqQqQqQ%q%J6j6%%J6qQj6Qq%%J6j6%Q%
+4094A712%%q%Q%qQQ%q%%qQ%%%%%Qq%%%J6k4J6%k4J6Qq%%%%%%%%Qq%Qqq%Q%%%qJ6qQ%qQ%qq
+4088A704QQqQq%J6%j6J6qq%%%%Qq%%%%Q%%%%%%%%q%K4j6Qj6Q%Q%%%j6J6%qq%QQqqQQ%%%%q
+4082A720%%%%%%Qq%%Qq%%%%%%Qq%QqJ6k4J6q%Q%%q%%Qq%%%%%%%QQq%q%%%qQ%J6qqQ%qQQk4
+4076A712Q%%Qq%Q%q%Q%qQqqL2j6qQq%Q%%qJ6%j6QQq%qQqQ%%%Q%%%q%%Q%%%q%Qj6J6%qQ%q%
+4070A728QqQj6Q%%%QQj6%%QqJ6j6J6q%j6J6j6Q%Q%qQ%q%QQqqQqQq%Q%%%%%q%Q%qJ6%qq%J6
+4065A744j6J6j6Q%%%%Qj6J6q%q%Q%%%qJ6q%QqqJ6qQ%q%%%QQqq%%%%QQqqQQqq%Q%%%%%qJ6q
+4059A744%Qq%%%%Q%%%j6J6j6J6%q%%Q%%%%q%%%%%%Qq%%Q%%%%%%%%%%%%q%%Q%%%%%Qq%%%%%
+4053A752Qj6%Q%Qq%%%%%%%%Qq%%%%%%%q%%Q%%%Qqq%J6j6J6qQ%%q%%Qq%%%%%%%%%%Q%Qqq%Q
+4047A760%qqK4qqqQJ6qqQq%QQqqqJ6Qk4J6%%qQ%%qQ%qQ%%%Qq%%%%Q%%%Qqq%%q%%Q%Qq%%Q%
+4041A768%q%%%Qq%Qq%%Q%%%%Qj6qQQq%%%Qj6J6q%%QQj6J6q%%qQ%%%%%q%J6qqQ%%%Q%%%%%q
+4035A768qJ6%qqQqJ6%j6QJ6j6%qJ6j6QQqQqj6J6%Qq%QqQqqQJ6qqQk4J6J6q%j6K4qQq%qQ%%
+4030A776Qj6%%QqQ%Qq%j6K4j6Qj6K4j6%K4j6%%%%j6K4k4J6QqqQqK4k4%J6qq%qJ6qQQ%%%j6
+4025A768J6qqJ6qQ%%j6J6j6QQ%j6QQq%%QJ6qq%%%%q%%Q%%%%%qJ6qQ%j6J6q%%Qqq%Q%%QQq%
+4019A792%j6J6j6QQ%%qqQQq%%%QQqq%QqqQQ%%q%%%%%%%%Qq%%%%Q%%%%%Q%j6qL2qk4J6Qq%%
+4014A792%%%%%q%QJ6qq%%%Q%%%%q%q%QQ%%%%%%%%%Qqq%%QQqq%Q%%%Qq%%Q%%q%%QQqQj6qQQ
+4007A808%%q%%QQq%Qj6QqQ%%qQqQ%%%%%%Qq%%Q%%qqK4k4qQQQqqJ6j6qJ6qJ6qQQk4qQQ%%Qq
+4002A808q%J6k4J6qJ6qq%Q%Qq%Qj6J6j6QqQk4L2q%q%%QQqqJ6qQQj6qQQq%%Q%%%%q%%%QqJ6
+3996A824j6Q%%%q%%Qq%%Q%%qqQQq%%Qq%QqqK4j6Q%%%%%%%%q%QQq%%%%%%%q%J6qQq%qQQqQQ
+3990A832j6qJ6j6Q%%%Q%%q%%Qq%%QqqQJ6qq%Qq%%Q%%%QqqQQq%%%%%q%%%%QQk4K4qq%QQq%Q
+3984A832Qqq%Qq%%Qq%%Q%%%Qq%q%%%%Qq%%Q%%QqQk4QK4k4QQ%qqQQq%%%qqK4%qQ%%qqQj6%Q
+3978A824QQj6qK4j6QQ%QqqQQq%%%q%%Q%%%%%%%%%%%%%qJ6qqQQqQq%J6j6%Qq%j6K4%qQ%q%%
+3972A840%Qq%%%%%%Qq%%Q%%q%QQ%j6Qj6J6%%%%%%%%%QQqq%%%%%Qq%%Q%%%%qqQQ%%%%%%%%Q
+3966A864qj6K4%k4Q%Q%%%q%%Q%%%%q%%Q%Qq%%%%%%Q%Qqq%%%Q%Qj6qQ%J6qQj6Qq%%%Q%%q%Q
+3960A864qJ6q%%%%%Qq%%Qqq%%K4q%j6%%%Q%Q%%q%%Q%%q%%Qq%%Qj6J6j6%QQ%%q%%%%%%QqQq
+3954A864%Q%%q%Q%QqJ6j6qQ%qqQJ6qQqqQ%qQ%QqqQ%J6j6Q%j6QQ%j6J6%%qqQQj6J6%q%%Q%q
+3949A872QqQ%qQqJ6j6%Qj6QQqQQq%%q%%%QqQQj6%QqJ6qQj6%Q%J6Qk4J6j6qQK4j6%qQ%j6%K4
+3944A896qQj6Q%qqK4j6qQJ6qj6%K4qqJ6%%j6Q%q%K4l2K4qQqqJ6Qqqq%J6q%%%%%qJ6qL2k4%
+3939A896%%q%%qK4q%qJ6l2K4%Q%j6%j6qK4j6L2k4Q%k4K4K4l2M0qql2J6qJ6qQJ6Qk4l2N6k4
+3934A896%m0L2J6q%Qj6Q%Qk4J6k4J6Q%%J6j6J6m0k4%N6Ql2J6%K4j6qM8p2QJ6%K4j6j6M8m8
+3930A888M0ql2M8j6m0l2J44q8qo4J44m8j6L2N6j76M8J36j36j6M0Qk4L2qj6%QL2L2l2J6%n6
+3927A888J6q%K4ql2K4m0M8Qn6M8j6K4n6L2J6J6J6j6J6n6%%QM0m0L2%K4l2m0L2%Q%K4k4m0L2
+3923A912%Q%m0M0j6M8m0j6QJ6Ql2N6q0O4m0L2M0m0Qq%j6q%QK4k4%j6%Q%%J6J6j6Qj6J6Qj6
+3919A920J6q%k4J6%qK4j6K4qj6%QqqJ6qJ6k4K4J6l2%Q%qJ6%Qj6qJ6qQ%%qQqqJ6j6J6k4K4q
+3915A928%Q%qQqQQj6%Qq%J6qqQQq%%%%%j6K4j6QqQQq%%Qq%%Q%j6J6qqJ6%%j6Q%%Qj6J6j6J6
+3909A944qqQQQk4K4j6QQ%k4Q%J6%qqq%J6Qq%%qQQj6Qq%%Q%%%qJ6j6Q%%q%Q%Q%Qq%%%qqQQ%
+3904A952%%%j6qJ6J6qqQQj6J6qQqj6Q%J6%qqQQ%%%%%%%%q%Qj6QqJ6q%%%%%%%%%QqqQQ%Qj6
+3898A952J6qq%%%Q%%%%%%%%%%%%%%qqQQ%QqqQQ%%qq%Q%Q%QqqqQJ6j6%QqqJ6qQqQ%%%q%QQq
+3892A968%q%%%QQq%%%%%%%%Qq%%Qj6J6%%q%%%QQq%qqK4q%Qq%q%%Q%%%Qq%%%%Qq%%%%%%Q%%
+3886A984%%%%qQj6J6%j6QQq%QqJ6j6QQq%%%%%%QqqQQqq%Q%%%QqqQQ%Qqq%%%%%%%%%Qj6QJ6
+3880B000qqJ6%q%Qj6qJ6qQ%qqQJ6q%%Qq%%%%%%%Qj6J6q%Q%Qqq%Q%%%%%%%%q%QQj6qQQ%%%%
+3874B000q%QQq%%%%Qq%%%%QqqQQqqQQq%%Qq%%%%%%%%Q%%q%%Q%%%%q%QJ6l2J6%Qqq%Q%QQqk4
+3868A992QQ%qQ%%%%%%%Qq%%%%%%%%%%%qQJ6qqQq%%%%%%Q%%%Q%%q%%Q%%j6J6Qqj6QQqQqQQk4
+3862B008QQ%q%%Q%%%%%%%Qqq%Q%%%%%Qq%q%QQqq%Q%%%%%Q%%q%QQj6qQJ6qq%Q%%%Qq%%Qj6%
+3856B024J6qqQ%Qq%%%%Q%%qqQQ%%%%%%%%qQQj6Qq%%%Q%%%Qq%%%%%%%%Qqq%QQ%j6J6j6J6%%
+3850B048%%%qJ6j6%Q%Qq%%%q%J6qqJ6j6J6q%%Qj6J6%qJ6j6Qq%%%%%%QQq%%%%%%%%%q%%Q%Q
+3844B064q%%%QqQj6Q%Qq%Q%%%%q%%%%%%Q%%j6J6%%%qQj6QQQj6%Q%%%%%J6k4Qq%Q%Qj6%J6%
+3839B072qqQJ6j6qQQj6J6k4L2j6Qj6J6Q%j6Q%j6J6J6j6Qq%q%QqK4j6Qq%%QqqJ6j6Q%%%QqJ6
+3834B088k4K4j6J6qqqQJ6qqQQq%%%%qQj6Q%%Q%qQj6L2j6%Q%%qq%%QQ%%%%%Qj6J6q%%%%qQj6
+3828B072J6%qQ%QqqQQq%%%%Qq%%Q%Qq%q%%Q%QqqQQq%%QqqQQq%%%%%%Qq%QQq%%%%%q%%%%%Q
+3822B104Q%k4J6%%%%j6K4qqqK4qqQ%%%%%Qq%%%%%%QqQQk4J6q%J6k4J6q%%Qq%%Q%%%%%Qq%%
+3817B112%%Qqq%QQj6Q%qJ6%%q%%%%%QQqj6J6qqJ6j6Q%%QQq%qQJ6k4Q%q%%Q%%%QqqQQq%%Q%
+3811B128%qqQQ%Qqq%%%Q%%%%%Qq%%%%q%K4j6QqQj6Qk4L2q%qJ6%q%QQj6QQq%j6J6qQqJ6j6%
+3805B128%Q%%Q%%qqQQ%%qJ6qqQ%%%qJ6q%q%J6qQj6J6qj6J6QqQqQq%QqQj6L2j6q%Q%q%QqQq
+3800B144%QqJ6%qqQJ6q%qQ%j6QQ%%qQq%Q%%%qQ%%%qQ%%%qQ%%qQ%Qq%qJ6q%%J6j6qqJ6%%%%
+3794B160qJ6q%%QqQqqJ6j6QQ%%Qq%qJ6qqK4j6qQ%%QqJ6q%j6Q%Qj6Qq%J6%j6J6%qqJ6%Qq%%
+3789B176Qj6QqqJ6%QqQk4QJ6q%qQ%j6J6qQQqQ%%qQ%%qQj6J6J6k4%Q%qQq%QQj6Q%%%%%%%Q%
+3783B192qQk4J6%%%%qJ6q%%QQqq%%%Qq%%Q%Q%%q%%%%Qq%%%Qj6QQq%%Q%%%%qQQj6%qJ6Qj6%
+3778B192QQq%%Q%%q%%%%QqqQQ%%%%%qJ6k4J6qQQq%J6j6%%%%%Q%%q%QQqq%Q%%%%%Qqq%%QQq
+3771B216%%%%%%Q%Qj6q%%QQq%%%%Qq%%QQj6%Q%Q%%q%%%%%QQqq%%%Q%%qqQQ%%%Qqq%Qq%QQq
+3765B232qQqJ6qJ6j6J6k4%%J6%j6J6q%%%%Q%%q%%%QQq%%%q%J6qQqJ6j6qQQqj6J6Qj6Q%J6q
+3760B248q%%Qq%%%%Qq%%Q%%%%%%%%%%%%%%%%%QqqQQq%%Q%%%%%%QQqq%Qq%%Qq%%%%Q%%%%%%
+3754B264q%%%qJ6Qj6Qq%K4j6Qk4J6%%%QqqJ6qqQ%J6qq%Qj6J6q%%%%Qq%QQqq%Q%%%Qq%%%Q%
+3748B280j6J6q%QQqq%Qq%Qj6Q%%%J6q%%q%J6q%qK4k4QQQj6QQQk4QqQQq%%%%%%%%%QQk4%J6
+3743B296j6Q%%%QqJ6qqQ%qJ6j6Q%Qqj6qK4qL2%%l2J6j6Q%%qK4j6%QqqQQqqQJ6k4%K4j6K4j6
+3738B304k4J6Q%j6%J6QQq%qQj6%J6%Qj6Qk4QM0l2J6%j6qQ%J6Qj6J6qj6J6%qQQj6J6%k4qL2
+3733B328k4QK4qk4%K4Qk4L2j6qJ6l2K4J6j6k4L2k4%QQq%QQj6QQQk4Qj6K4qj6J6Qqj6QQ%%Q
+3729B336k4K4q%qJ6q%QqqK4j6%qQQ%%Qj6%%J6j6%J6Ql2QQqqJ6QqqQ%Q%qQqQ%qJ6j6QqJ6j6
+3724B336QQQj6%qK4j6%%%%%%%Q%Qq%q%%Q%%%%J6j6Qq%%K4qj6%%QqqK4q%qQ%qQ%qJ6j6J6%q
+3718B360qK4qqqK4q%qJ6qq%J6%k4J6%qJ6j6J6q%%%QqqJ6q%qJ6qQqQQj6QQj6J6j6%%%%J6qQ
+3714B384qQj6%Q%Q%%q%%%QQj6QQj6Q%%%q%%%%Q%%%%J6j6%%%Q%%%%%%q%%%%Qq%QQq%q%%Q%Q
+3708B400%%%%qq%Q%%%Qq%%Q%Qq%%%%%j6K4j6%Q%QqQq%Qq%%%%%Qj6J6qQ%qJ6%qj6J6q%%Q%%
+3702B408%Q%qJ6qqQj6%Q%%Q%%%qJ6q%Qq%%%%%%%%%qJ6%%%qJ6q%%q%Q%%qQ%Q%q%%%%qQ%qJ6
+3696B432qQq%Q%Qq%%%qQ%%%%%%%Q%qQ%%%q%Qj6J6q%%%K4j6%Qq%%%qK4j6%QqQq%Q%%Q%qq%J6
+3690B456j6Qq%QqJ6%qqQ%QqQqQqJ6q%%q%%J6%%j6QqQ%QqQq%Qj6J6qQqQj6QQq%QQqqQQ%%qq
+3684B456%Q%%q%QQ%%%%%%q%%Q%%Qj6J6qQq%%%%QQqq%%%J6k4J6%q%qJ6qQ%qQ%%%Q%%q%QJ6q
+3678B496qq%J6qQj6QqQqQqK4j6%%%Q%%%%%%Qk4K4j6Q%%Q%%%%q%%Q%%q%Q%qQQj6J6q%%QqQq
+3673B504%%QQj6%QqQqQ%q%QqQj6K4qQqQq%%QqQ%q%%%Q%%%%%%q%QQj6QqQ%Qq%%QqQqQqJ6j6
+3667B520%J6j6Q%%Qj6J6q%%QqQqQq%qQ%Q%%%q%QqQqJ6%qq%QQj6QQ%j6J6q%%J6j6QqQ%%%%%
+3661B544%%%%J6q%%j6J6%qQqQQj6Q%qQ%Q%q%%%Qq%K4k4%%%QqQ%qQ%qQJ6k4K4j6%QqQq%QQq
+3656B568%qQ%%Q%%q%%QqQqQ%j6Q%%Q%%%%%%qJ6qQq%Q%%%%qQ%QqQ%%j6Q%Q%qQQj6Qq%J6j6J6
+3650B600q%%Qq%%QQj6Qq%QqQQj6QqQq%%J6qqQQqj6K4%qQ%%qqQQ%q%%%QQqq%Q%Qq%%Qqq%Qq
+3644B600J6Qj6%Q%%%Qq%j6J6%QqqL2k4%qQQq%%Qq%%Qq%QQq%%%QQq%qQj6J6%q%Q%%qK4j6qJ6
+3638B640qQk4J6J6q%%q%Q%q%%%QQqj6J6%%%qQj6L2%j6Qq%%%QQj6%J6j6Q%%J6j6qQ%%%%qJ6
+3633B656q%Qq%%J6qq%J6q%qJ6q%QqqQQq%q%J6QqqJ6q%%%qQqQJ6j6%Q%qQqQqQ%%%%Q%j6QK4
+3628B696j6qQ%%qQqQ%%qQ%%Q%qQ%%%QqqJ6k4J6Qj6QQ%%qJ6%qqQ%%%%Qj6QQ%qqQ%%%Q%q%Qq
+3622B696QqJ6%q%Q%qQq%QqqQQqJ6%%qQqqJ6j6QQqqqJ6Q%%%%%Qq%%%%%%%j6J6J6k4Qj6K4%q
+3616B720qJ6qQq%Q%%%%qqK4%qqQQ%q%j6K4qqJ6k4J6Q%j6QQ%%%%%qL2j6k4QJ6%qj6%J6%%QQ
+3611B752Qj6%%Qj6%Q%%q%%J6J6l2K4qQqQ%qJ6j6J6j6Qj6Q%Q%%%%q%J6%j6J6%q%%%Qk4J6J6
+3606B776%k4J6%%Qj6qL2k4QQ%j6J6j6J6%QqqQQ%%k4QQQ%%q%%K4k4K4k4%QQq%%%Qj6Q%Q%j6
+3601B776Q%QQq%%Qj6J6q%QqqJ6Qj6%Q%qQ%QQj6Q%%qQ%%%%%qQqQ%%qQ%%%J6j6%Qq%qJ6Q%q%
+3596B816QqqJ6%%q%%%Q%qQqqQQ%%%%qK4j6%qQJ6%j6%Qq%J6%%q%QqQ%qQqQ%%qQ%Qk4J6%Q%q
+3590B840%QQj6J6qqQQq%Qj6Q%%%J6j6QqQ%QqqqQJ6q%QqJ6qqJ6qq%Q%%%%%Q%%q%%Q%%%%Qj6
+3584B864Q%qQJ6j6Q%qJ6q%%%QqQj6Q%%%%Qq%QQ%j6J6q%qQ%Qq%%%Q%%%%%qQj6QQ%Qq%%%%Qq
+3578B896%%%%Q%%%qJ6qQqQ%qq%Q%%%Q%%%%%%%%%Qq%%%%%%Q%Qqq%Q%Qq%q%QQ%%q%%%%%QQ%%
+3572B936qQj6J6qQ%j6Q%%QqQQj6QQq%QQqq%%%Q%Qq%%%%%%%%Qq%%Q%Q%%q%%%Q%Qj6%Qq%%QQ
+3566B968j6Q%qQqQ%qQQq%%%%%%Q%%%Qq%%%%%%Q%%%Qj6qQQ%%q%%%%Q%QQqj6J6%%J6j6%Qq%%
+3560B984Q%%%Qj6QQj6QQqq%Q%Qq%%Qq%J6qQqqQQ%%%j6J6qQqQ%%%%q%QQ%%q%%Qq%%%%Q%Q%%
+3554C024q%%Q%%qqK4j6%Q%%%%%%%Q%j6QQqQ%%%qJ6j6K4j6qQqQ%QqJ6%qj6J6QqQQqqqQQqQq
+3549C040Q%%QQl2J6%Q%j6J6qQ%%%%Qk4K4qqK4q%%q%%Q%%j6K4l2L2J6%qj6Q%j6J6qJ6j6J6j6
+3544C064J6j6Q%Q%%qQ%Qj6K4%qj6Q%%Qk4L2J6m0J6%%J6q%%qQ%j6J6%Q%%Qk4%qJ6Q%%%%%%q
+3539C096L2j6%K4ql2%J6j6J6J6qk4J6q%%K4%j6qJ6j6L2qqqQ%K4qqqJ6%%q%qK4k4J6%%qK4j6
+3534C136J6j6QqqQq%QQQl2L2k4QJ6j6Q%q%QqJ6k4K4%Qq%Q%qQ%%j6qQQqL2qj6%%Q%QqQj6J6
+3529C168%qJ6j6%Q%qJ6qQq%Qq%%qQJ6qqQ%%%%qQQqQ%qJ6%qQk4K4qQQj6%%%%%QqQ%%J6j6Qq
+3524C192Qq%Qj6J6q%J6j6%J6j6QQqQqQQq%%qQ%%J6k4J6%qQj6K4q%%qQ%%%J6k4%QQQq%Qj6Q
+3519C224Q%%%qQqQ%%%%qQ%Qj6QK4k4%Q%qK4k4K4qqQq%%QQqqJ6q%Qk4K4j6J6qQQj6%J6q%%Q
+3513C264%%%%%Qj6qQJ6qQQj6qQQ%j6J6qQ%%q%QJ6q%q%QQ%qj6J6Q%j6J6%%%%%%%Qq%%%%Qq%
+3508C288%Q%%%Qq%%%%Qq%%Q%%%Q%%%%%%%%%%%%%Q%%%%%%%Qq%QQj6Q%%QqQ%j6J6%%%q%%%QQ
+3502C344j6QQ%%qQ%%%QqQqQq%%Q%%%%Qj6Q%%qQJ6%j6QQ%%%%%%%%qQqQQq%%QqJ6q%Q%j6J6%
+3496C384%%%q%J6%qQq%J6j6QqQ%qQ%qQqQQqJ6qJ6j6Qq%%Qj6J6%%Qj6Q%%%qJ6QqqJ6k4Q%J6
+3491C424qQqQq%qJ6%qQQqqJ6%j6J6j6J6%qQ%Qq%%Q%Qj6QQj6Q%J6j6%%J6k4J6qQqJ6qQq%%%
+3485C448J6k4J6q%%qJ6qQqQQ%%%%q%%Q%Q%%q%%Qq%J6j6Q%%%%Q%%%%%%%%%QQk4J6%%J6k4QJ6
+3480C504j6J6%j6QQ%qQ%q%QqQQq%J6j6Q%%qQ%%%Qj6QQ%%Qq%%%%%QqQ%%%%Q%%qQ%%%j6J6%Q
+3474C544%q%Q%%%%%Qj6J6j6J6j6Q%Q%QqQqQj6J6qqQQqQQqqJ6%qQ%qQqQ%%qJ6qQq%QqQ%%%q
+3469C568Q%Qq%Q%qQ%QqQ%%qJ6q%Qq%QQq%%%QqJ6j6%%%Q%%%%%Qq%%%%Q%%%%%qJ6q%J6j6%J6
+3463C632j6QqQQ%Qqq%%QQq%QqJ6j6%QQ%Qk4J6Qj6Q%%%%%%QQ%%qq%Q%Qq%%Q%%%Qq%%Q%%%%%
+3457C672%q%QQ%Qq%%%%Qq%%%J6j6%J6q%QqQ%%J6j6Q%j6J6q%Qj6QJ6Qj6%Qq%qJ6%%%%Q%Q%q
+3451C720qQ%QqQ%%qqQQ%Qq%q%QQq%QqQ%qK4j6K4qj6%K4j6Qj6J6Qqq%J6j6QQQqq%qQQ%QqQ%
+3446C768%%qK4k4K4k4QQj6J6%qJ6QqqJ6%%q%Qj6J6J6j6j6L2j6%qJ6qQ%%%QQq%q%%%%Q%%Q%
+3441C816Ql2L2k4K4j6J6j6QqQQ%%%Qq%%%QQqqQQj6J6j6J6%Qqq%%QQ%%%%%Q%QqqJ6j6%%%Q%
+3436C856%%Qq%%Q%Qq%%%%%%Q%%%Qqj6J6qK4qQq%J6q%%Q%%q%%Q%%qQj6J6%Qj6QJ6q%Q%%q%%
+3430C904Q%%%%%%QQq%%Qq%%Qq%%%QQq%%%QQq%%Qqq%J6j6K4qQ%qJ6q%%QQj6j6QJ6%%%%qQJ6
+3424C976j6Q%QQj6q%Q%Q%%%Q%%%%%Qq%q%QQqJ6j6J6%j6J6%%%%Q%Q%%q%%%%Q%qK4j6%qJ6j6
+3419D008%J6q%QQ%%%%j6QK4k4QQj6L2qj6%J6qqQQq%QqJ6k4J6QqJ6j6Q%%%Q%%%%%%%%QQqqK4
+3413D088j6%qK4j6Q%qQ%%%%QJ6q%j6%J6k4L2j6%Qq%%Q%%%%QJ6qq%Q%%%Qq%%Q%Qq%q%QQ%%q
+3408D120%QQ%Qqq%Q%qK4j6QqQ%%Q%%%Qq%%Q%%%%%Qq%QJ6k4QqJ6j6QJ6j6Q%%%%Q%%%Q%%%%%
+3402D192%%%%%%%QQq%%QQj6QJ6qq%%%Q%Q%%%%%Qq%%%%%QQ%j6J6qQ%qQQq%%QQqqQQ%Qq%%Qq
+3396D256%%J6j6J6%j6Q%%%QQq%%Q%Qj6J6j6QQ%%%%%Q%%%%j6J6%%J6%qq%%K4j6J6q%%%QqQq
+3391D312Q%QQj6Q%%qK4j6%%Q%Q%%%%qQQj6K4qQ%q%QqQ%%%QqQq%Q%qQ%Q%Qj6Q%qJ6%%%%Q%%
+3385D392qQqQJ6j6%QqQqQQ%qQqQ%Q%%%j6QQ%qQ%K4qq%%%QQq%%q%QJ6q%%%%Q%%%%%Q%Qq%%Q
+3379D464%%q%QQ%%q%%%QJ6qq%Q%%%Q%Qq%%%%Q%%%%%Qq%%Q%%%Q%%%Qq%QQq%%Q%%%%%Q%%%%%
+3373D536Qq%%J6j6J6qQqQQj6%Q%Qq%%Q%%%Q%QqQj6J6qQQqQqQQ%%j6QJ6j6QQ%%%%qQJ6q%q%
+3367D600J6%q%%%Q%%%Q%Qj6J6%%q%QQ%%%Q%%%%%qJ6qQ%Qj6%%%%QQQ%Qj6QQqqqJ6J6q%Qq%%
+3361D680%%Q%Qq%%Q%%%%%Qq%%QqQJ6j6QqK4j6Q%j6K4qQqQ%%%%%%J6q%qQQ%%%Qq%%Q%qL2j6
+3356D760Q%qQj6QJ6qqQQ%qJ6%%qQj6L2j6Q%QqqJ6j6%K4Qk4QQq%QJ6q%Q%j6L2j6%%%%Q%Qj6
+3351D824QJ6l2K4qJ6%Qm0M8j6%%%%Qj6QqqM0qqQqK4k4%QQk4M0q%%%Q%q%L2m0K4m0M0J6k4K4
+3346D912k4%L2l2j6QM0J6qk4qK4J6m0QJ6%%K4k4K4j6J6%qj6K4k4L2J6%m0K4j6QqQqK4l2K4
+3342D952%Qqj6L2j6J6%%%J6Qk4j6M8k4J6l2K4QqQ%J6qj6Q%qQK4j6%%QqJ6Qk4J6qQ%K4k4Q%
+3338E024qQQ%q%%J6%qqQJ6Q%J6m0QK4q%q%J6k4K4%%%%qQqJ6%q%J6%Q%QQl2K4q%QqQQq%Q%%
+3332E104qJ6qQJ6k4J6%j6J6QqQ%%QQj6J6qQq%QQ%Q%Qj6qQQ%%%%%Q%%%Q%%%%%%%Q%%%%%Q%J6
+3327E208k4J6%%%Q%%QQj6q%QQ%qK4qqJ6j6J6%%J6qq%%QJ6%%q%%Q%Q%%%%%%%Q%Qq%%%QQq%Q
+3321E288Q%%%%%%%Q%%qQQQqqQqJ6Qq%J6qQj6qK4%Q%q%qQK4k4J6qQ%%%QQ%j6J6%%%QQqQ%qq
+3316E368QJ6qQqQ%qQ%%QJ6j6Q%%QQqQQk4Q%J6%%%%qQj6J6QQ%%q%QQqQ%%qQQqJ6QqQQj6Q%%
+3310E480Q%%qqK4%Q%%Qq%%Q%Q%%%%QqJ6q%Q%%J6qqQqQqQQqJ6%%Q%%q%QQqqQQ%%QQqQQj6J6
+3304E600%%%%Qj6J6%%QQ%%%%%qK4q%qQQ%%QqJ6qQqJ6qJ6j6QQ%%q%%%QQ%%%%QJ6qq%Q%Q%%%
+3298E704%%QQQq%%%%%%Q%Q%%%%%Q%%QQqQ%%qQQqQ%Q%%%J6%qQqJ6j6J6Qj6J6qJ6j6J6q%J6j6
+3293E808Q%QQj6Q%QqJ6%Qj6QQ%%%QQqJ6j6J6qQq%Q%Q%%%%J6qQ%%%QqJ6q%qQQ%QqQQ%J6j6J6
+3287E944j6J6qqQQqQQ%%%qQ%J6%%%Qj6QQQ%q%K4qQqQqQ%%Q%%%%%Q%Q%%%%%%%Q%Q%Qq%QQ%%
+3281F056%%%Q%Q%%%%%%QQ%%%Q%%%%QQ%%%%%Q%%%Q%%QQ%%%%%Q%%%%%Q%%%Q%Q%%%Q%%QQq%%Q
+3275F200%Q%%%Q%%%Q%%QQqqQQ%Q%%q%QQ%Q%%%%%QJ6q%j6K4QqJ6j6qQK4j6J6qQ%Qq%J6qqJ6
+3269F328qQqJ6Qq%J6q%Q%Q%%Q%q%J6qQQqQQqQ%qQQ%qJ6%Q%qQ%J6qqJ6%%%QqJ6%QqQ%Qq%QQ
+3263F472q%Q%qJ6Q%qQqK4j6QQ%Q%%%%%Q%Q%%Q%%Q%%%%%%%QJ6%%qJ6qQqJ6%%%%qJ6J6qQqqJ6
+3258F608QqQQqQq%QQ%%QJ6qQq%Q%%QqJ6qqJ6%QQqQ%%qK4%%%%qJ6%%K4qq%%J6%qJ6qQQ%%%J6
+3252F768qqJ6qQ%%%J6Qj6J6%%%%J6%%q%J6%%K4j6Q%%QqQ%QqQ%%%K4K4k4qQqQJ6qQ%qQQQQq
+3247F904%J6k4K4%%Q%%%%Qj6L2q%QJ6j6QQj6K4qQj6K4j6J6qQQQq%J6qqK4qQQq%%QQqK4qQq
+3242G040%QQj6K4%qQqQ%QQ%%%%%QQQqQJ6k4J6%%Q%%%Q%Q%%QQQQqqQQ%Q%%%Q%Q%%%%%%QJ6%
+3236G216Qq%QQ%Qq%Q%%Q%Q%%QqQ%J6%%J6%j6Q%Q%Q%J6j6Q%J6q%QQqQ%QqQQ%J6k4J6J6%%%Q
+3230G384%%%Q%%Q%J6j6Q%Q%%Q%QQ%qJ6qQ%%QQqQ%J6%%%%Q%Q%%QQQ%qQJ6j6QQ%Q%QqJ6qQJ6
+3224G576k4J6%K4j6QqJ6%Qq%K4j6QJ6j6J6%J6q%%%Q%%%%K4qqK4q%QQ%QqK4%q%Q%Q%QQqJ6q
+3219G728%qK4%%k4K4J6%Q%QqQJ6k4J6qQQ%QQQq%QQQ%Qj6%QJ6qJ6qQ%QqJ6Qq%QQQQq%QQ%%q
+3214G904%QQQQ%%%%QQ%%QQ%%%QQQ%%QQq%%Q%Q%Q%QQQq%QQ%Q%%%Q%Q%J6j6QQ%Q%Q%QQ%%Q%%
+3208H136Q%Q%%%Q%QQ%QqQQQQj6J6%%Q%QQQqQ%%Q%J6qQqJ6Q%%Q%%%%J6QQqQ%%%QJ6qQQ%%J6
+3202H368%j6K4%%QqJ6qQ%J6qK4%%%%Q%%J6qJ6qQ%QQQqQqJ6%%%Q%QQqQ%Q%Q%QQqK4j6J6%QQ
+3196H576Qk4L2q%QQ%%J6qQQ%Q%%QQqQQQQ%qJ6qJ6qJ6QqJ6%QqQQ%%Q%%%K4q%QQqQQ%J6%qK4
+3191H808q%QqJ6%Q%QQQqJ6%%J6%Qj6J6%QqQJ6qQ%QQQ%%J6%qQJ6%qK4%%qJ6%%J6%QqQ%Q%QQ
+3185I032Q%Q%Q%%%J6QqQQQqJ6%QqJ6%%QQ%Q%QqQQQQ%QqQJ6qJ6Qq%J6Qq%QJ6qQQ%QQ%Q%%%J6
+3180I296%%%K4%qqK4J6qQQ%QqJ6Qj6QJ6QqQ%J6%QQ%%QQQq%K4qQqQJ6QqJ6%QqJ6%Q%%QqK4%
+3174I544Q%qJ6Q%QQQ%%QQ%%QJ6q%J6J6qqK4%qJ6%%%QQQ%QQQ%%QQQQq%QJ6%%Q%J6qJ6%QQ%%
+3169I816QK4j6J6%QQj6QJ6QJ6%%qK4qQqJ6J6%q%J6J6%%QQq%J6J6%Q%%%QQQ%Q%QQQ%%QQ%Q%
+3163A0088%QJ6QQQQj6Q%L2j6%J6%%QQQQ%K4qj6J6%J6qQJ6qK4%Q%QQQ%Q%Q%QJ6J6j6Q%QQQ%
+3158A0368J6qQQQ%%QQ%QJ6QqQqQL2j6J6J6q%J6J6q%%QJ6%qK4q%M0%l2%L2Q%K4k4K4Qj6K4J6
+3154A0648k4L2j6J6J6qqK4j6K4QK4k4J6qK4%qK4k4M8j6QqJ6K4k4K4QK4j6Q%%J6Qj6J6j6K4
+3150A0848QqL2K4l2L2%qL2%%%%M0n6J6M0j6L2L2m0K4j6k4M8J6Qn6M0j6L2QK4l2N6j6QJ6Qj6
+3146A1088%K4j6L2qJ6qJ6qQQQQJ6J6j6QqL2k4K4QQj6J6J6%K4%qJ6J6k4J6QL2QqQj6K4J6%%
+3142A1360qK4J6qQ%%J6qL2k4QM0%QqQK4k4L2qQqJ6QL2l2L2qJ6%QJ6QQ%%qK4qJ6Q%%J6J6%Q
+3137A1664Qj6J6J6Q%J6j6J6K4%%qL2Qq%J6J6%QqK4%J6qQQQJ6QqJ6QQ%%QQQJ6%%J6J6j6K4q
+3133A1968K4%J6j6J6QJ6%Q%%%J6J6%QJ6qJ6Q%K4%Q%J6j6J6J6%J6QqK4%%J6%QJ6Q%%Q%K4%Q
+3128A2304QQ%QQQQQQJ6qJ6%%L2qQQJ6%%J6qL2%qL2%qJ6QQQQQqJ6J6%J6%QQ%J6QQ%J6qK4q%
+3123A2672K4J6QqQJ6%K4qQJ6%Q%K4qJ6QQQJ6j6K4QQJ6%Q%QQ%K4%QQQQJ6qJ6%QQQQ%QK4%QL2
+3118A3104qqK4%J6J6%%%K4qQK4qK4QqQJ6QJ6qQJ6%J6QQQJ6qK4%%K4QqK4%Q%QJ6QK4qQK4q%
+3113A3472J6QJ6%QJ6Q%QJ6J6Qj6L2%%QK4%J6Q%QJ6%QJ6Q%J6Q%QQQK4%%J6QqK4%K4%J6QqK4
+3109A3896QQJ6%QQQQJ6QQQQJ6qJ6QJ6%%QK4Q%J6QQQQJ6QQQJ6%QQK4%%K4qJ6J6QQQQQJ6%J6
+3104A4360QQ%QK4%QJ6J6%%J6QJ6Q%K4QqJ6J6%J6J6QQ%K4Q%QQQK4Q%J6qK4QQK4%J6%J6%K4q
+3099A4808J6%J6J6%J6J6qK4QK4qQJ6%J6QQJ6%J6QJ6%K4qK4QK4qJ6%J6QQK4%QJ6QQQQQJ6%Q
+3095A5264K4QQQJ6QQQK4%J6%J6J6%QJ6QQQK4qJ6QJ6J6QJ6%K4qQJ6J6%J6J6%J6%K4%J6QK4Q
+3090A5752QJ6Q%J6QJ6%J6J6J6Q%J6QQQQJ6QJ6J6J6%QQJ6J6J6QQQQK4%J6QQJ6QJ6QQJ6%L2%
+3086A6256QQJ6J6%QJ6J6QJ6QQQJ6QJ6QJ6QJ6QQQJ6J6J6QJ6QQQJ6QJ6QJ6QJ6QQJ6J6QQJ6J6
+3081A6784QQQJ6J6J6QQQJ6QJ6J6%L2%Q%L2%K4QQJ6QQJ6J6QJ6QQJ6K4J6%K4%QJ6QJ6J6J6QJ6
+3077A7336QJ6QJ6QJ6QJ6J6J6QQQJ6J6J6Q%M0%QJ6QJ6QK4%L2%J6%J6J6%K4J6J6QJ6QJ6QJ6J6
+3073A7888J6J6QJ6QQJ6J6QJ6QJ6J6J6QJ6QJ6J6J6QJ6J6J6QJ6QJ6J6J6QK4qK4J6K4%QL2qK4
+3069A8432J6QJ6QJ6J6J6QQJ6K4QJ6QJ6K4%K4QJ6J6QJ6J6J6J6J6J6J6QQJ6J6J6%L2QJ6J6QJ6
+3065A9000J6J6J6J6QQK4J6J6qL2K4%J6QK4QK4QQK4J6J6QK4J6QK4%K4QJ6QK4QK4J6J6J6QJ6
+3061A9600K4QJ6J6J6%K4J6QK4J6QK4QQL2QQK4J6QK4J6QK4QJ6J6QJ6K4K4QK4QJ6QJ6L2J6J6
+3057B0240%L2QK4%K4K4QQK4QQK4K4J6J6J6J6J6QQL2K4QQK4QK4J6L2%J6K4J6J6QL2qM0qL2J6
+3053B0912J6K4QL2QQK4J6J6%J6L2K4%M0Q%K4K4J6K4QQM0J6QJ6J6J6J6K4L2QQJ6L2K4%K4QJ6
+3049B1608L2QK4QK4J6K4QJ6QM8j6L2L2%K4J6K4J6L2%J6K4J6K4J6K4J6K4QQJ6L2%M8QJ6J6J6
+3045B2312J6K4K4K4%M0%K4K4J6J6J6J6J6K4K4QJ6K4K4J6J6K4L2QJ6J6K4K4K4QL2qK4K4K4J6
+3042B3008K4J6K4QK4M0QJ6J6K4J6L2%K4L2J6K4QJ6K4L2J6K4J6J6L2%K4K4K4K4J6K4QJ6K4K4
+3038B3744K4K4J6K4J6K4J6K4J6K4K4K4J6K4J6J6K4K4J6K4J6K4J6K4K4K4J6K4K4K4J6K4K4K4
+3035B4464J6J6J6K4K4K4K4K4J6J6K4K4QM0K4J6QK4L2K4K4K4J6K4K4K4J6J6K4K4L2L2QQL2L2
+3032B5248J6J6L2L2J6J6K4L2J6K4J6K4K4K4J6K4K4K4K4L2J6J6K4L2J6K4K4L2J6J6K4L2K4K4
+3028B6024K4K4K4K4K4L2%M0L2J6J6K4M0QL2K4QL2L2K4J6L2J6K4L2L2%M0K4K4J6M0J6L2J6K4
+3025B6888L2L2QM0K4K4QK4M0K4K4J6K4M0K4J6K4K4K4L2L2K4L2QM0K4K4L2J6K4M0QL2L2QM0
+3022B7808L2K4K4K4L2J6M0K4J6K4M0J6L2K4L2K4K4K4L2K4K4M0J6M0J6J6M0L2L2K4K4L2K4K4
+3018B8720L2J6L2M0QM0J6L2M0J6L2L2J6M0L2J6M0K4K4L2L2L2J6L2M0K4K4K4L2L2L2K4K4L2
+3015B9680L2L2QM8K4K4L2M0L2J6M0J6L2M0K4K4L2L2L2M0K4K4L2M0K4L2K4L2L2L2K4K4L2L2
+3012C0688L2M0K4K4L2L2L2L2L2L2L2M0K4K4L2L2L2K4M8J6M0L2M0K4L2L2L2L2K4L2L2M0L2L2
+3009C1760K4L2L2L2L2M0L2L2L2K4M8K4M0K4L2M8L2J6M8K4L2M0K4L2L2M0L2M0M0M0K4L2L2L2
+3005C2880L2M0L2M0L2L2L2M0L2L2L2M0K4L2M0M0L2M0L2L2M8K4M0L2M0L2M8K4L2L2L2M8L2K4
+3002C4056N6L2K4N6L2M0K4M0M0J6O4L2K4M8L2K4M8M0M0L2M0L2M0M0M8K4L2M0M0L2M0L2M8M0
+2999C5328L2M8L2M8K4M0M0M0K4M8M0M0M0M0L2M8M0L2L2M8L2M0M8M0L2M8L2M0M8M0L2M8M0M0
+2996C6656M0L2M8M0L2M8L2M0M8M0M0M8K4O4L2M8L2M8M0L2N6M0L2M0M0N6K4M8M8M8L2N6L2M8
+2992C8064M0M0M0M8M0N6L2M8M0M0M0M8M8M0M8M0M8L2N6M0M8M8L2N6M0M8M0M8M8L2M8N6M0M8
+2989C9560L2M8O4L2M8M8L2O4L2N6M8M8M8M0M8M0M8M0M8N6M8M8M0N6M8M8M8M0M8N6M8L2N6M8
+2986D1144M8M0N6M8N6M0M8N6M8M8M8M8M8M0N6N6M8N6M8M0N6O4K4O4N6M8M8M8M8M8N6M8M8M8
+2983D2824O4M8M8O4M0N6N6N6M8M8N6M8N6M8M8O4M8M0P2M8N6M0O4N6N6M0P2M0N6N6N6M8N6M0
+2979D4616P2N6M0O4N6O4M8N6O4M0N6O4M8N6N6N6O4P2L2O4M8P2M8O4N6N6N6N6N6N6N6N6N6O4
+2976D6544N6O4O4O4N6N6N6N6O4O4N6N6N6N6P2M8O4O4N6O4N6O4O4N6P2M8O4O4N6N6O4P2N6Q0
+2973D8608M0Q0N6N6P2M8Q8M8N6P2M8P2N6Q0N6O4O4P2O4O4O4N6Q0N6P2O4N6P2O4P2O4P2O4O4
+2970E0784O4P2O4O4O4P2Q0M8O4Q0O4P2O4P2O4P2P2O4Q0N6P2O4Q0O4O4P2P2Q0O4P2P2Q0O4P2
+2966E3128P2Q0P2O4Q0O4O4R6N6P2O4Q0Q0P2P2Q0P2Q0O4O4Q8Q0O4Q8N6Q0P2Q0Q0P2P2P2Q8P2
+2963E5640P2Q8Q0P2Q0Q0Q0O4Q0Q0Q8Q8O4Q8P2P2Q8N6J04Q8O4J04Q0N6P2R6J04O4Q0Q0P2J04
+2960E8200N6J04Q0Q0Q0Q8Q0Q0Q8P2R6Q0Q0R6P2Q8Q0J04Q8R6O4Q8Q0R6Q0P2J12P2R6Q8Q8Q0
+2957F0904Q8R6Q0R6P2J20O4J12Q0Q8Q0R6Q8J12Q0J04N6R6R6J12Q0J12Q8Q0Q0R6J04R6Q8J04
+2954F3648Q0R6J04R6P2J12J12Q8J20N6J04J12Q0J04Q8J28J04O4J04J12Q8R6J04J04P2J12R6
+2952F6256J04J12R6J04J28P2J04R6J20Q0J20R6J12J04Q0J28R6J28Q0J04J20J20Q8Q8J20J12
+2949F8968R6J04J20R6J12Q8J36Q8J20J04J20J20R6R6J28J04J12Q8J36J28Q8J20J12J12J12
+2947G1704J12J28J12R6J28J28J04J20J04J12J20J12J12J28J12J28J04J28J28J20J20J12J20
+2945G4392J04J36J12J20J12J28J12J44J20J20J20J20J28J20J52J04J28J20J20J28J20J28J28
+2942G7216J36J20J28J28J36J28J12J36J28J28J44J20J36J28J36J36J20J36J36J28J36J28J36
+2940H0216J52J20J44J28J28J36J44J44J28J36J52J28J44J36J44J36J44J36J44J36J44J44J36
+2938H3400J44J44J44J44J44J52J44J44J44J44J44J52J52J44J36J52J52J52J36J68J52J44J52
+2936H6784J52J44J52J60J52J52J52J60J52J60J52J52J68J52J60J60J44J68J60J60J52J60J60
+2934I0368J76J52J68J52J60J76J60J68J68J60J68J60J68J68J68J68J76J52J92J60J60J92J52
+2931I4192J84J68J68J84J68J76J76J76J68J84J68J84J84J60J84J92J76J76J84J76J84J84J76
+2929I8272J92J68K08J76J76K00J68K00J84K00J84K00J68K00J84K00J84J92J92K00J92K00K00
+2927A02640K00J84J92K00K00K00K00K00K00K00K00K00K08K00K00K00K08K08K16K08K08K08
+2925A07080K08K08K08K08K16K08K08K16K16K16K24K08K16K16K16K16K24K24K24K16K16K24
+2923A11816K32K16K24K24K24K32K32K24K24K32K32K32K32K40K16K32K48K32K32K40K40K32
+2921A16888K40K40K40K40K48K40K40K48K48K40K40K48K48K48K56K48K56K48K56K48K56K56
+2919A22320K48K72K48K56K64K56K56K64K64K56K64K72K72K64K64K64K72K72K80K64K72K72
+2917A28136K80K72K72K80K80K80K80K80K88K80K80K88K88K88K88K88K88K88K88K88K96K96
+2915A34392K96K96K96K96L04L04L04K96K96L04L04L12L12L04L12L04L12L12L20L12L12L20
+2912A41120L28L12L20L20L20L20L28L28L28L12L36L36L12L36L52L28L52L12L52L28L44L52
+2910A48376L28L52L52L44L44L52L60L44L44L52L60L60L60L60L60L60L60L76L52L68L68L76
+2908A56208L52L84L68L84L76L76L84L76L76L84L84L92L92L84L92L92L92L84L92M00M08M00
+2906A64680M08M00M00M08M08M08M16M00M08M32M08M24M16M32M32M16M08M48M32M32M24M40
+2904A73880M40M16M56M40M32M72M32M40M64M40M56M64M56M64M48M56M72M64M80M64M64M88
+2902A83888M56M80M80M80M80M80M88N04M80M96M96M80N04M96N12M96N04N04N28N04N12N20
+2900A94768N20N20N12N36N20N20N52N28N28N44N44N44N36N44N52N52N52N60N52N68N60N52
+2898B06664N76N60N68N76N84N68N92N84N84N92N92N92N84O08N92O00O24O08O08O08O32O08
+2896B19704O24O24O32O16O32O48O32O48O32O48O64O48O40O72O56O56O72O80O64O80O80O80
+2894B34032O80O88O80O88P20O96O96P12P20P04P12P12P20P28P36P28P36P36P36P52P52P52
+2891B49816P52P68P68P60P68P60P68Q00P68Q08P76Q00P92Q00Q16Q08Q08Q24Q24Q24Q32Q32
+2889B67272Q32Q40Q40Q64Q40Q56Q64Q72Q72Q72Q72Q88Q88Q88Q96Q96Q96R12R12R20R20R20
+2887B86632R20R44R44R44R52R52R60R60R68R76R76R84R84R92J000J000J000J016J024J024
+2885C06152J032J032J040J040J048J056J056J064J072J088J064J096J088J104J104J112J112
+2884C24360J120J128J136J144J152J152J152J152J176J184J176J184J200J208J208J208J224
+2882C44264J232J224J256J240J256J256J264J280J304J264J296J304J320J320J320J328J344
+2880C66072J344J352J376J368J368J384J408J400J400J424J424J424J440J456J456J472J464
+2879C90032J496J488J496J520J496J552J528J544J544J576J560J592J576J608J608J608J648
+2877D16472J640J640J656J672J680J680J688J712J728J728J736J752J760J792J760J800J800
+2876D45696J824J816J832J864J856J872J880J904J896J928J936J928J968J968J968K008K008
+2874D78152K016K040K048K040K072K088K112K096K136K144K144K176K176K200K208K232K240
+2872E14320K256K264K296K296K312K344K336K376K368K392K424K424K440K472K464K504K512
+2871E54800K536K552K552K584K600K616K640K672K656K720K696K736K744K776K792K808K832
+2869F00312K856K864K904K920K920K968K976L000L024L032L072L096L120L128L160L176L216
+2868F51744L224L264L280L312L320L368L368L416L424L472L488L512L544L568L592L624L656
+2866G10176L680L712L744L768L792L824L888L872L928L968L984M016M064M072M128M144M200
+2864G76960M224M264M288M336M360M416M432M480M512M560M600M632M672M712M752M808M832
+2863H53840M888M928M960N016N056N104N152N200N240N296N336N400N432N496N544N608N648
+2861I43144N712N776N808N896N952O016O080O168O224O312O424O504O624O760O944P136P400
+2859A050880P696P960Q168Q056P776P440P088O712O640O952P512Q064Q352Q192P488O792O528
+2858A178296O728P192P680Q160Q504Q680Q520Q128P936Q016Q296Q616Q968R312R656J0000
+2856A312688J0328J0520J0400J0216J0232J0600J1167J1617J1704J1608J1440J1199J0705
+2855A454424J0367J0585J1248J1927J2432J2705J3087J3552J3888J3880J3528J3224J3392
+2854A618239J3912J4264J4216J3864J3544J3168J2736J2520J2632J3360J4240J4528J3792
+2853A795015J2696J2408J3120J4408J5888J7376J8608J9240J8824J7096J4864J3584J3752
+2851A996879J4776J5944J7080J8072J8928J9568J9880K0104K0488K1184K2088K2824K3208
+2850B251023K3304K3280K3376K3560K4048K4968K6288K7336K7440K6440K5224K4688K5056
+2849B576031K6232K7976K9848L1696L3480L5336L6600L6127L3697L1016L0015L1160L3185
+2848B992399L5007L6449L8087L9936M1232M1912M3120M5744M9712N4008N7112N7608N6080
+2846C588406N4784N4944N6376N8648O1848O6008P0648P4624P8584Q5111R5296J09120J26608
+2845D581005J44408J53560J45992J30624J31088J57024J96600K28720K35239K17728J98440
+2844F520428J88272J76384J66456J81544K23376K76063L29016L76088M28727N07080N98736
+2843I972170O72511P14847P42271P69248P52352O63639N60687N19361N64511O25144N75199
+2842A7131940M13856K57752J19832l1456j38520j37952o336K38992N14679P21232Q09783P50048
+2841B0643850N44032L39560L39081N57663P91128P89055N12183J75978l7625j81400l69977
+2840B4103528n44502n84543n16257m94200n52558n63371m99023m51808m23247l22713j32599
+2839A9018707N7680J61407J68585J19520O2896M8623J13624K51184M37969O48982Q40922R63854
+2838B2893953R99737R90254R69864Q96143P47840O02584N60543O45359P61377P96703P75103
+2837C1639460P80246P76384P08920O47463O85904Q47846J081961J292416J445454J604695
+2836D1510749J849135K222780K712569L296332M003648M884749N978777P349988R100392J1296008
+2835I4205127J3764055J5869507J7056326J8261935K1255751K5368840K6879045K2933512
+2834B55594098J6701457J4285496J4959605J2286345M081342m095679o639822n665403p601283
+2833B93906156j3188410j6279170j3543635p581085j916331K897260Q725643J6471191K5058025
+2832B94549644L2755309L8951450M5343221N3260813O0159354O3132556O2975964O2220009
+2831G13348320O3313160O3895894N4614507L4587685J7552885J1526092J0615734N810539
+2831I75264816r140651l1142308m5679485m5835146m0686589l8604357l8007348l4810914
+2830F91358018k7076359j6418810o824968K24081P006585J6397599K8959696M2975990N6530453
+2829G93132285O8693545P9323879Q4495147P6331127N4154989L2750340K5924561K5157534
+2828A239963407J1826543j1988855k6087197k4625741k3063946l8205513o5738429q4945906
+2827I77134363q5076015p1480020n5683284m4439718l5324537k5127075j4780887m970589
+2827F40252238M891420J5304122K6277576L5774889M0628592M0497347L9675161M2257389
+2826H85558734M2635873L0870491J0969154k848367p579098r327622j3709475k6597088m5609158
+2825H64363444n8671981o1760612o1973215o3716669o5302921o3658468n7433674m9442793
+2824C82403111m2570210l5722246k7359249j8257574j0203932m256023N33090O138246J2161468
+2823B62866681J5222196J2623421P145110M992592P029257P411372R17760r476286j5337501
+2823B93394602j5124939j5311260j9856400k5043648k5946016k3162399k0343670j8837711
+2822A29768559j7258345j4777845j1981717r550567p683002o261804n131466m209296l461579
+2821D9452938k867120k396225k024805j735271j498742j289904j083256q77967p20566o39169
+2820C4319913o11296o07967o26016o93303q02614q51170p70870o49318o17369o95263q21712
+2819B6573015r41151j018039j045015j000791q66320o71802m73263l32831k80720k66552k13968
+2818A9462563j34720r5704q9632k9928J19688K83008L66639L89848M59392N84689O32920N61975
+2817B2510738N07496N34064N69615N56680M85790L33336L2360l93014p45664q25225o57470
+2816B2908706m69577m61311o23592p78176q14264p58167o22271l70784o4640J57416K00319
+2815A8303659O1984j38008k88575m43536o30423p14520o46480n53711n41200n94527o66424
+2814A3148239p10391o92352o42600o03399n73247n35440m87591m41928l98648l46384k83600
+2813G432659k20416j77815j69864j84352k03880k24760k36935k25784j94824j60592j39216
+2812E294221j39704j52752j57032j46520j31824j21663j14705j06151r4888q3032p2816o5440
+2810C907694o0808n7984n6232n5256n5424n7056n8872n8552n5480n1032m6600m3096m1008
+2809C210294m0136l9792l9479l8817l7304l4904l1887k9353k8648l0487l3664l5464l4880
+2808B755479l2920l0728k9112k8744k9728l0808l0824k9840k8696k7712k6600k5288k4000
+2807B380479k3112k2888k3120k3040k2616k2248k2128k2056k1824k1336k0736k0384k0192
+2805B094799j9864j9248j8392j7448j6376j5184j3912j2912j2976j4712j7488j9160j9032
+2804A878095j7800j6280j4976j4112j3464j2728j2048j1888j2288j2696j2992j3328j3600
+2803A699895j3592j3608j3840j4104j3992j3480j3184j3440j4000j4608j5056j4920j4160
+2802A517911j3095j1945j0904j0199r936j0056j0368j0648j1016j1392j1656j1664j1376j1016
+2800A362640j0872j0912j0848j0584j0176r736r352q936q552q256q152q384q800r024q920
+2799A221136q600q184p736p272o752o240n976o176o784p504p912q248q528q552q224p736p424
+2797A093288p496p776p968p856p640p360p128o936o776o656o528o440o344o272o176o128o040
+2796I75768n984n920n856n800n744n688n616n584n520n480n408n376n320n280n216n184n120
+2794H81672n096n032n000m944m904m872m816m792m736m688m656m632m560m552m504m448m432
+2792H01008m384m352m328m272m232m224m176m136m104m080m040l992l984l944l912l880l856
+2791G31112l816l784l752l736l696l672l640l608l584l560l528l504l488l440l432l392l360
+2789F70120l352l312l296l272l248l216l192l192l144l120l104l080l064l032l016k992k968
+2788F16520k944k920k904k904k856k824k832k816k768k768k744k728k696k688k664k656k632
+2786E69176k592k616k568k552k536k536k504k480k472k456k440k424k408k384k360k360k344
+2784E27144k328k312k288k264k280k264k216k216k208k192k160k176k144k144k104k104k096
+2783D89648k088k064k056k040k016k024j992k000j976j960j960j928j928j912j904j888j880
+2781D56032j864j864j840j840j808j808j800j800j768j768j760j752j728j720j728j688j688
+2779D25808j688j672j672j648j648j632j624j616j616j584j584j576j568j560j552j536j528
+2778C98504j520j520j496j496j496j488j464j456j456j448j432j432j424j416j416j376j408
+2776C73760j384j360j368j352j368j344j344j320j312j312j312j296j296j288j288j264j264
+2775C51288j256j248j248j248j224j224j216j216j208j208j184j176j184j168j184j152j152
+2773C30792j160j136j136j136j128j112j112j112j104j096j096j080j072j072j072j064j056
+2771C12048j048j048j040j040j032j024j016j024j016r84j016r84r92r84r84r76r68r68r60
+2770B92944r60r44r60r28r52r20r36r28r20q96r20r12q96q96q96q88q80q72q72q80q80q64
+2767B72944q56q48q48q48q56q16q56q32q24q08q32q24q08q00q00q00p76q32p76p84q00p44
+2765B54976p84p68p76p84p44p52p60p44p60p28p28p60p36p12p36p20p20p04p36p20p12p04
+2763B38688o96o88o88p20o64p04o72o72p04o48o72o64o72o64o56o64o56o32o64o48o24o56
+2761B23960o32o24o32o40o24o32o08o08o00o40o08o16n84o24n92o00o08n76o00n68n76o00
+2759B10568n84n76n60n68n92n76n44n76n76n52n44n52n52n52n44n44n36n36n36n52n44n20
+2757A98352n52m88n68n20n04n44m96n12n28m96n20m88n12n20m80m96m96n12m80m96m80m88
+2755A87176m88m72m80m56n28m80m64m88m40m72m64m72m64m64m56m56m56m56m48m56m48m40
+2753A76928m56m56m24m48m24m48m32m32m32m40m32m24m24m24m16m24m24m16m08m16m08m16
+2751A67504m00m32m00m00m08l92m16m00l84l92m08l92l84l84m08l92l76l84l84l84l92l60
+2749A58832l84l68l84l68l76l76l60l68l76l68l60l68l60l60l60l60l44l76l44l44l60l44
+2746A50824l68l52l36l44l52l36l44l52l28l36l44l28l44l36l28l28l36l28l36l28l20l28
+2744A43392l12l20l28l28l04l28l20l20l04l12l28l04l12l04l12l20l04k96l04k96l04l04
+2742A36528k96l04l04k88l12k88k96k88k88k96l04k72k88l04k72k80k96k96k88k72k72k88
+2740A30136k72k80k80k72k88k64k72k80k64k64k80k80k64k64k72k56k80k56k64k64k64k56
+2738A24200k64k64k48k64k48k64k64k40k64k48k40k64k56k40k64k32k48k56k32k48k40k56
+2736A18656k40k40k40k40k40k48k32k32k48k24k48k32k32k24k24k40k48k24k24k32k24k16
+2734A13504k48k16k32k32k08k32k16k24k08k32k24k32k08k16k24k08k08k24k16k00k24k16
+2732A08656k08k16k00k08k24k08k08k16j92k00k16k08k16k00k00k00k00k08j84k16k00k08
+2730A04120j92j92k00k08j76k08k00j92j92k00j84j92j84k00k00j84j84j92j76k00k00j84
+2728I9880j92j84j76j92j68k00j68j92j92j76j84j68j76j92j84j76j76j76j76j92j52j92j60
+2725I5736j84j76j76j68j76j60j84j76j68j84j52j76j68j68j68j68j68j60j60j92j44j60j76
+2723I1824j68j60j60j68j60j68j52j76j44j60j60j76j44j68j44j60j52j68j60j52j52j60j44
+2721H8168j76j36j44j60j52j60j44j52j60j44j60j36j52j52j44j44j60j36j44j52j60j36j52
+2719H4712j36j36j44j60j44j36j44j44j44j44j28j36j44j52j44j28j44j36j28j52j36j44j36
+2717H1472j28j36j36j36j28j44j44j28j36j36j20j20j52j44j28j28j28j36j28j28j28j28j20
+2714G8432j36j28j28j36j20j28j28j36j20j20j28j28j28j12j36j20j28j28j20j20j20j20j28
+2712G5536j28j20j04j36j12j20j20j20j12j28j28j12j20j04j36j20j04j20j12j28j04j20j12
+2710G2816j28r6j20j20j04j20j04j20j20j04j12j04j36r6j12j12j12j04j12r6j28j20q8j20
+2708G0128j04r6j20j04j28q8j12r6j04j20j04j04j20r6j04j12j04j04q8j04j12j04r6j04j04
+2705F7496r6j04j20r6j04q8j04j04q8j12r6j04q8j04r6j04r6r6j04j04r6r6r6q8r6r6r6j04
+2703F4720r6q0j12j04q8q8j04q0j12q0r6j04q0q8j04q8r6q8r6r6q0r6j04p2r6r6q0r6q8r6
+2700F1936q0q8r6q8j04p2r6q8q8q0r6p2q8j04p2r6q0q8r6q0q8q0q8q0q8q0q8q8q0r6p2q0q0
+2697E9096r6q0q8q0q8p2q8q0p2r6q0p2r6p2q0q0p2q8q0q8q0q0o4q8p2q0p2q8q0q0p2p2q0q0
+2693E6360q0q8o4q0q0p2p2q0q0p2q8o4q0o4q0q0q8o4o4q0q0p2n6r6o4p2q8o4p2o4p2q0q0p2
+2690E3808p2o4p2q0m8q0q0o4q0o4p2p2o4o4q0q0o4o4p2p2o4p2o4p2p2o4p2o4n6q0p2o4n6q8
+2687E1440n6p2o4o4p2o4p2o4n6q0m8p2q0m8o4p2o4p2n6q0m8p2o4n6o4q0m8o4o4o4o4o4n6p2
+2684D9240o4o4n6o4o4o4o4n6n6o4o4o4n6o4n6o4o4o4o4n6n6o4o4m0p2n6o4n6n6o4o4n6m8o4
+2680D7184o4n6n6o4n6n6n6n6n6o4n6n6n6o4n6o4n6n6n6n6n6n6n6n6m8o4n6m8m8o4m8p2m0n6
+2677D5256o4m8n6m8n6n6n6n6m8n6m8o4n6m8o4m0o4n6m8m0o4o4m8n6m8n6m8m0m0o4n6n6m8o4
+2674D3432n6l2n6n6m0o4m0n6m8n6m8n6m8m8m8m8m8n6m8m8m0m8m8n6n6m8m8m8m8m8m8n6m8m8
+2671D1744m8m8m8n6m0m0o4n6l2m8m0n6m8m8m8m8m0o4k4n6m8m0o4m0l2m8m8m8m8m0o4l2m8n6
+2668D0136l2n6l2n6m8m0m0n6m8m0m0m0n6l2n6m8k4m0o4m0l2m8m0m8m8m8m0n6l2l2n6m0l2m8
+2664C8648m8m8m0m8m0m8m0l2l2m8m8m0m0m8m0m0m0l2n6m8l2m0m0m8m8l2l2m8m8l2n6m0k4m8
+2661C7224l2m8l2m8m0m0m0l2m8m0m8m8j6l2o4m0k4m8k4l2m0o4qn6l2m0o4k4m0k4m0m0m8m8
+2658C5880j6m8m0m0j6m8m0m8l2l2m8m8j6m0l2m0l2n6l2k4n6j6m0m8m0m8k4m8j6m0l2n6j6m8
+2655C4624l2m0l2l2l2m8k4m0m0l2l2l2m0m0l2m0l2k4m0m8j6l2m8l2l2m8l2k4l2m8qm8l2m0
+2651C3440m0k4m0l2l2m0l2l2l2l2m0m0j6m0m0k4m0m0j6l2m0l2m0k4l2l2l2m0l2l2l2l2l2l2
+2648C2312l2l2l2l2l2l2k4m0l2k4k4m8l2j6m8m0j6k4m0l2k4m0l2k4k4m0l2l2k4k4m8k4m0k4
+2645C1248k4l2l2l2l2l2l2k4k4m0l2l2k4l2k4k4k4m0l2l2l2l2k4l2k4l2l2l2k4l2k4l2k4l2
+2642C0240l2l2k4l2k4l2k4l2l2k4k4l2l2l2k4k4k4k4m8k4j6l2k4m0l2k4k4k4k4k4m0j6m0j6
+2638B9288m0k4k4k4j6m0l2k4k4k4m0qm0k4l2j6l2l2k4j6m8qm0j6m0k4qm0m0qm0j6k4k4j6m0
+2635B8320k4j6m0k4l2k4qm0k4k4k4l2j6m8%l2j6l2l2k4k4l2l2k4j6l2l2j6m0j6k4qm0j6l2
+2632B7424j6l2k4k4k4k4l2k4j6j6l2k4qm0m0j6j6l2k4k4k4l2ql2k4j6k4j6l2k4k4l2qm0l2
+2628B6568qk4l2j6k4k4k4m8Ql2j6k4l2j6l2k4j6j6l2qm0j6k4l2j6k4qm0k4j6k4k4j6k4j6l2
+2625B5752k4k4j6k4j6l2j6k4k4j6l2k4qk4j6k4m0ql2k4%m8%m0j6qk4l2j6k4j6k4l2qk4l2%
+2621B4960l2j6l2j6j6k4k4ql2qk4l2k4k4j6j6l2%l2k4ql2k4qk4k4k4k4j6j6k4ql2qm0j6qk4
+2618B4168l2%m0qj6k4k4l2%j6l2j6k4k4j6ql2j6k4qk4j6k4l2qk4qj6j6k4l2qk4k4ql2%l2j6
+2614B3408l2j6ql2%k4k4k4ql2%m0%k4l2j6j6j6j6j6j6j6ql2k4k4j6j6qk4k4j6j6j6j6l2j6
+2610B2712%l2qj6k4j6k4j6k4j6ql2qql2k4qqm0%ql2l2%j6j6k4k4j6j6l2Qj6k4k4j6j6j6j6
+2607B2032j6j6j6j6l2%l2qk4qj6m0%j6j6k4j6j6j6j6j6j6ql2qql2j6qj6j6k4j6j6qk4k4j6
+2603B1384j6j6qk4j6j6qk4k4j6j6j6qj6j6j6qk4j6j6j6j6j6j6j6j6j6j6k4%k4j6k4j6qj6j6
+2600B0792k4qj6k4j6qqk4j6j6k4Ql2j6qk4%j6j6k4qk4j6qj6qk4j6qk4qk4j6qj6k4j6%l2qj6
+2596B0160k4%j6qk4qk4j6%k4j6qql2qk4%k4qk4j6qk4%k4j6j6j6%l2%k4qj6qj6j6%k4k4%j6
+2592A9560k4j6qk4Qk4j6qk4qqk4qj6ql2qqj6l2J6k4j6qqj6j6j6j6k4J6k4j6j6ql2q%j6j6j6
+2588A8992j6qk4Qk4qk4qqk4j6qj6qj6j6qqj6j6j6j6qqj6j6qqj6j6k4j6qqj6qj6qj6j6j6qq
+2584A8432%k4k4%k4qqj6j6j6qqqk4j6j6q%%j6j6k4j6qqqqk4k4qqqqqk4%k4j6%j6j6j6j6qq
+2579A7872j6qj6qq%l2j6%k4Qj6l2%l2%qj6j6Qj6j6j6%m0%Qj6j6j6j6qj6q%%j6j6l2Qk4j6j6
+2575A7352%qqj6j6%j6l2%k4Ql2Qqj6m0J6%k4j6%j6j6%k4J6k4k4J6k4l2%l2J6j6m0%j6L2l2
+2571A6912%j6qk4j6j6%K4n6qQqk4j6%j6J6m8j6k4J6Qm0j6j6J6k4QQk4k4%%m0J6l2%k4%k4m0
+2567A6432M8l2qL2o4%qk4J6m8%qQm0k4K4%%l2l2K4o4K4k4j6qM0k4qp2Qj6J6k4M8m8j6Ql2J6
+2564A6072m0l2%Q%Qm0Ql2Q%j6l2%k4J6l2QQm0%j6K4n6%k4K4j6j6Qm0L2k4%n6K4k4qm8M8m0
+2560A5640K4j6q%l2Ql2k4K4l2qQql2qQ%l2k4qqQ%%k4j6q%j6l2L2n6K4j6%j6qk4Ql2J6j6q%
+2556A5256k4Qk4qJ6m0l2QQ%j6k4J6l2Qj6j6qqqqj6j6%Qk4k4q%qqQj6j6k4qJ6j6j6Qj6j6qq
+2551A4848%j6j6qqqqqj6k4QJ6j6j6q%k4%j6J6m0Qj6Qk4%j6%qj6j6%%j6j6q%qqj6j6%%qqqq
+2547A4456j6qqqqqqqj6q%%j6qqqj6qq%qqqqqqj6qq%qqj6qq%j6%%k4%qqj6%%j6%l2Qj6q%q%
+2542A4016k4%qqj6qQj6%k4q%qj6J6l2Qqj6%j6j6Q%j6j6%qqqq%k4J6k4%ql2Qj6qq%q%qqqqq
+2537A3624k4J6j6qqq%j6j6%Qj6j6%Qj6j6q%qqqqj6q%%j6qq%j6q%%j6qq%j6qQj6qq%k4Qj6%
+2532A3264qj6%q%j6j6%%q%qqj6qq%q%j6qqqq%qqqqqq%%j6qqqqqQj6j6K4k4j6q%q%qqj6qq%
+2527A2880j6%q%%j6%j6%qq%j6%qj6%q%%qj6j6qQj6qQj6q%j6q%qqqq%j6%q%j6%qqq%j6qJ6k4
+2522A2528Ql2Qqq%%j6q%qj6%qq%qj6q%qQj6qQk4Qj6qq%%j6qq%q%qqqj6Qj6j6Q%qqq%qj6Qj6
+2517A2184q%q%%j6qQj6j6j6%Q%qqqq%j6q%q%qqq%qqqqqqq%%%j6qq%q%q%j6qQj6j6Qj6J6j6
+2511A1864qqq%%qqq%qq%%j6qqqq%k4J6qQk4qQj6%q%%j6j6q%%%qqq%qq%%qqj6qq%%Qqqj6qq
+2506A1528q%Q%ql2Qqq%%qqq%qq%%q%k4Qqqqq%%qqqq%%%%j6j6%%qqq%qqq%q%q%q%q%qq%%q%
+2500A1216j6qq%q%qq%%qqq%q%qqq%q%q%qqq%qq%%j6q%Qj6q%%q%qq%%qqqqqq%%q%qq%%qqq%
+2494A0888qqq%q%q%qqq%%Qj6qqq%%q%qq%%qqqq%%qqq%qq%q%q%j6Qq%j6%q%qqQj6%j6%Qqj6
+2488A0584Qj6%q%%%j6%q%%qqQj6j6QqqQj6Qj6qQq%q%%k4%Qqq%%qq%j6q%%Qj6%qqq%%qqqQq
+2482A0336%j6Qq%qqQk4Qq%qj6Qj6%q%%qq%%j6%Qqq%q%q%q%%j6%Qq%q%j6%%qqj6J6j6Qk4qQ
+2477A0096q%Qqqq%qq%Qq%j6qq%q%%%qqq%%Qqqj6q%Qqq%%qq%%q%qqqqJ6j6%qqQk4%J6j6%%q
+2471I856qq%q%qq%Qqq%Qqqq%qj6J6qj6%qQqj6Qj6QqQj6Qqq%qj6K4qqj6%qQ%j6%J6qj6k4Qq
+2466I632%%%%qq%%qqqqqQj6K4qqqq%%J6qk4J6l2K4k4q%qQqq%%%j6q%QqQk4Qq%q%q%q%q%%%
+2460I432q%qqq%j6J6qqq%%%qq%Qj6qJ6j6%q%j6Qj6Q%qqQQj6j6%%qq%%j6J6q%qq%%qq%%q%%
+2455I224%qqq%q%Qj6Qj6%qQ%qq%q%%j6QQj6%%%q%j6%qQq%%q%q%%qqQq%j6Q%q%q%q%%j6Qq%
+2449I024%qj6Q%j6%%%qQ%j6Qqq%Qj6%qQqq%%qQj6Qk4QqqQqQqqq%q%Qq%j6%Qj6%Qq%%j6Qj6
+2444H832Qq%qj6K4j6q%Qj6J6j6qqqQ%%%j6%qQj6J6%l2%Q%qJ6qj6%k4K4qj6QJ6j6j6%Qqq%%
+2439H688%Qq%q%q%k4QqQ%l2QK4k4Qj6J6l2K4k4Qq%q%%Qq%qq%%q%%%q%qqq%J6qQj6j6J6qqq
+2434H520K4l2Q%q%qqQq%%%j6%j6K4qq%%qq%Qj6q%%q%%Qq%qq%Qq%q%qq%%%%q%j6QQj6qQqQk4
+2428H344%Qq%Qj6%q%Qqq%qqQ%%%q%q%%qQj6qJ6j6Qj6%%%%qqJ6l2QQqq%%%q%%Qq%qq%%%%k4
+2422H184%%J6k4J6j6%%Qj6Qj6%%%j6%QqqQq%Qj6%qQq%%qQj6%Qq%q%%q%qQq%j6J6j6Qq%%qQ
+2417H064j6%%qQ%q%qqQ%q%j6%%j6K4%j6%Qqq%q%%%j6Qq%Qq%j6Q%%j6J6qqqqQ%j6K4j6Qk4Q
+2412G920qQq%%%qq%%%%Qj6qQqQl2J6qQj6qJ6Qk4QQj6q%%Qk4J6q%j6%QqQqqQj6%Q%j6%Q%qj6
+2406G776K4j6qQqQj6qQq%%q%Qqqq%%%%q%%%q%%Qj6q%Qq%%%qq%Qq%%%qq%Qqqq%%%%%q%%Qqq
+2400G640q%%Qq%q%q%%%q%%%qq%%%Qk4QQj6%%%Qj6j6QJ6qq%%%%qq%Q%%qq%%%qQj6Qq%q%%%Q
+2394G520qq%%%qQk4QQqq%Qq%%%qq%%%%q%qqJ6qqQq%qqJ6q%q%%j6J6qQq%%%k4QQq%q%qQq%Q
+2388G392q%q%q%%%Qj6%%%%q%j6%J6q%%q%%%q%q%%%%%%%q%%%qq%%%%q%q%%%%%j6QJ6k4%Qj6
+2383G256qK4j6%qQqq%%%%%%%q%%%%%%Qqqqqq%QQqqqqQQq%q%Qk4J6k4%J6%%q%%QqqQQj6k4K4
+2377G160qj6J6j6q%Q%%qQj6L2k4j6Qj6K4Qj6%qJ6l2J6qj6qM0k4Qj6J6ql2K4k4N6m0qQk4M0
+2373G096m0J6qj6J6j6%J6%q%qQj6J6q%%%m8K4J6q%J6m0L2k4L2m8QQ%j6M0k4K4k4%%K4m0Q%
+2369G008j6QqJ6%%k4j6j6J6qQJ6l2O4o4M8m0n6Q8J6m8K4m0L2o4K4M8l2j6J6m0%q%j6M0%J6
+2365F944j6%qQqM0m0Ql2J6J6m8K4J6l2J6J6%%m0L2m8K4qL2k4q%qJ6j6J6%k4J6%j6L2%k4qQ
+2361F872j6qK4ql2%M0j6k4K4Qj6Qq%qqQQq%j6qJ6qk4J6%%%j6K4%j6%QqqQ%k4%K4qq%%%Qqq
+2356F784%%qqK4k4J6qqQ%j6J6j6%QqqJ6k4Q%QqqQ%q%%%%j6%J6qQj6q%%Qq%%%%%qqJ6q%q%%
+2351F704%%%j6J6qqQq%q%%%%%q%%Qj6qQQq%Qj6%qJ6qQj6%Qq%q%%%QqQk4QQqqQQk4Qj6J6q%
+2345F616%%q%%%%%%%j6J6j6%%Qq%q%%%q%%%%Qq%j6J6q%%%q%q%J6q%%j6J6j6QQj6%%%%%%q%
+2340F536q%%Qq%Qj6qJ6qq%%%Qq%%Qqq%Qqq%Q%%qq%%%%%%q%%%Qj6%%QQj6qQQqq%Qqq%Qj6K4
+2334F472k4Q%%qq%Q%Qj6qQ%j6J6qQq%%%qq%Q%qQj6Q%qQ%%q%%%%%qq%%%Qq%%%%%q%%%%%q%%
+2328F376%%%%Qqq%%q%%%q%qK4q%%qj6J6j6%Q%Qj6QqqQQj6Q%j6QqQq%J6j6%qQ%%qQ%j6Qqq%
+2322F296Q%%%%qq%Q%Qqq%%%Qq%q%%Q%j6J6qq%q%Qj6K4j6q%Qj6J6qQj6q%Q%%%j6Q%QqQqQj6
+2317F232%%Qj6QQq%qQ%j6%%QQj6Qj6%Qq%%Qk4Q%J6j6%Qj6Q%j6QJ6k4Q%%qQ%qQ%q%%qqQqQ%
+2311F176qQqJ6k4Q%q%Q%q%Qj6QqQj6J6k4K4%qqQj6Q%qQqQj6QJ6j6Qq%qQ%%%j6J6j6%Q%%q%
+2306F120%%%%q%q%%Qq%%J6k4QqQk4L2j6%%%q%%Qq%%%%%%%qq%Qq%%%%Qq%q%%Qq%%%%%qQj6J6
+2300F064q%%%q%%%q%%%%%%%q%%Q%%q%%%qqQQq%q%%%%%%%q%%Qqj6J6qQ%%%%%q%%qJ6qqqQ%Q
+2294F000k4J6q%%q%%%%%%%QQqq%%%%q%%Qq%q%%%q%%J6k4Q%qQ%%Qq%q%%%%%%Qq%q%%QqqJ6q
+2288E936q%q%%%%%J6j6q%QQq%q%%%%%%%%%%%q%%%q%%QqqQQq%%%%%q%%Qq%%%qQq%%J6j6Qj6
+2282E872%%%%q%%%%QqQq%Qj6Qj6Q%qQ%Q%j6QQ%j6QqQj6%%%j6K4q%Qq%Qq%q%Qqj6Q%Qq%Qq%
+2276E824J6j6j6K4qqq%%QJ6qqQq%qqQQq%%j6J6%%q%Qj6%QQj6QqqJ6qj6J6%%Qqk4J6Qj6K4%
+2271E800j6%q%%q%J6qQqqQq%%%%%%%%Q%qQk4qK4k4K4k4K4k4J6Ql2QQ%Qqq%%%%%Qk4QJ6k4Q
+2266E736Qj6J6%j6Qq%Q%%%%%%qq%QqqQQq%%Qqq%Qqq%Q%%q%%%%Qj6qQQ%%%%j6QQj6QQqqQj6
+2260E680Q%%q%J6j6%%%%Qq%%%q%%Qq%%%%%%Qq%q%%%%%qQj6J6%q%Qq%%Qq%%%%%q%%Q%%%%qq
+2254E640QQq%j6QQj6QqQ%QqqQ%qQ%q%q%%%QQq%j6J6%qqQq%%Qqq%Q%%%Qqq%Q%%q%J6j6%%%%
+2248E608q%%Qq%%Qq%%%q%%Qq%qJ6j6J6q%%%%%%Qq%qq%Qk4J6%%%qJ6q%j6%J6qQqQj6J6qQ%%
+2243E576%j6K4qqQq%q%%Q%%q%q%%%%%%%Q%j6K4j6q%Q%%q%%Qq%%%%%%%q%Qqj6J6%%%Qj6Qj6
+2237E520J6qQqQ%%q%%Q%%qq%Q%%%%q%%%%Qq%q%%%%Qq%%Qq%%J6k4J6j6%Qq%J6k4QQq%Q%%q%
+2231E504q%%%%Qq%%%%Qj6K4k4Q%qQqQqQqqQ%Qq%%%qqQQ%%q%%QqQj6J6qQj6Q%qqQqJ6q%Q%k4
+2225E456J6Qj6qQ%%%%%%%%%%%%q%%%J6j6Qj6%Q%%%%Qqk4J6%j6J6%Qj6Q%Q%q%%%q%%%Qk4%J6
+2220E440j6QQqqK4q%q%%Qj6J6qj6J6Qqq%Q%%%%q%Qj6J6qqQqJ6q%%%%%%%%%q%%%%Qq%%Qk4J6
+2214E416j6J6qq%Q%%%%q%%Q%%%%q%%%%%%QqqQQq%%%%qJ6j6qQQqQj6%Qq%%Qq%Q%qqQQq%j6K4
+2209E392j6%QQj6qJ6qj6QQ%q%Q%qqQQqqQ%%qQ%%%%Qj6qQQj6Q%%%%%%%q%QqQ%%qQq%%%%%qQ
+2203E352%QqqQQj6%qQ%%QqqQ%q%%Q%qJ6j6Q%j6J6%qQ%q%qJ6Qk4%Q%%%%%j6J6q%Q%QqqQqqQ
+2197E328qJ6qj6J6qQ%Qq%j6J6q%%%%%%%%%QQqq%Qj6QQj6Q%q%%Qq%%%qK4k4Q%%q%%%%Q%%q%
+2191E304QQqj6J6q%Qq%q%%%QQq%qqQ%J6k4QqQ%%%%%%Qqq%Qq%%Qq%Qj6%Q%Qj6qQQq%%QQk4%
+2186E272J6qQ%Qj6%qJ6j6%QQj6J6q%%J6k4Qq%Q%qq%Q%%Q%qqQ%Qq%q%%J6qq%%qJ6q%Qj6J6j6
+2180E256J6q%qJ6qQq%q%%QqJ6k4Q%K4k4%j6K4%Qk4Qk4J6J6Qqk4J6q%QQ%qQl2J6%J6qk4K4q
+2176E248%qK4k4QQ%q%k4J6qQJ6j6qQQ%Qj6%%qQ%%j6K4j6%Q%Q%j6J6k4QK4j6J6l2K4Qm0L2%
+2171E248qj6%M8n6K4q%J6m0J6j6M8j6k4K4%j6%Q%%j6qL2qj6Q%%%%%%%J6k4QJ6l2QQj6K4k4
+2167E208qL2qQ%%qQQj6q%Q%%q%QQqq%%J6q%j6%QQk4%%%Q%Q%%q%J6l2L2j6Q%%q%qQ%%Qq%Qj6
+2161E200Q%%q%%%Q%%%%%%qqK4j6QQj6qK4j6%Q%%q%%%%%%%%Qq%%%q%%Qq%%Q%%q%%%%%%Qqq%
+2155E184%%%QQqq%Qq%K4k4QQqq%%%Q%%qq%Q%%J6k4%%QQ%%q%%%q%%Q%%q%%Q%%%%%%%%qq%Q%
+2149E176Q%%%%q%%%%%%%Qj6%qJ6%%%%%%%%Qqq%QqJ6j6J6k4J6q%QQq%qqQQq%%%%Qq%q%QQqq
+2143E160%QQQj6qQQqq%Qq%%%%J6k4J6qQqQQk4J6%j6J6q%%%%%%%%%%%%%q%%%%Q%Q%%q%%%%%
+2137E160%%q%%Q%%%%%%q%%%%Qq%%Qq%%%%%q%%Q%%%%%%%%%Qq%%Qq%%%%%%%%%%Q%%q%q%%J6k4
+2131E136Q%Q%%J6j6j6J6j6J6%qQ%j6Q%%%%Q%j6J6qQqqJ6q%qQ%%%%Qqq%%QQqqQQq%q%%Q%Qj6
+2125E136J6q%Q%k4QqJ6Qj6J6%j6J6qq%%Qq%qJ6qQqQj6Qq%J6qq%%Q%qJ6Qj6%qJ6qqQQqQqJ6
+2120E152j6qqJ6%Qj6J6qqJ6q%q%%%%Q%qQqQ%k4K4%qQ%Qj6QqQ%%qQ%qQq%QqQq%%Q%q%Q%%%%
+2115E136Qq%%j6QQqQq%%%%Qq%%%Qj6%J6q%Qj6Q%%%Qj6J6q%%%Qqq%Q%%%%%%%%qqQQ%%%%%Qj6
+2109E120QQj6%Qq%QQqq%Q%Qj6%J6j6QqQj6QJ6q%%%%%qQQj6%Qq%%%%Q%%%%%qJ6j6q%%Q%%QQ
+2103E136qq%Qj6QJ6q%q%qQQq%%%%%%%%%%%q%QQ%%q%%Qj6QQqQj6QqqJ6%%Qj6%J6j6QJ6k4Q%
+2098E120qQ%%Qj6Q%%%j6K4%q%%qqJ6%Qj6Qq%J6qQ%j6Q%%%qJ6%j6Q%%%qQQj6Q%q%J6qJ6j6q
+2092E112%Qq%J6%j6Q%%qQ%%qQ%%q%%QQ%j6QqQQqQqq%%%Q%qJ6qj6Q%QQj6Q%qQ%%%%%%%q%QQ
+2086E128j6%%%%%%Q%QqqQqJ6j6%Q%%qQ%qJ6qq%%%J6%j6Q%k4K4qQQ%%qj6J6%J6j6%q%J6q%q
+2081E112J6j6Q%Qk4J6%%j6K4j6QQqQ%q%%j6J6Q%qQq%J6k4QQq%%%%QqqQqQ%qqJ6J6qk4J6Qj6
+2076E112QQ%j6%%J6qj6K4%%j6%QQqQqQq%%%%K4j6Qk4qK4j6J6j6K4j6qJ6qQ%j6K4qqqJ6qQj6
+2071E112J6q%qJ6qQqJ6qq%Qq%QqQj6%J6%k4J6J6qqqQ%J6j6J6qj6QQ%%%QqqQ%j6%QQq%QqQ%
+2066E128qJ6j6QQj6%QqQ%j6J6%%q%J6j6%%%%Q%%%%%%%%%Qqq%%QQq%q%QQq%%%%Qqq%Q%Qq%%
+2060E128Q%%%%q%%%%Qq%%%%%%Q%%%%%%q%QQq%q%%Q%%q%%Q%Qq%%%%Qq%qqQJ6q%%Qq%q%%%%Q
+2054E136%%%Qq%q%%Q%Q%%%Qq%%Qj6%Qj6J6J6k4Qj6J6j6K4j6qQQ%%q%QqK4m8M8j6j6qJ6qQQ
+2049E144%Q%Qj6j6%%QJ6j6J6j6J6%j6%Q%QQqj6J6j6Qj6L2k4QqK4k4%%Q%Qj6QK4qk4K4%k4L2
+2044E168qj6j6%L2j6j6%QQQl2L2j6QJ6qq%%%%Q%QqJ6k4QQ%Qqq%QQq%qq%Q%Qq%%Qq%%%%Q%Q
+2039E168qq%QqQQj6%J6j6Q%Qq%%Qq%%%%QqQj6J6j6Q%Qq%qQJ6j6%Q%QqQj6J6j6Q%%%QqqQQq
+2034E168%%Qq%%%q%J6qQj6QQqqQQ%Qj6qQQ%%q%QQq%%%%%%%%%qQQk4J6%%Q%%q%q%QJ6qq%%%
+2028E176Q%%qqQJ6k4%J6j6Q%Qj6QQQj6%%%J6j6Q%qQ%%qqQQ%qK4k4Qq%Q%qJ6qqQ%%%qQJ6%k4
+2022E176Q%Q%j6K4qqQ%q%QqQqQ%%Q%j6J6j6J6%j6QQqQq%qQQ%%%q%%qJ6q%QqQ%qQ%j6J6%%Q
+2017E208k4QQqK4j6%%%Qq%%%Q%qQq%Qq%QQj6Q%%%%%%%%%%%%%%Qj6J6%q%%Q%%%%q%%%%Qq%Q
+2011E216Q%%q%%Qq%%Qq%%Q%%%%q%QQk4J6Qq%%q%QQ%%qq%%%%QJ6qq%%QQqq%%%QqQQk4J6%j6
+2005E216J6%qQqQ%qQqQQ%%qqQQ%qQj6Q%%%%%Q%Qk4J6QqQq%J6l2J6qQ%Qq%%%%%Qj6QQj6J6q
+1999E240Q%qQ%qQ%%%%%Qj6J6j6Q%qJ6Ql2K4%%%%qQj6Q%Q%%%Qk4Q%Q%Qq%qJ6j6Q%Qq%qQ%%Q
+1994E264j6%J6%%%qJ6j6QQj6QqQ%%%%%qQq%%Q%%%qJ6%q%qJ6qqQQq%%%Q%%q%%Q%J6k4J6j6Q
+1988E272qJ6q%%Q%%%%q%%%%%%Q%%%%%%%Q%%%%qqQQ%qQj6K4k4QQ%%q%%%%%%J6k4K4qQk4J6q
+1983E280J6j6%J6%j6QJ6qQqQj6J6Qj6q%QqqK4q%%%Q%%QqL2m0Q%J6j6QQq%qJ6k4K4m0L2J6k4
+1978E304%qqQK4q%j6Q%%QqJ6J6k4j6Q%QqQJ6q%j6J6%%L2n6L2l2L2k4QQqQq%QQj6K4%k4K4l2
+1973E304K4qQJ6k4k4K4%Qq%J6J6k4QqQQq%Qk4qL2%%J6j6Qq%%qqQQq%qJ6Qj6%%K4k4QJ6k4J6
+1969E352%qQj6J6qQ%%%%%q%%Qj6QQ%qQqQ%qJ6%j6J6qQqQQqqQQk4J6%Qqq%Q%Qj6J6qqJ6j6%
+1963E352QQQq%%%%%%%%%%Qj6J6%j6%Q%Qq%QQk4J6%qQ%%%%Qq%%%%QqqJ6%j6J6J6j6%%%%q%Q
+1958E384Qq%%%%%%Q%j6J6j6QQ%%%%%Qk4K4%%%%%%q%J6qj6QQQq%%%%%%Q%%q%%%Q%j6K4%k4K4
+1952E416qj6QQqK4j6%%QqqJ6%qQ%qJ6j6J6q%%%Q%%Qqj6J6q%J6%q%Qq%%QqQ%j6K4qqQ%%%%%
+1947E432%%L2l2J6%j6QQqQj6J6qqJ6q%%%%%qJ6%%%%%%q%%%J6qQqj6K4%q%Q%qQqJ6j6J6q%%
+1942E456j6J6%%Qq%%%%Q%%%%%qJ6j6%Q%Qq%%QqQj6J6%%%%%%%Qq%%%%%%Q%%q%QQqqQQ%%qqQ
+1936E480Qq%%Q%qJ6j6Q%%Qq%%%q%QQ%%%%%%%%q%%Qq%QQQqQj6QqQ%Qq%%%Qq%J6j6Qq%J6qQq
+1930E512%%%q%Q%J6q%qQ%%%%%%Qq%%Qq%%%%QqJ6Qj6qQqQ%Q%%%%%%j6J6QQqq%Q%%%%%%%Qqq
+1924E536%Q%%%%%%%Q%%Q%j6J6q%%%%Qq%%Q%%%%%%%Q%%q%q%QJ6j6qQQ%%%QqqQQ%%j6J6%%q%
+1918E568%J6j6J6j6QQqQq%Q%%q%%Q%qK4j6Qq%Qq%QqQ%j6J6Qj6J6j6J6qQ%qQq%QqQ%Q%%%%j6
+1913E592QQq%QQj6%Q%%qQQ%j6J6%qJ6q%Qj6QQq%J6%qqJ6qqQQ%qqQ%Qq%%QqJ6j6QJ6j6%qQ%
+1907E632%QqQqQqQQj6J6j6J6j6Q%%%QqQ%q%%QQQqqQqQ%%QqQ%%q%QqQ%%qQJ6j6%%%%Qj6J6q
+1902E664QQqj6J6QqqQQqqJ6qQ%%%%%qQJ6j6qQ%%Qj6J6q%%%Q%QQk4QqQ%QqQ%%qJ6j6QQQl2J6
+1896E696%Qj6J6j6J6%%Qq%%%J6qqqQ%Q%%%QqQqqQQqQq%%J6%%q%%%Q%%QqQj6%Q%%Qj6Q%%%%
+1890E728Q%Qq%%%%%%%QQqq%%QQqq%%QQ%qJ6j6%J6j6J6Qj6Qq%qK4%q%%Q%%qqK4j6%%J6k4QQ
+1885E768q%K4j6%%j6K4Qq%%q%%%QQQQj6qQQq%q%QQ%%%j6J6qQj6Q%J6q%QqqK4m0K4J6k4L2j6
+1880E800j6J6J6q%q%q%QJ6q%Q%j6J6Qq%qK4j6Qj6Q%j6QQJ6j6qQJ6q%k4K4qQ%Q%%%Qq%%%%Q
+1875E840qQk4K4%q%%QQqqQQQqj6J6qQj6K4qqQQq%%%QQ%%q%%%%%%Q%%%Q%%q%%%%%%Q%%%%%%
+1869E872%%%Q%Qq%%%QQ%%qQq%qQqJ6%%j6J6Q%j6J6%q%QqqQ%%%Q%%QqQ%%qJ6qq%QQj6Q%%%q
+1863E904J6%%qQQq%%Q%%%qQ%%%QqQqQqQ%q%Qj6K4j6QQk4J6J6qQq%Qq%%%QQj6J6j6QQq%%QQ
+1858E968j6Qq%J6qQq%%Qq%%QQj6QQj6%QQ%j6J6qJ6%%%qq%Q%Qq%%QJ6q%%%%%%q%QQ%%j6%J6
+1852F000qq%QQ%%%Q%%%%%%QQq%%Qq%%Q%%qJ6k4Q%Q%%%Q%k4J6%%Q%%q%QQ%%%%%%%%QQ%%q%%
+1846F048%%%%%%%Qj6Q%Q%%%%%Qj6Q%Q%%Q%%%%%%%Q%%%%q%%Q%%%Qq%%Qq%QQq%%%%QQQqq%Q%
+1840F104%%Qqq%Q%QqQj6J6qJ6q%%%%%%Q%qJ6q%q%K4j6%Q%j6J6qQ%%%%%Q%%%%%J6k4J6%%%Q
+1834F152%%qqQJ6q%%%%%q%QQ%%j6J6%QQj6%Qk4L2j6%J6%qQqqJ6QqQqQj6%J6%%qJ6q%%j6QQ
+1829F184%Q%qQqQ%Q%q%Q%qJ6%q%Q%q%J6%qqJ6q%%QqJ6q%Q%%%%Qj6%Q%Q%qQ%qJ6j6%J6%%qQ
+1823F240Qq%%qQQ%%q%Q%%q%J6%%%qQ%%Q%qQqQqJ6%%%q%QqQQq%%%%Q%Qq%J6k4QQ%%%%%%J6k4
+1817F280QJ6qqQQ%%%Qq%%%%%%Q%%%QqqQQ%%%%%%%Qq%%Q%%%Qq%%Q%%%Q%Qqq%%%%q%QQJ6l2L2
+1811F360qq%K4j6q%QQq%K4k4K4k4QQq%K4k4QQ%%q%QJ6j6qQJ6q%q%%Q%QqqQQ%Qj6QJ6j6Qj6
+1806F384QQ%%q%QQq%QQ%%q%Q%j6K4j6J6%qQqQ%%%%Q%qJ6qqQ%%%%%%QQq%%Qj6J6qQq%QQq%Q
+1800F456Qq%%Qj6J6j6J6q%J6k4J6Q%Qqq%Q%%%Q%%%Q%%%QqqQQq%%Qq%QQq%%%QqJ6qj6L2qq%
+1795F504%%Q%%%%%%%Q%%q%%QQQq%QJ6j6qq%QQqqQQqK4q%%Qq%J6%Qk4k4M0qQJ6qj6%Qj6QJ6
+1789F568Qj6J6%%qQqQQj6qJ6K4j6k4J6qK4j6Qj6%Q%QJ6qqL2k4%%QQj6%%J6%l2M0qqQJ6qqq
+1785F600QJ6l2J6%J6q%K4j6Q%J6l2Qj6QJ6%Qk4%Q%QQqJ6%qqK4qQqqqk4O4j6j6J6qqL2%j6Q
+1780F664Qj6K4m8L2Q%J6q%k4qL2%%L2k4k4K4m0K4J6J6Qk4qK4q%j6%L2k4L2k4j6QJ6Qk4M8j6
+1776F720j6%Q%%QqQ%%j6QQJ6qQj6%%QqL2j6j6QQQ%j6J6J6qQj6QQ%j6%J6qqQ%Qq%QQj6K4qq
+1771F760K4q%j6Q%qJ6%QqqQQq%QQ%%q%qK4%q%Q%%qQJ6j6Q%Qj6Q%%Q%%q%%Q%Qq%QQq%%%%Q%
+1765F832%%Qq%QQq%%%QQqqQQj6J6%q%%%%%Q%Q%%%%qK4qQq%%Q%Qq%%Q%%%%%%%%QQq%Q%j6J6
+1759F904%%%%%%%%%Qj6J6%%QqJ6%j6Q%%QQqqQQq%QQq%qK4j6Q%%Q%%%qQ%%%Q%J6j6QqQ%J6j6
+1754F968QQq%qQ%QqQqQQ%qqJ6Q%q%%J6q%%QqQQq%%%qJ6%QqQqQq%J6q%Q%%q%Q%J6q%Qq%%Qq
+1748G040Q%%Qj6J6qJ6%%Qk4Q%%%J6qQqQ%qJ6%qJ6qqQQj6J6QqQ%%%%%qQ%qQ%Q%Q%j6QQqQQ%
+1742G120Qj6%Q%qJ6Q%%%%%qQ%Qj6QQ%qJ6q%%J6%q%%%Qq%QQj6QJ6Qj6QqQ%q%J6q%Q%qJ6j6J6
+1737G192%qJ6q%%%Q%%%QqQQ%qQj6Q%%Q%qQ%QqQ%%Q%%%%%Qq%QQq%%Q%%%%J6k4QQ%QQqQj6J6
+1731G272%%%%%%Qq%%Q%Q%%q%QJ6qq%Q%QqQQj6Q%Q%Q%%qQ%qQQq%%QQ%%%%q%J6%j6J6%%q%QQ
+1725G352q%QQqqQQ%Qq%%Q%Qq%QQqqQQ%Qq%%%%Q%%%Qj6J6%Q%Qq%%Qj6J6qQ%Qj6QJ6qQqQqQ%
+1719G432%J6qqQ%%%J6%%qQj6J6%qJ6qQ%%q%J6qQQq%J6qqK4j6QQj6Q%Q%Q%%j6J6qQQ%q%%%%
+1713G504J6%qQQ%q%QQq%%%QqJ6%%%%j6J6Q%Qj6J6q%QqQ%%QQ%qQqQQqQ%%%%%QJ6qq%Q%Qj6%
+1708G592K4j6Q%%%%%QQq%QQq%%%%%QQ%%q%%%QJ6j6J6j6K4j6%QQ%Qj6qQQQQqq%%QQ%Q%%qqK4
+1702G696qqJ6q%QQ%%q%%Q%%%%QQ%%%%%%QQqq%QJ6q%qJ6%qQQq%Q%Qq%%Q%%%%%Q%q%J6%q%QQ
+1696G784qQqQ%Q%%Q%%%qQ%J6j6Qq%Q%Q%%Qq%qQJ6%q%%J6%qJ6q%J6q%%%Q%qJ6q%Q%%%QqJ6q
+1690G872qJ6q%J6qqJ6%qJ6q%J6qQj6QQq%Q%QQqqQ%Q%%%Q%j6J6%%%Q%%%%QQqQQj6Qj6K4%qJ6
+1685G968k4J6%Q%Qq%%Q%Qq%QQqQj6J6%QQj6Q%%%%%QJ6j6qQQ%Q%Qq%%%QQ%%q%%Q%Q%%%Q%%%
+1679H056%%QqK4qqJ6%j6J6QqQqQ%%qJ6qQqK4q%Q%%q%%Q%%%Q%QQj6Q%Q%%qJ6qQ%%%QqJ6qQQ
+1673H168q%J6j6Q%%Q%%%%%Q%%QQq%%Q%Q%%%%%%%Q%%%%QqJ6q%%J6q%QqQJ6j6QqQqJ6%%Q%%%
+1667H264%%Q%Q%%%%%Q%Qq%%Q%%J6%j6J6%q%Q%Qq%QQq%QQ%%%%%Qq%J6j6Q%%Q%Q%%q%QJ6%Qq
+1662H376%%%Qj6QQ%%QQ%qQj6K4j6Q%Q%Q%Q%q%%J6qQ%QqqK4j6J6Q%k4J6J6k4J6%%%%QQj6Q%
+1656H464J6j6QJ6qqQQqQ%qJ6j6J6J6%q%%%J6%qQ%%j6J6QQq%qJ6%%J6q%qJ6q%QQ%qJ6q%%QJ6
+1651H584qqQJ6k4J6qQ%QQ%%Qj6J6%%qJ6j6J6Qj6Q%Q%%%%K4j6%Q%%qK4j6J6%qQ%QqJ6q%%Q%
+1646H672Q%%qJ6%Qq%%J6q%QQj6Q%J6%%%%%%QQj6J6qQQj6QQ%QqQQq%J6q%qJ6%qQQ%Qq%%J6q
+1641H784J6q%%Q%%%%%J6qqJ6%%%QQq%Q%Qj6K4q%Q%q%K4j6J6%qQ%%Qq%Q%Q%%J6qQq%Q%QQQq
+1635H912q%Q%Q%Q%%%%%%%J6j6J6qQ%%%Q%%QJ6qqQJ6q%%QqqK4q%%%Q%Qq%QQ%%%%QJ6qqQQqJ6
+1629I040j6J6q%%Q%%QQ%%%Q%%qJ6j6J6%Q%%Q%Qj6%K4%q%J6q%%Q%%%Q%Q%%%J6k4J6%%%Qq%J6
+1624I152%Qj6J6QqQ%Qq%Q%QqQQQj6J6%qQqQ%Q%Qj6J6QqQ%%%Q%%Qq%Q%%QQ%%%J6j6%J6qQ%%
+1618I272Q%qQ%Q%QQ%%%qQ%QJ6qj6J6Q%%%J6qqQ%QqQQ%%%QQqQ%%%%Q%%QQ%qQQ%qQQqQ%%QqJ6
+1612I424%qQ%J6q%%Q%QqJ6q%QQ%%j6K4Qq%J6q%%%QqJ6qK4j6%QQj6J6%%%%Q%%%J6%qJ6qJ6j6
+1607I536QqJ6%%%J6qQqJ6qQ%%%Q%QQqQq%J6qJ6qQ%%Q%qJ6qQ%%QQk4M0j6Q%%QqQ%Q%QqqK4%
+1601I688Q%qQqJ6%%j6J6Q%%J6q%QQ%q%QQ%%%%%Q%Q%Q%%%QJ6k4QQ%%QQ%%%Q%%j6J6%J6k4L2
+1596I832k4J6%QqL2j6J6j6%QQ%%%Q%%qJ6Qk4J6J6qqQJ6Q%Qk4K4%q%J6%Qk4K4j6K4J6k4Q%Q
+1591I944j6J6Qq%Qq%K4q%J6j6L2q%qK4%k4j6K4%J6qK4%l2L2%qK4q%QQk4j6K4J6j6K4k4J6J6
+1587A0056%%%%L2%j6j6J6Q%l2L2%L2k4j6J6J6j6M8j6j6qL2Qj6%%L2l2J6%%%%L2m8L2qL2qJ6
+1583A0184l2K4j6Qj6K4qQqJ6%J6J6l2J6%%%qK4QJ6qqk4M8k4K4l2J6J6J6j6QqJ6%QqK4l2J6
+1579A0272qK4qQQQqQ%j6J6J6j6K4k4K4j6J6j6%QJ6j6K4Qq%J6k4M0l2K4QqQ%Q%j6J6%Qj6J6
+1575A0392J6j6qK4q%K4%%QqqQJ6q%QQj6K4qQQqJ6%%Qq%%Q%QqK4j6J6%%%%%%QQ%%Q%J6qqJ6
+1570A0544%QQj6J6QqQ%%QQqJ6k4K4%%%Q%%%Q%%QJ6j6J6j6K4q%J6qQ%Q%%Q%Q%Q%%%%%QQQ%%
+1564A0704%Q%Q%%%QQQq%%Q%Q%%%%QQ%%QQ%%%Q%%%%QQ%J6j6J6j6J6%QJ6j6QQ%Qq%QQ%Q%%%Q
+1558A0880%%%QQQq%%Q%QQQq%J6%j6J6%J6Qj6J6%Q%qJ6qQQ%%%J6qQqQQ%Q%Qq%QQ%%QQq%QQ%
+1553A1056Q%%q%QJ6%%QQq%QQqJ6J6j6QQ%%%%%QJ6q%QQQq%QQq%QJ6%Qq%QQ%%%%%QQQ%%%Q%%
+1547A1240QQQQqq%QQQ%Q%%QJ6qqQQQj6QQ%Q%Q%%J6%qK4j6J6%%qK4%%%Q%Q%%%%%QK4j6Q%Q%
+1542A1432QQ%%%Q%%%QQQq%%QQQ%Q%qQj6J6K4qqQQ%QQQq%J6j6%J6%Q%Q%%QQ%QQ%Qj6QqQQ%Q
+1536A1624QQ%%%QqK4%%%QqQqK4j6QJ6%Q%j6K4%%%%QQ%%%Q%QQQ%%%%QJ6q%QQj6J6QJ6q%QQq
+1530A1816%QQ%%QQj6J6%J6%%QQq%QJ6%%%Q%%%QQQ%Qq%%QQ%J6q%%QJ6%%%Q%Q%Q%Q%Q%%QQ%Q
+1525A2040%Q%Q%%%Q%%QJ6q%%QQQ%%QQ%%%Q%Q%Q%Q%Q%%QQ%%%QQQ%%%Q%%QQ%%QJ6%qJ6qQQ%%
+1518A2264%Q%Q%Q%Q%QQQq%QQ%Q%%QQQQ%%%%QJ6k4K4%%%Q%QQQ%%QQ%%%Q%Q%Q%Q%QQQq%QQ%Q
+1512A2512%Q%Qq%QQJ6qQQqK4j6J6%Q%qK4qJ6qQ%QqQQ%QQQ%%%J6j6K4qQQ%%Q%%%QQQ%QQQ%%
+1507A2736%Q%%%QQQ%%QQ%Q%%QQ%Q%Q%Q%%QQ%%%Q%Q%QQQ%%QQ%%QQ%Q%%%Q%Q%%QQQQ%%J6j6Q
+1501A2984J6%%QQ%%QQQQ%%%%%QQQ%Q%%QQ%Qq%QJ6QQQqqK4%qJ6qQQ%Q%%%QQQ%Q%Q%QQQ%qK4
+1495A3256j6QQ%%QJ6QqJ6qJ6%%qQJ6j6J6QQ%Q%%QQ%%QQQJ6k4QQ%QJ6%%%Q%%QQQQq%QQqK4%
+1489A3480Q%%%QK4j6%J6%J6j6J6QQ%%Q%j6L2QQj6QQqJ6Q%%QQ%Q%QQQqK4qQqQQ%QJ6qQQQqJ6
+1484A3728%Qj6J6Q%%J6qJ6qJ6Q%qK4QQq%%QQQQqQJ6qQ%K4qQQqQqJ6J6j6J6Q%K4j6QQQ%qJ6
+1479A3960QqJ6QQq%J6%Q%Q%%Q%Q%J6%QQ%%QQ%QQQ%Q%Q%%QQ%%QQQQ%Q%QQQQQ%Qq%QQQQ%Q%Q
+1473A4264%%QQQQ%%%Q%QQQ%%QJ6%%QQQQ%QQqJ6qQ%J6%J6j6J6Q%%QQ%%QJ6%%QQ%QQ%J6qQQ%
+1467A4544QQQq%J6J6%Q%Q%%%Q%QQQQQ%Q%Q%Q%QQQ%%QQQQ%%QQ%QQQ%Q%%QQQQ%QQQ%%QJ6j6J6
+1461A4864%J6J6%%j6J6J6%%QQ%QQQq%L2qQQ%Q%QJ6j6J6%%J6%Q%%QJ6QJ6%%%%QJ6%Q%%QJ6%
+1456A5144%%QQJ6%%%Q%QQJ6%Q%QQQQqJ6qJ6Q%J6q%K4qQQ%QQQ%QQQ%Q%QQQ%Q%QQQQQ%%QQ%Q
+1451A5472%Q%%QJ6QQ%Q%Q%QQQ%QQQ%QQ%J6qJ6%%J6qQJ6%%J6%%QJ6%%K4%%%QJ6%%QQQQ%Q%%
+1445A5784QJ6%%QQ%%J6J6%%QJ6QJ6%%%%QQ%QQQ%QQQ%QQQ%qK4qJ6%%K4QQ%QQQQqQQQJ6qqQK4
+1439A6136qJ6QQqQK4j6L2j6%K4j6J6qL2QqQQJ6qQQ%%J6J6QqQJ6%%QQQ%%J6Q%QQQ%QJ6%%%K4
+1435A6448%qJ6QQQqJ6Q%J6%QqQK4%%QJ6%Q%J6Q%%J6%qJ6J6J6j6K4Q%%%J6QqJ6J6qQ%J6J6%
+1430A6752Q%QQ%QJ6qJ6Q%Q%J6J6k4J6J6%QQJ6%QQQ%%QQQQQQQQQQ%%QJ6%%QQJ6qK4%%QQJ6%
+1425A7104%QJ6q%J6J6%%QQQJ6%Q%%J6J6q%J6K4%%QQ%QQQ%QQJ6%Q%QQQQQQJ6%%QQQJ6%%QJ6
+1419A7472%Q%Q%K4qK4%%QJ6%QQQQQ%%QJ6J6qJ6Q%QQJ6%Q%%J6QqK4%QQQQQ%%K4%Q%QJ6%QQQ
+1414A7848QQQQ%%QJ6%QQQQQQQJ6%qK4%QQQQQqK4%QQJ6qK4%QQQQQ%Q%QQJ6QJ6%%QQ%QQQQJ6
+1408A8264%QQQ%J6qL2j6K4%J6%QQQQQ%QQJ6%J6qK4%QQQQQ%QJ6J6%QQQ%QQQQQQJ6qJ6%QQJ6
+1403A8664QQqJ6QQ%%L2%QQJ6j6QK4Q%K4j6K4%qL2%J6qJ6Q%QQQQJ6QQ%J6QQQ%J6J6%qJ6Q%L2
+1398A9064qJ6%QJ6qL2J6l2J6K4%qK4J6%QQ%QL2j6J6%K4k4M0j6L2j6K4QqK4J6qJ6%J6%J6QJ6
+1394A9400%%K4qJ6QQqJ6J6QqJ6%K4j6M0J6Q%qJ6Q%qK4qL2QQQQJ6Qj6L2J6J6%%qQ%L2%%K4K4
+1390A9800%%%%QQK4K4l2L2qL2qQJ6J6k4M0QQ%%J6J6QQ%%%J6%L2qM8qqQJ6QQQQQJ6%QQJ6%%
+1385B0184K4qJ6L2qJ6%J6%%K4QqL2%Q%j6M0%K4%j6M0QQQQQJ6%QQQJ6J6qJ6J6qQQQK4qK4%J6
+1380B0616qQK4QQJ6%QQJ6%QJ6J6%QQQQQJ6J6QJ6q%QJ6J6J6QQqQL2qJ6QQJ6qJ6%L2%J6%K4q
+1376B1048J6J6%Q%K4QQ%J6J6QQ%QQJ6J6qK4QJ6QqJ6QJ6QQQQJ6J6QQ%QQJ6%QJ6J6QQQQQQQQ
+1371B1520QQJ6J6QQQJ6QQQQJ6J6qJ6J6qK4J6Q%K4%J6Q%J6QJ6%J6J6j6K4J6%J6QQJ6%K4%%K4
+1366B1976QqL2qK4Q%J6J6QQK4%J6qJ6J6QQQQJ6QQJ6%K4%QJ6QJ6%QJ6J6QQK4%Q%J6%K4QJ6%
+1362B2448J6QJ6%J6QQQJ6J6QQQJ6Q%K4%J6QJ6%J6QQJ6QJ6QQQJ6QQQQJ6K4%QQJ6QJ6QQQJ6Q
+1357B2960QQJ6QJ6QJ6QQJ6QqK4K4%QQJ6J6QQQQJ6J6QQJ6J6QJ6QQ%QJ6J6J6%K4%QJ6QJ6QQQ
+1353B3472QQJ6J6J6QQQQJ6J6QJ6QJ6%QJ6J6QJ6QJ6QQQJ6QJ6QQQJ6QJ6QJ6QJ6QJ6QJ6QQJ6J6
+1348B4008QQQJ6QJ6J6J6QQQQQJ6J6J6%QJ6J6QK4qK4%J6J6QQJ6J6K4%QJ6J6QJ6%K4J6qQQJ6
+1344B4512K4QQJ6J6QJ6QJ6QQK4%QJ6QQQJ6J6QL2%QJ6J6J6QQQQQJ6K4%K4J6J6QQJ6qK4J6QQ
+1339B5064J6QJ6J6J6QQJ6J6QQJ6J6QQJ6J6QQQK4J6qK4J6QQJ6K4QQJ6J6QJ6QQQJ6J6K4QQQJ6
+1335B5624QJ6QQK4%K4J6QQJ6K4QQJ6J6QJ6QJ6J6J6QJ6J6qL2QJ6J6QJ6QQQJ6J6J6J6J6Q%L2
+1331B6184qL2%J6K4J6%K4%L2Q%K4Q%L2QJ6J6J6QJ6QJ6QJ6QJ6J6J6QJ6J6J6QJ6J6J6%K4QK4
+1327B6744%QL2%QL2QQJ6K4QJ6QJ6%K4QK4QJ6QK4%J6K4J6QJ6QK4%L2%K4QJ6QJ6J6J6J6QJ6J6
+1323B7344J6Q%M0%J6J6K4QJ6qL2J6QK4QJ6K4%J6J6K4QK4%QK4%L2QJ6J6J6QJ6J6QK4J6J6K4
+1319B7944%%K4J6J6J6K4K4%QJ6K4J6QK4%QK4QK4J6J6K4%QQK4K4QJ6J6K4QQJ6K4QJ6J6J6QJ6
+1315B8544J6J6J6K4QQJ6J6K4J6%L2J6QJ6J6QJ6J6K4K4%J6J6J6J6J6K4QJ6QJ6J6K4QJ6J6J6
+1311B9128%L2J6QJ6J6L2%J6K4QJ6J6J6J6J6J6J6J6K4QJ6QJ6J6K4J6J6J6K4QJ6J6K4QQJ6K4
+1308B9728J6K4QJ6J6J6J6K4J6J6J6J6J6J6QJ6J6K4J6QK4J6QK4J6QK4J6QK4K4%L2QK4K4QK4
+1304C0360qK4K4J6J6K4QJ6J6J6K4J6J6K4J6J6%K4K4J6K4QQL2QQM0%K4J6J6K4QJ6QK4K4J6J6
+1300C1008J6J6K4QJ6K4J6J6QM0%J6J6J6J6L2QK4QK4K4J6J6K4J6J6J6QK4K4QJ6K4QK4QK4L2
+1297C1680QJ6J6K4K4%K4K4J6QK4J6QK4K4L2%J6L2QK4J6QL2%L2K4J6QL2QK4QL2QJ6K4QJ6K4
+1293C2384K4K4QM0QM0j6%M8J6M0j6L2J6J6M8QQQK4K4J6J6K4QM0QQM0QK4J6QK4K4L2QQK4L2
+1289C3152QJ6L2QK4J6J6K4K4J6J6QJ6L2QL2J6K4L2J6K4QQK4K4K4K4J6J6J6J6J6K4K4L2%M0
+1286C3872J6QK4K4J6J6QL2L2QM0qM0J6J6L2QJ6L2QK4K4J6J6K4K4K4K4J6J6J6K4J6J6K4K4J6
+1282C4600J6K4K4K4QM0QL2J6J6L2J6QL2K4J6J6K4J6L2QL2J6L2QK4K4K4J6K4J6L2QK4K4J6Q
+1278C5360M0J6J6L2J6L2J6J6J6L2K4K4J6K4J6K4J6L2QK4K4L2L2qM0L2J6QK4K4K4K4J6J6K4
+1275C6128J6L2K4J6J6M0J6L2%M0L2J6J6J6J6K4K4L2K4K4J6K4K4J6K4J6M0J6QL2K4L2QK4L2
+1272C6920K4%M8J6L2QL2K4J6J6K4L2%M0J6M0J6J6K4M8J6QJ6M0K4L2J6L2%M0%N6QqO4%M8k4
+1268C7760N6M0J6L2J6M8QJ6QK4M8QL2M8QL2J6QM8qM0K4J6QK4O4K4qQM8L2K4M0M8%L2QK4K4
+1264C8744%M8L2J6%L2N6QK4L2QM0%N6K4K4K4QL2L2K4L2M8%QM8QqN6L2K4K4K4K4L2K4K4L2M0
+1261C9736QL2L2%J6M0K4K4K4M0K4J6K4M0K4K4K4J6M0K4J6M8QJ6M0J6M0L2J6K4M0K4J6M0L2
+1257D0640QK4M0K4J6K4L2M0QM0K4L2J6L2K4M0J6K4L2K4K4L2L2L2J6L2K4L2J6M0K4M0J6K4L2
+1254D1576K4J6K4M8QM0L2K4M0J6L2L2K4J6M0J6L2K4L2K4L2L2K4L2L2J6M0L2K4L2L2K4K4L2
+1251D2528K4L2J6M0L2K4M0J6L2J6M0L2K4L2K4L2L2L2K4L2K4L2L2J6M0L2L2L2L2K4K4K4L2L2
+1248D3512L2M0QM0L2K4M0L2L2J6K4M0K4J6M0M0L2K4L2L2L2L2K4L2M0QL2M0K4L2L2L2L2L2K4
+1244D4560L2L2L2L2M0K4L2L2K4M8K4L2M0J6K4M0M8K4K4L2M0K4K4M0M0K4L2L2M0K4K4M0K4M8
+1241D5648J6M0M8K4K4L2L2M0J6M0M0K4L2L2M0L2L2K4L2L2L2M0M0J6M8K4K4M0M0L2L2L2L2L2
+1238D6744L2L2L2L2M0L2L2L2M0L2M0L2M0K4L2L2M0L2L2L2M0L2L2L2L2M8K4L2M0L2M0K4M0M8
+1235D7912K4L2L2L2M0L2L2M8J6M8L2L2M0L2L2M8J6M0M0L2M0L2M0L2L2M0M0L2L2M0M0L2L2M0
+1231D9096M0M0M0L2K4M8K4M0M0L2M0L2L2N6K4M0M0L2L2M0M8L2L2L2M0M0M0L2M0L2L2M0M0M0
+1228E0344M0L2M8M8J6M0M0L2M0M0M0L2M0M0M0L2M0M0M0M0J6O4L2M0L2M0L2M8M0L2M8L2M8L2
+1225E1640M8M0K4N6M0J6M8M0M0M0M0M0M0M0M0M8M8K4L2M8M8L2M0M0M0M8J6N6M0M0M8M0M0M0
+1222E3000M0M0M8K4N6M0L2M8K4O4L2J6O4M8M0M0K4N6M0K4O4M0M8M0L2M0M8L2N6L2M8M0M0N6
+1218E4416K4N6L2M8M0M8L2M8M0M0M8M8L2M8M8M0M8K4P2M0L2M8L2M8M0M8M8M0M8M0M0M8M0L2
+1215E5856O4M8L2N6M0M0L2N6M8M0M8N6L2M8M0M0N6M8M0M8M8M8M0M0N6L2N6M8M0M0M8M8N6M8
+1212E7416L2O4L2M8N6L2M8N6M0M8M0M8M8L2O4N6M0M8M0M8M8M8N6M0N6M0O4K4M8O4M8M8M8L2
+1209E9000N6M0N6N6N6L2N6M8M0N6M8M0O4M8M8M0P2L2N6M8M8M8M8M8M0N6N6N6M0P2M0M0N6N6
+1205F0696M0M8N6M0O4M8L2O4O4L2N6O4M0N6O4M0M8N6M8O4M8M8M8M8N6M8O4N6N6L2N6O4M8N6
+1202F2448M8M8M0P2M8O4M0N6M0Q0N6M8N6M0N6M0Q0N6M0O4M8O4O4M0N6M8N6N6O4M8M8Q0L2M8
+1199F4272Q0N6M0N6N6O4M0O4P2M8K4Q0M0P2N6O4N6P2M8M8N6N6O4N6O4M0N6O4N6N6N6M8Q8M8
+1196F6216M8N6N6O4M8O4O4M0Q8O4O4N6L2P2M8P2M8O4N6O4P2M0Q0M0Q0P2M8M8O4P2M8P2N6M0
+1192F8216P2P2M8M8O4Q0M8M8R6M0Q0N6O4N6N6O4Q0N6P2L2Q8N6M8O4P2Q0N6N6O4N6O4Q0N6O4
+1189G0352N6N6Q0N6N6Q0M8O4Q0P2O4M8N6Q0M8Q0P2N6P2Q0M8P2P2Q0M8O4N6Q0N6Q0M8Q8P2M8
+1186G2568P2O4O4P2P2O4O4P2O4P2P2P2N6Q0P2O4O4N6Q8O4P2P2Q0O4P2O4O4O4P2P2Q0O4P2N6
+1183G4904Q8O4O4P2Q0O4O4Q0Q0O4O4Q8O4P2Q0O4O4Q0Q8O4O4P2Q0P2P2P2Q0P2P2P2P2P2Q0P2
+1179G7376P2P2Q0P2P2Q0Q8O4O4R6N6R6O4O4Q8P2Q0P2Q0Q0Q0O4R6Q0P2N6R6P2Q8P2P2Q8O4Q0
+1176G9968Q8P2Q0P2Q8O4R6Q8N6Q8Q0Q0Q0Q8O4Q8Q0Q0Q0Q0Q8P2Q0Q0Q0Q0Q0Q8Q8Q0Q0Q8Q8P2
+1173H2704Q0Q8Q8Q8P2R6P2Q0Q8Q0Q8Q0Q8Q0Q0Q8Q8Q8Q8Q0Q8Q0Q0R6R6Q0Q0Q0Q8Q8Q8R6R6P2
+1170H5592Q8P2J12Q0Q0J04Q0R6Q0R6Q8Q0R6R6Q0J04Q8P2Q8R6Q8Q8J04Q8Q0J04Q8Q8Q8Q8R6
+1167H8368J04Q0R6R6Q8R6Q8Q8J04Q0J04R6R6Q8Q8J04J04Q0R6J04Q8R6R6R6R6R6R6R6R6R6R6
+1164I1296R6R6R6R6J04R6R6R6J04R6R6R6J04R6R6J04J04J12Q8Q8J12Q8J12J04R6J12Q8J12
+1161I4080Q8J04J12Q8J12J20Q8J04J04R6R6J12J12R6J04J12J04J04R6J04J12J12R6R6J20R6
+1159I6768J12J12J04J12R6J20J04J04J04R6J28J12R6J12J12J12R6J20J20J04J04J20J04J04
+1156I9376J12J20J04J20J04J12J04J12J20J04J28J04J04J36R6J12J28J04J12J36R6J12J20
+1154A01976J20J12J20J28J04J12J36J12J04J12J20J04J52J04J20J12J20J20J28J12J36J12
+1152A04576J12J28J12J28J04J36J28J12J28J20J20J28J28J20J20J20J28J28J20J20J28J20
+1150A07264J36J12J36J20J36J20J36J20J28J28J28J20J28J28J20J36J28J36J28J20J36J36
+1148A10080J28J28J28J36J36J36J20J28J36J36J36J28J44J20J44J36J20J44J44J28J36J28
+1146A13000J44J36J28J28J60J28J44J36J36J36J44J44J36J44J28J36J36J52J52J28J60J28
+1144A16064J44J36J52J44J36J44J28J60J36J52J44J44J44J44J44J52J44J36J68J28J60J44
+1142A19248J52J52J44J52J44J52J52J52J52J52J52J52J52J52J52J52J52J44J68J44J52J60
+1139A22584J44J52J60J68J60J44J68J44J60J60J60J60J60J60J60J60J60J60J52J60J68J68
+1137A26072J52J60J68J68J60J60J60J68J60J68J68J68J68J68J68J68J60J60J68J68J68J76
+1135A29704J68J76J76J44J92J60J76J68J84J68J76J68J76J76J68J76J76J76J76J76J76J76
+1133A33512J76J84J76J84J76J84J76J76J92J60J92J84J84J68K00J84J76J92J76J84J76J84
+1131A37496J92J92J92J92J76J84J84J92J92J92J92J92J84J92K00J76K00J92K00J92J92K00
+1129A41696J92J92K08J84K00K00J92J92K08J84K08K08K00K00J92K00K08K08K00K08K00K00
+1127A46080K00K08K16J92K16K08K08K08K08K08K16J92K24K00K24K08K16K00K32J92K16K24
+1125A50696K16K16K16K16K16K16K16K24K16K24K16K24K16K24K16K24K24K24K32K16K32K16
+1123A55536K32K24K32K24K32K32K24K32K24K32K32K32K48K24K24K32K40K48K24K40K40K32
+1121A60640K40K32K48K40K40K40K40K40K56K24K48K40K48K48K48K48K56K24K64K56K48K40
+1118A66008K56K48K40K72K40K64K56K48K56K48K64K64K56K48K72K56K64K64K64K48K72K72
+1116A71680K48K72K72K56K72K72K64K72K64K72K80K72K56K72K72K80K88K64K80K72K80K80
+1114A77640K72K88K88K80K72K88K72K88K80K96K80K96K88K80K96K88K88K88L04K88K96L04
+1112A83960K80L04K80L12K88L12K88L12K88L12K96L12K96L12L04L12L04L04L12L12K96L20
+1110A90616L20K96L12L28L12L28L12L12L20L28L12L20L20L20L28L28L20L28L36L36L20L28
+1108A97680L28L28L28L36L36L36L36L44L28L36L44L44L36L44L44L44L44L44L52L60L36L60
+1106B05168L28L68L44L52L52L60L60L60L52L60L60L68L52L84L44L68L68L68L68L68L68L68
+1104B13088L84L84L60L68L76L76L84L84L84L84L76L84L84L84L92L92L84L92L92L92L92L92
+1102B21528M00M00L92M08L84M16M00M08M08M08M00M16L84M40M08L92M24M24M08M16M16M24
+1100B30504M32M08M32M24M32M16M32M40M24M24M48M40M24M40M56M24M56M24M56M24M64M48
+1097B40072M56M56M24M80M56M48M56M48M64M72M48M88M56M64M88M48M72M80M64M80M80M72
+1095B50272M88M80N04M64M88M88M80M96N04M72N12M96M88N04M80N28N04M96N20N12M96N12
+1093B61184N20N12N20N12N28N12N20N28N28N28N12N44N52N20N36N36N44N36N52N36N60N36
+1091B72856N52N60N52N60N44N60N76N52N60N76N60N60N84N76N68N76N76N92N84N76N92N84
+1089B85376O08N84N92O00N92N92O16N92O08O24N92O16O16O32O08O16O24O24O24O32O32O32
+1087B98832O40O32O48O24O48O40O64O40O48O64O56O64O64O64O56O48O96O64O72O88O72O80
+1085C13304O88O88O96O72P04P04O96O96P04P04P04P12P12P12P20P20P36P12P28P28P36P36
+1083C28912P44P44P44P44P44P52P60P68P36P68P76P60P76P68P60Q00P76P92P84P76Q08Q00
+1081C45792P92Q00Q00Q08Q16Q16Q16Q16Q24Q32Q24Q32Q40Q24Q64Q32Q48Q48Q56Q56Q56Q64
+1079C64056Q64Q64Q64Q96Q72Q88Q80Q72R12R04Q88Q96R12R12R12R12R20R28R28R28R36R44
+1077C83888R36R36R60R52R44R76R52R68R76R68R92R68R84J008R84J008R92R84J032J016J008
+1075D04432J032J008J040J032J032J064J032J056J056J072J056J064J064J088J088J064J080
+1073D22360J104J104J104J088J128J104J112J160J112J136J136J136J168J152J144J160J168
+1071D41576J192J168J176J192J208J168J216J192J232J224J208J240J232J240J240J248J248
+1070D62200J264J256J280J272J272J304J288J304J304J288J328J328J312J336J328J360J344
+1068D84368J344J368J376J360J392J376J408J392J408J416J408J416J432J440J440J448J456
+1066E08248J464J472J464J488J480J504J496J504J536J504J536J536J528J568J552J560J576
+1065E34016J584J584J600J592J608J616J624J640J640J640J656J656J680J680J672J704J696
+1063E61888J712J720J728J752J736J736J776J760J768J792J800J800J816J816J832J832J856
+1062E92120J856J864J872J888J888J904J920J904J936J936J944J968J976J976K000J984K016
+1060F24952K024K032K048K048K056K064K088K096K104K112K128K136K144K152K176K184K192
+1058F60736K200K216K224K248K248K264K264K296K296K312K312K336K352K352K384K376K424
+1057F99840K384K416K456K448K464K480K496K496K520K520K560K560K560K592K600K624K632
+1055G42648K640K664K672K696K696K728K736K752K768K768K816K800K840K848K856K888K888
+1053G89704K920K928K936K976K976L000L024L024L064L064L080L120L112L152L152L184L200
+1052H41616L208L248L256L280L280L328L328L360L368L408L424L424L472L472L504L520L552
+1050H99048L568L600L600L632L672L672L720L728L744L776L800L824L840L872L912L912L952
+1049I62872L976L992M032M048M080M104M136M160M184M216M232M288M280M344M344M400M408
+1047A034096M456M464M512M536M568M608M608M688M680M728M752M800M832M848M896M936M952
+1045A113960N008N032N072N112N144N176N232N240N288N336N368N416N440N488N536N576N608
+1044A204032N656N688N744N792N816N880N912N968N992O056O112O144O200O232O304O344O392
+1042A306264O464O488O543O617O656O712O776O832O880O944P008P064P128P184P255P321P391
+1040A423527P457P536P607P689P760P864P936Q056Q144Q263Q401Q560Q728Q936R207R536R952
+1039A565159J0432J0849J0999J0616R984R728J0008J0480J1000J1520J1776J1216J0216R936
+1038A713919J0752J1984J2624J1920J0488R960J0944J2632J3936J3920J2816J1624J0720J0144
+1036A878383J0064J0520J1328J1896J1920J1952J2552J3864J5480J6824J7656J8272J8528
+1035B059239J7712J5856J4192J3784J5136J7856K0400K1064J9200J6088J3104J1376J1256
+1034B266263J2304J3736J4416J3944J2928J2168J2144J3264J4992J6712J8408J9960K1400
+1032B462639K3240K6128L0312L4824L7536L6560L2768K9896K9720L0048K8719K5753K2344
+1031B850487J9224J5696J0728O128O048J1520J9479K6800L2537L7615M2160M3536L8352K9224
+1030C189534K3128K3200K8280L6184M4904N2424N6984N5168M2192K3064J2392J6200K8512
+1029C632166M1680N0328N1864M9400M9648N6160O6896P3848O9680N7808M8960M6456M8391
+1027D343285N5544O6072P4552P6912P4616P0232N9608M0704K6616L4800O5816J05896J37616
+1026E232269J42056J11424O6576L9552L9392N6808Q8608J33744J80816K16871K41184K62560
+1025F811860K77648K56671J76600N2825o4192j17040r6168l4089L8376J05488J55784J75648
+1024G739411J70432J76152K21136K92736L53032L80639L90520M05648M12480L48382J73520
+1023A1064088k6199j09889o1392K4993P4631P7696P3872J15169J98455K73447L13288L29633
+1022A2347792L28887L07920K67432K28032K27672K74815L57496M76456N88816N98750M91808
+1021A6495876L95064M28536N78984P19359P17064N16535J98945m3304r0785K3473K00623L49016
+1019B0489386L77360K61552R8688j7809p5775o2720M7439J81121K33529K16208K38423L78335
+1018B2365737O00913Q29656J000647J036384R57853R34632J031344J044336Q05567M54142
+1017C1061211K28041K61559N78056J010391J276024J205719Q20959K53841k88840n99280n73623
+1016C5234058k78738R7866M09759O99527J064087J435144J642622J596711J302751Q10617
+1015D4014404L57927K14225L14830M93754O92452P61592O85552P71017J192133J811671K410937
+1014E3720494K783247K856707K671713K244174J745197J422927J262160J136351J140143J542029
+1013G2525142K398384L375551L979694L939480L551648L464185M075227N322863O915402Q458622
+1012A18006198R326090Q983692P757978O530884N719852N950220Q323636J3223857K0251776
+1012B04074183K8827681L7995262M5585168M7106953L7095449J5725719r102688k8356644
+1011C78951083l6125511l2668069k3094789j2179720k595936L850913N680714L361422P2618
+1010B85252725j249785o8036L264144P610267J0888261J3439929J8434183K6956957L7337780
+1009D01866425M7455669N4536597N6346605N4054487M9469561M1173079K7840588J0787860
+1008G43530871o834296k0776410k9134784l4330914l6639296l2938447k4841265j8437488
+1008E39597971j5080771j0130178q16101J0551084J8245489J7602364J1057975N514022L112276
+1007E79654131J899844K971703J0022253K3805989M0586047N4649347O2325661O3618560N8868118
+1006H98401653M7338133L1471961J5576995K147205o665089q983773m971320L528682J4124543
+1005I91968990K4895206L6292163M9715868O1868252O1958939L8975784m274376m8634518
+1004A212766308p5607496p9841801o4447397l7556103r193375J3028511K5052489K7166438
+1003A011367574K3934151J8565367R190536l851683j2898808j0554654Q92919J4376405K8366216
+1003A079388023M5964119O6887834Q4619011R3061095R2135569Q5951818P7982879O5437897
+1002A691428245M0580085L0013m9844599r3922054j16645883j12476308r1875918o8985560
+1001A198288021n0437389l8083272l1004494k4277188j3248091N84842J1134954J3348836
+1000A066306219Q506652J662379n071172j0631065j3186118j1857205m124231J2564937L5804497
+999A079974893N9110490P3053335O6629725L6733187o200866m6403115p2300422p9273993
+999A111323234o7767206m5125873k0005489K906445K0340902L0477568L3222756K5846853
+998A091219190M524211k6024171n3573392p0577774p6271912p1543047n7596229l9346238
+997G00810638k3904423j5508168j2927766j2111096j2414711j5855666j9668536j8623851
+996E69796421j3132055p451585m370011k146840L945534J5930941L1533082M6429235N6252755
+996F96787477N7058839M8304136L4074062J6758927m164059k7530646m8964009o4723595p2361501
+995F35239631p0974956o3050225n1801385m0277646l1464093k5576738k0568938j5689116
+994C15836534j0803881n074701O83053M112145M266892K059703r87803j852412K604595J2398853
+993C23242978K5307191L8130116M4907875L7400037J2778959k0386975m7302158n7829313
+992C56248710n3777539m3252391l2030137k2187149j4143300q008137m297900m028798p102312
+991A67421047j0856282j2238670j0835587q285136o115594m961312m764261n016876n107806
+990I9239523m747471l977260k968560k054430j650409j830273k087535k024670k037999k587515
+990G3273401l369934l784429l622471l080464k411211j794576j350638j106033r42151p15250
+989E1096244l57886J35954O24391Q19063N02145k94784j183879j671874j665740j438121j232984
+988D5332529j012295o59047k55103J0697R080l18089r19103j506065j752718j560934j101664
+986C6267288o64079l96264k46864j31481j3718O7944P206k65069p11585j183712j503053j532729
+985B9693884j271167q90109n75610l93960l14766l02167l58386m52936m58360l29318j75225
+984B4171880o3840J9488M9328n35r4841j47886r2201J6999J6961j86535m67057o46967p13470
+983B1861324p24507o93552o19566n55617n25342m85112m23208l61849l23807l23895l81336
+982A6443533m99664o08664n93239m49672k90559k22432k49240k74960k24184r1704Q7480K46143
+981A3272838L13264K50017M5464k33457m43767n45240n94904o14528n95407n23135m02639
+980I928506k67576j60640j06104p5824j9408O1816J08048N6776p0952j82840k43408k73200
+979H755194k84175k81760k71832k56807k34288k01528j57688j15832r7664j01704j02360r5528
+978F554028j02440j28232j52576j60703j52160j31992j02632o8240m0592k9289l4879n5584
+976E394709q1280r2920q7240p9568q1504q7456q1760o3752n0008n4200p1959q5161q1288o4991
+975D331622n0296m9464o1944p5632q1256p6872o7328n7816m7360l4696k4216k0808k6376l9496
+974C618062n2680n8112n5344m9048m1840l2760k2056j3424j0512j3440j7408j6288j1808j1992
+972C211350j9744k9272l5680l8991m1033m4216m7903m9104m7280m3504l8888l3880k8480k3664
+971B689711k0056j6600j2800r768r248j1960j5392j6144j4448j2720j1440j0496j1408j4352
+970B502879j7360j9896k2576k4288k3304k0488j8136j7352j7944k0104k2888k4424k4680k3920
+968B205519k2184j9648j6520j3264j0928j0032r944r984r912r720r912j1504j5208j9512k1008
+967A996239j8816j4864j1016q984j0088j3296j5512j5488j4736j5184j6448j6608j5200j3208
+966A796791j1440j0096r400r944j1384j2520j2776j2288j1728j1480j1368j1312j1392j1464
+964A638199j1168j0464r800r592r696r624r232q760q472q439q488q601q751q769q479q041
+963A491823p568p096o680o496o600p007p376p720q040q152q008p744p464p232p032o864o760
+961A367984o648o544o464o376o320o256o192o128o072o016n960n904n872n816n752n712n672
+959A264280n616n576n528n488n448n400n368n304n288n240n176n168n120n072n040n008m968
+958A174472m920m896m848m832m776m752m712m680m656m608m576m560m504m488m456m408m392
+956A095408m352m320m296m272m240m200m176m152m120m088m072m016m016l984l952l920l896
+955A025336l872l856l808l800l760l760l704l704l664l656l616l584l584l544l520l512l480
+953I62912l456l448l400l384l376l344l320l304l288l256l240l224l200l160l176l120l120
+951I07096l096l088l056l040l024l000k984k968k944k920k912k888k872k864k824k824k792
+950H57000k808k760k752k736k704k712k688k664k664k632k624k592k584k568k560k544k536
+948H11872k512k504k480k456k472k416k432k408k392k376k368k360k336k312k320k296k280
+947G71152k288k256k232k240k208k216k184k200k152k136k160k120k120k104k104k064k088
+945G34280k056k040k032k032k000k000j984j976j968j952j952j920j920j920j888j912j872
+943G00856j856j864j840j840j816j816j816j784j792j776j768j744j760j728j736j712j704
+942F70504j704j680j680j672j656j656j640j640j624j616j592j608j576j600j568j560j552
+940F42880j528j560j520j520j512j496j512j472j496j472j448j456j456j440j440j416j416
+938F17720j408j400j392j384j376j376j360j360j344j344j336j328j320j312j312j288j304
+937E94776j272j288j272j264j256j240j240j248j232j208j232j208j200j192j192j192j184
+935E73856j168j160j160j152j152j144j136j128j120j112j112j112j096j080j112j056j088
+934E54768j064j064j056j048j048j040j040j024j024j024j016j008j000j000r92r84r76r76
+932E36384r68r68r60r60r52r20r68r28r20r28r20r12r12q88r20q88q88q80q72q80q72q72q64
+930E15344q48q48q48q48q40q32q16q24q40p92q24p84q16p92p92p84p84p84p68p68p68p68p60
+927D96816p52p44p44p36p36p36p28p28p28p04p04p12p04p04o96o80o80p04o64o80o72o56o80
+925D80544o56o56o56o48o40o40o32o32o40o32o16o16o16o08o08o00n92o16n92n76n92n84n76
+923D66320n76n68n60n68n68n60n60n52n44n36n36n44n36n28n20n28n20n20n12n04n04n12n04
+921D53960m96m96m88m88m80m80m80m80m64m64m72m64m56m48m56m56m48m40m40m32m40m32m16
+919D43344m40m24m08m08m32m08m00m08m08l92l92l92l92l84l84l84l76l68l68l76l76l60l60
+916D34304l60l52l52l52l44l44l44l36l36l36l20l28l36l12l12l20l20l04l12l04l04l04l04
+914D26768k80k96k88k88k80k88k80k72k80k64k64k64k72k56k40k72k48k48k48k48k40k48k32
+912D20672k32k16k64k16k16k32k16k16k08k08k16k00k08j92k16j84k00k00j76k00j84j84j68
+910D15920j68j92j60j76j60j68j52j76j44j60j52j60j36j52j44j28j28j52j28j36j36j20j28
+908D12464j12j12j20j28j12j04r6j04j04r6j04j04q8q0q8q0r6q0q0p2q0q0n6o4o4p2o4m0m0
+905D09944p2m8m8n6l2n6l2l2l2l2k4m0qm0qqj6j6j6k4%K4j6%%J6%J6J6QJ6K4K4K4M8J6K4K4
+901D09568M0K4O4L2N6O4M0M8N6O4O4M8O4O4Q0P2P2O4Q8Q0Q0Q8R6Q8J04Q8R6Q0J20J04J12R6
+898D11904J36R6J12J20J20J28J28J36J20J36J44J28J44J36J68J36J52J52J44J60J68J52J68
+896D15088J76J60J76J76J60K00J76J92J76K00J92J84J92K08K08K00K16K08K08K08K16K24K16
+894D19560K24K32K32K32K24K48K48K32K48K48K56K64K40K56K80K40K72K64K72K80K72K72K88
+892D25384K80K96K96K88K88L04K96L12K96L12L12L12L12L28L20L20L28L28L44L36L36L28L60
+889D32616L52L36L44L60L68L60L68L60L68L76L84L76L68L92L84M00L84M00L92M00M16M00M08
+887D41312M08M24M24M16M32M32M32M24M40M40M40M64M40M64M40M64M64M56M72M80M72M80M80
+885D51600M80N04M72M96N04N04N04N12N04N12N12N28N20N36N20N44N28N36N44N52N52N52N68
+883D63584N52N68N60N60O00N68N84N92N92N84O08N92O08N92O24O16O32O00O32O24O40O24O48
+881D77384O56O56O32O64O56O64O72O56O96O72O80O96O72P20O96O96P12P12P20P12P20P28P28
+879D93200P44P52P36P44P52P60P52P76P52Q08P76P60P92P84Q08Q00P84Q24Q24Q00Q40Q08Q48
+876E11224Q32Q40Q56Q56Q40Q72Q56Q72Q80Q80Q88Q96Q88Q80R12R28Q88R28R28R28R28R36R44
+874E31680R52R52R68R68R60R68R84R84R92R92J000J008J024J024J016J024J024J056J056J048
+872E51680J064J064J048J088J088J072J096J088J112J112J112J112J136J144J136J144J152
+871E70448J160J160J160J184J184J192J192J216J216J208J216J232J232J248J248J264J264
+869E91024J264J272J288J288J296J304J312J320J328J328J344J344J352J352J376J376J392
+867F13560J384J424J376J424J408J440J448J440J448J464J464J488J480J504J488J512J528
+866F38280J528J536J528J552J560J576J576J584J600J608J608J608J640J640J656J648J680
+864F65408J672J680J696J704J720J712J736J752J744J760J768J792J784J816J800J832J832
+863F95208J832J856J864J880J880J896J896J936J912J944J944J976J968J976K000K000K016
+861G27984K032K056K040K056K080K096K096K104K128K136K144K168K168K192K200K208K224
+859G64112K240K256K272K264K296K312K296K344K360K344K376K384K416K408K424K448K456
+858H04008K464K504K504K512K536K536K576K584K592K616K616K648K664K664K696K712K704
+856H48136K752K768K760K808K808K824K832K880K864K904K912K944K944K984K976L000L040
+854H97136L032L064L096L096L120L152L160L192L192L232L240L272L296L288L336L344L384
+853I51632L384L424L432L456L504L488L552L536L592L584L640L648L680L680L728L736L776
+851A012472L808L816L848L872L904L920L960L976M008M040M064M088M112M168M168M200M240
+850A080664M264M296M328M352M376M424M448M480M504M568M568M592M656M664M704M752M776
+848A157416M816M840M896M912M952N000N016N072N088N160N176N224N256N288N336N392N416
+846A244256N464N504N544N592N632N680N720N768N808N856N912N944N992O063O089O144O192
+845A343160O248O296O360O400O464O504O568O624O680O752O800O856O920O991P041P128P168
+843A456960P256P320P392P479P537P648P719P817P911Q009Q135Q264Q416Q592Q792R056R368
+841A593671R760J0216J0648J0856J0624J0208J0208J0696J1168J0944R968Q952Q616Q808Q872
+840A744215Q744Q840R456J0384J1496J2696J4032J5504J6840J7752J8216J8392J7752J5536
+839A939855J2304J0280J0832J3256J6304J9392K2392K4784K6072K6904K7888K7648K4704K0856
+837B223471K0008K2720K6224K9360L2960L6088L6816L4104K7968K0720J7096K0072K6432K9864
+836B603903K9008K8176K9176L0416K9104K4408K0048K0471K4761K8496K8456K2768J4175J0096
+835B943462J1705J2471Q648L369J263K256K577J024n85J45L623O184K872n792j2503j1825
+833B968894m735M400J2288J8320K3143K6128K6496K5313K3791K0953J5671R952P304Q920J2352
+832C199190J4464J4720J5016J6720J9592K2680K5496K8528L1984L5400L8512M1656M4152M5896
+830C594006M8184N1576N4464N5480N6592O1184O9096P6304P9136P8776P8287P7417P5343P4096
+829D529941P3304O7648N7120M7768M2072L9784L9024L7136L6544M0048M5672N0184M9952M5232
+828E201429M3496M8288N5920O1912O2288N3728L4584J2536K344Q136K4911M8145P3743R7089
+826E828549J12583J13841J01455R0168R5016J15384J40120J60344J77400J98008K21983K50272
+825G605123K92232L47616L98264M25079M29704M24400M00136L37663K71759K79184L68784
+824A1579944M64824M80728M02471K95272K13104J56232R6896O7976J48791L54672O40103R43704
+823A5844717J168751J194048J018815Q31327P66359P37986O75222P12561R33070J149841J126462
+822B6159159Q66759N55688K82617J4720k15633k79470l6601M39952Q82079J056784R13631
+821C0639685O04943L75080L40703L50897K60502J10337m3769j68494k04954j64623j40335
+820C1959972k14074m01990n78200n28320j36094M74479J013512J224525J091520Q13366N30368
+819C5249064L22368L18642N72038R80287J474937K065294K688630L260966L696500L816783
+818E4445509L606309L306583L075237L046486L298045L507390L238699K561183J879363J408827
+817H3373631J085811O81932J01343n37790j018880j087565p62799k59828N8545k10317j096654
+816H0327429k194436l011165l204874k760114k101573j628092j303018q90921m00172o3108
+815F2769956J2380l7384K7813K92618N96462P92330R88188J357355J863459K290704K541664
+814G3495545K699358K779181K711120K534638K535667L011440L921726M999993O103599P379372
+813A12171639R042267J1059851J3111097J4723397J5610627J6241208J7657929K0197550K3619809
+812B53435374K8117414L3933490M0195313M4989842M7343324M8404151N0839195N6751128
+811F04009231O4642601O9375846O6081143N6002311M5773578L7323464K6430478J0787617
+811I80426269p093703k1209080k8417967l3009747m0238427m8961495n4297752n4226371n0486220
+810F42485507m5151059l9161863l2092697k2793791j1891638j600691O952928J4020268K0235006
+809E31001970K7095705L5854423M4322343M9184522N0668974N1617943N3818117N4940916
+808H98504913N0135478L9986969L0883064K4717077J6635956N822868R1255L454948R365908
+807A079598436R503317K627733m733164r190049j1540450j0390719o440968m208267n389550
+806A039836319n864237k724180O93861J002505j569339o931067j3201611j4017795n172810
+805I92051646J2057966L1721797M7604677N9856023P2130890Q4453454R4490511J00894571
+805A495261535J03234751J02900717J00870723R5456108Q6378972P4031586N6865622L2483633
+804B147483647j899398m2879544q0012711j05287781j15876908j14934024j09455976j02366167
+803A474771138r1601018p9493735p1091802o4720837n5444318m3484665l3214239k6228257
+802A009492267j9882924j2051071l846167K608995N048785J310500n124790n841768J444422
+802I73158249R902891J2172825Q657203O331949J0090187J5899672J4685374M668353n322549
+801A050244154p924893m422898L35494J430226m590077j7268656l1011794l9951359m4630906
+800I02209291n0514125n9050790o4856380o3857770n8183504n1107159m2762697l2769605
+799D79107261k2680716j3900136o567833k84958O056521J3387447K1158586K8534002L5452537
+798E40262711M1460228M6150076M8292576M4928519L6209019K8751676K8962576L2627126
+797H47644507K7602514O892699k1678008m2444927n0179281n1400553n2732955n3913144n2191996
+797E57598856m8177110m4538759m2362149m0669109l9056575l7253015l3994529k9238388
+796B42309222k4524063k0853531j8214097j6295971j4651092j3043386j1577752j0271551
+795A12877779q949016p609272o411736n410569m480495l526654k652621k034896j740032j675007
+794F8387481j692260j718424j739855j719190j606713j435398j252721j017547p58104o16168
+793E4831101n75073m13658l4803M89759J043803J480955J747813J909969J915884J674552
+792F4070302J256751P67209K47093k56857n28461l09263L22576Q68396Q95240N52705K30753
+791F8116444L2705j24979l79133r10267j756620k566400k959870l064215l162588l239374
+790D9985703l231302l196844l133967k891814k457262j995248j629454j388528j183142q94705
+789B7983437n62480l59014l82816n39968o52502o50064n86464m75240k76936j5799K70943
+788B3753097N61775P47752P25295N58807L85321K75496K08431P1272j61191l37912l81480
+787B6406663l79177m24335n61927q00712j021335j047470q11018m16167o2000R0527O1417
+786B1034466l033p4479j98321l54535m95232n95623o80279p74272q53520q61863p81743o52585
+785A4708981n60687n56687o04560o40424o02694m75105l03848j55071p4560n4833n8335q9991
+784A0532186j67793k61840l19807l11160k74288k81567l41816l93656l96360l61719l14000
+783G108180k66288k25472j95008j72888j56352j41888j25095j06800r3568r0816r4544r4336
+782E345125q6960p6504o5328n3352m0928l2248l3072m3176n3512n6040n1136m4000l8840l6119
+780D633910l3577l0207k7993k9175l3793l7399l6097l3512l3439l4704l6328l8240l8704l6448
+779D154294l4184l7552m6896n6360o2240o4144o2776o0832o0064n9320n6288n1080m6056m2904
+778C413598m1296m0024l8136l6152l5168l5016l4600l3520l1895k9673k6936k4039k1321j9024
+776B966798j7560j6975j6872j6328j5209j4431j5280j7817k0295k1545k2183k2688k2376k0944
+775B706295j8296j4272r432n056k600k640m680p920j0320j0056q512q376r216q824o520m568
+773B575007n872j0824j6464j9176j7712j4808j4208j5568j6312j5968j5328j5496j8072k2464
+772B356735k5416k4816k1568j8080j6656j7176j7368j7160j7976j9672k1248k2384k2872k2264
+771B072079k0648j9040j7928j7384j7720j8984k0080j9896j8760j7464j6256j5112j3928j2832
+769A826047j1872j0992j0376j0336j1016j2088j2864j2952j2712j2440j2016j1480j0872j0288
+768A663743r712r216q744q448q408q440q400q280q432q903r385r448r200q920q904r080r151
+766A512672r032q801q536q311q144p968p856p728p632p560p456p376p320p232p168p088p056
+765A380408o976o904o864o808o736o688o616o584o528o464o424o368o320o272o216o176o136
+763A269328o064o040n984n936n896n848n800n768n728n664n640n584n560n520n464n448n376
+762A172008n368n320n264n256n200n152n136n088n056n024m976m976m904m888m848m816m784
+760A085952m760m696m696m656m616m592m560m528m504m464m440m400m384m352m312m296m288
+758A009408m200m216m200m144m120m088m096m040m032m000l960l952l912l888l880l848l808
+757I41024l800l768l760l720l704l680l656l632l624l584l552l552l520l512l480l456l440
+755H79584l408l408l368l360l336l312l296l296l240l248l216l176l192l160l128l144l104
+753H24192l096l072l032l048l008l000l000k952k960k920k904k920k872k856k864k824k816
+752G74048k792k784k784k736k744k736k688k712k672k656k656k624k624k592k608k568k568
+750G28504k544k536k512k512k496k472k464k464k432k424k432k384k384k384k368k352k328
+749F87016k344k296k304k296k264k280k256k232k224k224k200k192k184k192k144k160k136
+747F49088k128k120k112k080k096k080k056k056k048k024k024k016k000k000j984j976j960
+745F14328j944j960j920j936j912j896j904j888j872j872j856j856j840j832j832j816j800
+744E82392j800j776j792j776j768j752j744j744j720j728j704j712j688j704j672j672j680
+742E52960j632j672j640j632j624j624j616j600j600j584j600j568j560j560j552j560j520
+741E25816j552j520j520j504j504j504j496j472j472j488j456j456j448j448j464j408j432
+739E00672j432j408j400j400j400j384j384j376j376j360j360j352j336j352j328j336j328
+737D77360j312j304j312j312j288j288j288j280j256j288j248j264j256j224j264j240j224
+736D55712j232j200j240j200j208j200j200j184j184j184j176j168j152j184j144j160j144
+734D35552j136j144j144j096j136j128j104j104j104j112j112j080j080j080j088j080j056
+732D16768j072j064j056j056j048j040j048j040j032j032j016j024j000j024j008j000j008
+731C99200j000r68j000r92r76r76r76r76r68r60r52r60r52r60r28r36r44r12r44r28r20r20
+729C78152r12r20r12q88r12q88r12q88q88q88q88q56q80q80q72q64q56q64q56q48q40q56q48
+727C57936q32q32q40q32q16q40q24q16q16q16q00q16p92q16p92p92p92p92p84p76p84p84p76
+724C39376p76p68p60p68p68p44p68p52p60p36p52p36p52p12p60p28p28p36p28p12p36o96p20
+722C22280p12p20p04p12o88o96o96p12o88o96o80o88o72o96o80o64o72o88o64o72o56o64o64
+720C06496o64o48o56o56o40o56o40o48o32o48o32o40o32o16o32o40o32o08o16o24o16o08o24
+718B91888o00o08o16n92o08o00n92o00o00n92n76n92n92n84n84n76n84n68n76n68n92n60n68
+716B78360n68n68n60n52n60n68n52n44n52n52n44n44n60n44n28n36n44n52n20n36n28n36n28
+713B65784n20n28n20n20n20n20n12n28n12n12n04n20m88n12n04m96n12m96n04m96m96m88m96
+711B54080m80n04m72m88m96m64m96m88m72m72m80m72m80m72m48m80m72m56m64m72m56m64m56
+709B43176m64m48m64m48m64m32m56m48m56m40m40m32m64m40m16m56m24m48m32m32m32m24m32
+707B32984m32m32m32m08m08m32m32m16m16m24m16m08m08m08m08m16m08m08m08m16m08l92l92
+705B23456l84m32l84m08l92l92m00l92l84l84m00l92l84l84l84l84l84l84l76m00l68l76l76
+702B14512l60l92l84l52l76l76l68l60l60l76l68l68l68l60l52l60l60l60l68l36l68l60l52
+700B06128l52l44l60l60l20l68l36l52l44l36l52l44l44l36l44l36l36l36l36l36l36l28l36
+698A98256l36l28l20l36l36l20l20l28l20l28l20l28l28l20l20l12l04l36l04l28l12l20k96
+696A90856l36k96l04l12l20l12l04l04k96l12l20k80l20k88k96l20k88l04k96k88l04l04k88
+694A83864k88k96k96k88k88k96k96k88k80k88k88k88k88k88k88k80k80k80k80k80k80k80k80
+691A77280k72k72k88k80k72k72k80k72k72k72k72k72k72k64k64k64k64k64k72k72k64k64k64
+689A71056k56k64k64k64k64k48k48k64k64k56k56k56k56k56k48k64k56k48k40k64k56k40k40
+687A65184k56k48k48k40k56k40k32k64k40k48k40k40k40k40k40k40k40k32k24k64k40k32k32
+685A59608k32k40k40k32k24k32k32k32k32k32k40k08k32k40k24k24k32k32k24k16k40k16k24
+683A54328k24k24k16k24k08k40k08k24k16k24k16k16k24k16k08k24k24j92k24k08k08k24k08
+680A49328k08k08k16k24k08j84k24k16k00k00k16k16j84k16k08k08k08k00k08k00k00k00k08
+678A44568k00j92k08k00j84k08j84k16k00j92j92k08j84k00k00k00j92j92j84k00k00j68k00
+676A40064k08j92j76j84j84k08k00j68j92j84j92j84j92j92j76j84j92j84j84j76j84j92j76
+674A35760j84j84j76j84j76j92j68j76j84j76j92j68j76j76j92j60j84j84j60j84j68j84j76
+672A31656j68j68j76j84j68j52j84j68j76j68j76j60j68j68j76j60j68j68j76j68j68j44j76
+669A27768j68j76j60j60j60j60j68j60j68j68j60j60j68j60j44j60j76j44j60j68j60j52j60
+667A24048j60j60j52j60j60j60j52j52j52j68j60j52j44j52j52j52j52j60j52j52j44j68j36
+665A20496j60j44j60j36j52j52j52j44j52j44j52j44j44j44j52j44j44j44j52j44j52j36j36
+663A17112j60j36j36j52j44j44j44j44j36j44j36j44j44j36j52j20j52j28j44j44j36j36j36
+661A13864j44j36j36j28j52j44j28j28j36j36j36j36j36j28j44j36j20j44j44j28j28j36j20
+659A10760j28j44j36j28j28j28j20j36j28j36j36j28j20j44j28j04j36j28j36j12j36j28j28
+656A07784j28j28j20j28j44r6j28j28j12j36j28j20j28j20j20j20j28j28j20j20j20j20j28
+654A04936j20j20j20j20j20j20j12j20j12j28j20j20j12j28j20j20j12j12j12j28j28j04j04
+652A02224j20j12j20j20j20j12j20j20j12j04j04j36j04j12j12j12j20j12j04j04j20j20j12
+650I9592j04j20j12j04j04j20j20j04r6j20j12j04j04j12j12j12j04j04j04j12j04j12j12
+648I7080j04j04j04j04j20q8j12j12j04j04j12j04r6j04j04j20q8j12r6j04j04j04r6j12j12
+645I4456j04r6r6j04r6j12j04r6j04r6r6j12q0j12j12r6r6q8j12q0j04j04r6j20q8r6r6r6
+642I1664j04q0j20q8r6r6j04q8r6r6r6r6r6j04q8j04q0j04q8j04q8r6r6q8q8j12p2j12q8q8
+640H8808q8j04r6q8q8r6r6q8r6q0r6j04q8q8q8q8r6q8q0r6q8q8r6q8q8q8q8q8q8r6q8q0j04
+636H5808p2q8q0j04q8q8q0r6q0q8q0q8q8q8q8q8q8p2r6q8q0q0q8q0q8q8q8q0q0q0q8q0q8q0
+633H2912q8q0q8q8q0q0q8q0q0p2q8q8q0p2q8q0q0q0q0q0q0q0q8q8p2o4q8q8q0q0q0q0o4q8
+630H0152q0q0q0q0q0p2p2p2q8q8p2p2q0p2q0q0p2p2q0q8o4q8p2p2q0p2q0p2q0q0p2p2q8m8
+627G7552q0q8p2p2q0o4o4q8p2p2q0p2p2o4q0q0p2p2o4q8o4p2q0p2p2o4p2p2p2p2p2o4q0q0
+624G5048n6q0p2o4p2o4o4q0q8n6o4o4q0q0n6p2p2o4p2p2p2o4p2n6q0p2o4p2o4n6o4q0p2p2
+620G2696o4o4o4q0n6o4p2n6q0n6q0o4n6p2o4m8q0p2m8q8n6q0n6o4q8l2p2p2o4o4n6o4p2o4
+617G0464o4o4o4p2o4n6n6q8m8n6p2m0p2o4q8m0q0q0m8n6n6o4n6p2n6o4o4p2m0p2q0m8p2m8
+614F8328m8q0n6m8o4o4o4m8q8l2o4o4o4n6p2m8q0m8m8q0o4n6n6n6o4m0m8o4p2p2m8n6o4p2
+611F6280l2n6p2n6n6o4n6m8q0l2o4o4n6q0m0o4m8o4n6l2p2m8m8r6m0o4m8n6o4l2o4n6o4n6
+607F4352m0p2l2o4n6n6o4m0p2n6m0m8o4p2m0q8k4n6o4m0q0k4m8o4o4n6n6l2o4o4m8m8m8n6
+604F2512m8n6o4m8m0n6n6o4m8n6n6m8n6m8m8n6n6o4l2p2k4o4n6m8m0n6m8n6o4m8m0m8o4m0
+601F0744o4m8m8m8p2j6p2m8m0m8n6m8m0p2l2n6o4m0n6m0m8m8n6m8m0o4n6m8m0m0n6n6m8m8
+598E9040m0m0n6m8m8m8m8m8m8m0n6n6m8m0m8m8m8m8m8m0m8m8n6m8m8m8l2o4m0m0n6m8m0m0
+594E7440n6m8m8m0m0m0n6m8n6m8m0m0m8m0n6m8m0m0m8m8l2n6m8m8l2o4m8m0m0m0m0m0n6m8
+591E5880m0m0m0m0m8m8m8m8m0m0m8m0m8m0m0m0m8m8m8m0m0m0m8n6k4o4l2m0m8l2n6l2m8l2
+588E4416m8m0m8m0m8m0m8m0m0l2m8m0m8m0m0m0m8m0l2l2n6n6m0l2m0m0m0m0n6m0k4m8l2m8
+585E2992m0m8m0k4n6m8l2l2m0m0m8m0m0m0m0m8j6n6m0m8m8k4m0m0m0l2m8m8m0l2m0l2m0m0
+581E1632m8m0l2l2m0m0m0m0m0m0m0l2m0m0m0m0m0m0m0m0m0l2m0m0l2l2l2m8l2n6l2m0m0l2
+578E0320m0l2m0l2m0m0l2l2m8m0l2l2m0m0m0m0l2l2m8k4l2n6l2m0l2l2m0l2k4n6m0k4m8l2
+575D9064l2m0m0l2k4n6k4l2m0m0k4m8m0l2l2l2m0l2m0l2m0m0l2k4m0m0k4m8m0k4l2m8k4m0
+572D7856k4m0m0l2l2l2m0l2m0l2l2l2m0l2l2k4m8m0l2l2l2k4m0m0k4m8l2j6m0l2l2l2m0l2
+568D6704m0l2l2l2l2l2m0l2l2l2l2l2l2l2l2l2l2l2m0l2l2l2m0l2l2l2k4m8j6m0l2l2l2k4
+565D5592m0l2l2k4m0m0k4k4l2l2l2l2k4m8l2j6m0l2l2k4l2n6j6k4m0l2j6m8k4m0l2m0k4k4
+562D4512l2k4m0m0j6m0l2k4k4m0k4l2m8k4j6l2m0j6m0k4l2l2j6m0l2m0k4l2l2l2k4k4l2l2
+559D3480l2l2k4m0qm0m0j6m8j6l2l2j6m0k4k4m0k4l2l2k4l2k4l2m0k4k4l2m0j6l2j6m8j6l2
+555D2456k4m0l2l2j6l2j6m8j6k4l2l2j6m8k4l2j6k4m0k4k4m0j6l2l2k4l2j6m0l2k4j6m0k4
+552D1496l2j6l2l2j6m0k4k4l2k4l2k4l2l2j6l2k4l2k4l2l2k4k4k4l2k4k4k4l2l2j6l2k4m0
+549D0560j6k4l2l2j6l2l2j6l2k4l2j6k4m0j6m0qm0j6m0l2%m0l2j6k4l2l2ql2k4m0j6k4k4k4
+545C9632m0j6k4l2k4k4l2k4k4k4j6m0j6k4l2j6m8j6j6l2k4j6m0j6k4k4k4m0qk4l2j6l2k4k4
+542C8744l2j6k4k4l2j6m0ql2j6l2k4k4m0j6k4l2qk4k4l2k4k4j6l2l2j6k4k4k4j6l2k4l2j6
+539C7888l2j6l2k4j6l2j6j6m0j6m0j6ql2k4j6m0j6k4j6k4l2k4k4k4j6l2%k4m0l2qk4l2ql2
+535C7040k4k4k4k4k4j6m0%k4l2k4j6k4l2k4qk4l2l2j6ql2j6j6k4k4m0j6qm0k4l2ql2qk4k4
+532C6200k4l2j6j6j6k4k4l2j6k4j6l2k4ql2j6l2j6j6k4k4l2j6j6l2j6k4j6j6l2j6k4j6l2j6
+528C5432k4j6l2j6k4ql2j6l2j6l2j6k4j6l2%k4k4l2j6j6k4k4j6j6k4k4k4j6k4k4j6k4qm0k4
+525C4656qj6l2ql2k4j6k4j6k4j6k4j6k4j6k4k4j6j6k4k4k4j6k4j6k4k4j6j6k4j6k4k4j6j6
+522C3952k4k4ql2ql2qj6l2k4ql2j6j6k4j6k4j6k4qm0qj6j6k4j6k4k4k4j6k4j6j6j6j6j6k4
+518C3224k4k4j6k4j6%m0ql2k4j6j6k4%l2k4qk4k4k4j6j6j6l2%l2j6qk4j6l2qj6k4k4k4j6j6
+515C2488j6k4k4j6qql2j6k4k4qql2k4qk4j6k4j6qj6m0qql2j6j6k4j6j6ql2k4j6j6j6j6j6j6
+511C1776k4j6m0Qj6l2j6qk4k4j6j6j6j6j6qj6m0j6qj6j6k4k4qql2k4%m0qj6j6k4j6k4j6qj6
+507C1080j6k4j6j6j6j6j6l2q%l2k4qk4qj6l2qk4j6k4%k4qk4j6k4j6j6j6j6j6j6k4k4%k4ql2
+503C0400qqj6j6k4k4j6j6j6j6k4k4qqk4j6j6qk4k4qqk4j6j6qk4k4j6j6j6j6j6qj6j6j6j6k4
+500B9760j6j6j6j6qk4k4%l2qj6j6k4k4%k4%j6j6m0qqj6j6j6j6j6k4j6j6j6j6qj6j6k4j6j6
+496B9144qj6j6j6j6j6qm0qqqk4j6j6j6j6qk4j6j6qj6j6k4k4qqj6qk4ql2%ql2j6ql2%l2qqj6
+492B8480qqk4k4qqk4j6%l2qk4k4q%j6j6k4k4qqk4j6j6qql2%m0Qqql2%m0qj6q%l2qqk4Ql2l2
+488B7784%qm8%Ql2j6qk4J6m0l2j6Qm0%Qj6j6l2%qql2q%k4k4j6j6%l2j6j6K4m8m0Q%l2%m8L2
+483B7192k4k4qj6l2Qql2%j6k4qj6j6j6%l2j6qj6qj6qj6ql2%l2J6k4qj6j6j6j6%l2q%k4k4j6
+479B6584j6qqj6j6j6j6j6qqk4Qk4qql2%j6k4%k4qj6j6qj6j6j6qj6qj6qj6j6j6qqqk4j6j6j6
+475B6008qqj6qj6j6j6j6%k4qj6j6j6j6qqqj6qk4j6q%k4k4%%k4k4qqj6qj6j6j6qj6qj6qj6q
+471B5448k4qk4Qk4j6q%k4k4j6qqqj6qj6qj6qj6qj6qj6j6%k4%k4qk4qqqqj6j6j6qj6j6qj6%
+467B4888k4k4%j6qj6qqqj6j6j6qqqj6j6k4Ql2Qk4%k4qj6qqqk4j6%k4j6%k4%qj6j6qj6j6j6
+463B4336qqqj6qk4qk4J6j6j6j6qqqj6j6j6qqql2Qj6j6q%j6l2Qj6j6qqqj6j6j6qj6%%l2j6%
+458B3824qj6qj6j6%k4qqqj6qj6qj6qj6qqqj6qqqj6j6k4%%k4k4Qj6qj6qj6qj6qqqj6qqqk4j6
+454B3272qqqqj6qj6qqql2Q%k4j6j6qqqqj6j6qqqqj6qqqj6j6j6qq%j6qj6qj6j6q%j6qj6j6q
+449B2744qqqk4%%k4j6%qj6%qk4qk4%qj6%k4%j6qj6qqqqqqj6qj6qj6qj6qqqqqj6qq%j6j6qq
+444B2224j6qqqj6j6qqqqj6qj6qqqqqqqj6qj6qqqqqqk4%k4%j6%j6qqj6qq%j6j6j6qqqqq%j6
+439B1704j6j6qqj6qj6%%j6j6%j6k4Qk4%qj6qqqqqj6j6%qk4%%j6qqqj6j6qqq%l2Qj6j6j6qQ
+435B1232%k4%k4q%qj6qj6%j6qqqqqj6j6q%qj6%k4q%qk4qq%j6Qk4qqqqj6qqqqqqqj6q%qk4q
+430B0728q%j6qj6q%j6q%j6j6%qj6j6q%qqj6qqqq%j6qqqj6qqqk4%%j6Ql2qqqj6J6j6qk4Qj6
+425B0280qqqqqj6qQqk4q%qk4Qj6k4%Qj6k4%qqj6q%q%l2%%k4%J6m0j6Qq%k4Qql2Qqqk4K4m8
+420A9832qqqqQ%ql2Qj6%j6%qj6j6Qqj6q%j6qj6k4%%j6Qm0L2l2%%j6j6J6j6j6qk4Q%qk4%qq
+416A9448j6j6%qJ6k4qj6%j6%qk4j6%j6J6j6qk4j6QQk4qJ6m8J6k4Qk4q%j6QqqQk4j6q%qqQl2
+411A9064Qk4qj6qQqk4Qk4%j6QJ6m0%Ql2Qql2J6qj6q%%k4j6qQj6qj6qj6%%qqqj6%%k4qQm0K4
+406A8688qj6%qj6%k4q%qj6Qj6%k4K4l2q%qj6%j6q%j6qj6Qk4Qq%j6qj6%%j6Qj6qk4%%qk4K4
+402A8328j6qqk4J6j6q%k4j6Qj6j6Qj6Q%l2qq%Qk4qq%qqj6%j6Qj6qj6%q%k4%q%q%j6k4Q%j6
+397A7944q%j6%qqj6%%j6%k4Qj6q%j6%qq%k4j6Q%j6qq%qqQj6k4%qqQk4%%j6%j6%qqq%qj6Qk4
+392A7560%j6qQqj6%j6q%%j6Ql2J6j6j6%j6J6l2%%qqqqj6Qj6J6l2qq%%q%j6qqqq%qj6Qj6qj6
+387A7208%Qj6qj6J6j6qqqq%%k4%j6qQqj6%j6%qq%qq%k4Qk4%%j6Qk4Qj6%qqqqq%j6q%%j6qq
+382A6856%qqq%qqqqqqq%j6J6j6j6%%q%j6qqqq%qq%%j6qqq%%qk4Qk4qq%%qqqqq%q%q%j6qqq
+377A6472qqQj6qq%%j6q%q%k4%qqq%%qqqqq%q%j6q%Qj6j6%%j6qq%qq%q%k4Qqqq%j6Qj6%qj6
+371A6112Qqqqqq%qqqqqqq%qq%%j6qq%qq%Qj6j6%%qqq%qqq%k4%Qk4Qj6q%%%qqqqqqqq%%qqk4
+365A5728J6qj6Qqqqq%qqq%j6j6q%QqQl2J6j6j6%%j6%Qj6qq%q%j6q%%qq%q%k4%q%%qqqq%%j6
+360A5416qj6qQQj6qj6J6j6%qqq%qq%%qqq%j6q%j6J6k4qQj6%qqQk4%Qqqj6qQj6Qk4%qQj6qj6
+355A5104Qqq%qqQj6qQqqqqq%q%q%qq%j6%q%q%j6%j6qJ6j6q%qqq%qqQj6%j6qQ%j6%qq%j6%%
+349A4808q%qqqqqqQj6%q%q%k4Qq%qj6Q%j6Qj6Qj6%qqqqQqq%k4%%%k4J6qj6Qj6%%q%qqj6%q
+344A4504q%J6j6%k4Qj6%j6%qQqqq%q%j6q%%j6Qj6%qq%q%%j6J6j6qj6q%q%%%q%qqq%j6q%%q
+339A4224qq%%%j6q%Qj6q%%j6%j6J6j6qq%q%q%q%j6q%Qqqqj6J6j6%q%j6%%qq%k4J6%j6qq%q
+334A3952%q%q%q%qqq%qq%%q%j6qq%q%qq%Qqqqq%%qqq%q%q%qqQk4Qj6%q%q%q%%j6qQQj6qqq
+328A3648%%%j6Qj6q%q%q%qq%%qqq%q%j6%Qj6%%qqq%%%k4Q%qqj6Qq%%q%q%q%j6qQqk4J6%qq
+322A3384%q%qj6J6j6q%qq%%qqj6QQk4Qq%j6qJ6j6%j6Qj6j6J6q%qqQj6qQj6J6j6k4J6k4Qq%
+317A3160Ql2Q%%j6j6QqQj6%q%%j6J6j6j6K4j6qq%q%qQj6j6%Qq%qqQj6qJ6j6%j6%%qqQ%k4%
+313A2936q%qj6Qj6J6j6J6k4J6j6%qqq%J6k4qQqqqqQqj6%Qk4J6qqQl2J6q%j6Qqq%q%q%Qqqk4
+308A2704QqQk4J6j6%q%%j6Qq%qj6J6j6%qQqj6qqJ6j6Qq%qj6Qq%qq%%q%qq%Qj6j6%Qj6Qj6J6
+303A2512j6%qqq%%%qqq%q%q%%qQk4Qj6Q%qqq%q%%%q%k4%Qj6%%%%j6q%Qq%qq%j6Qk4Q%j6Qj6
+297A2248J6j6%qQqq%%qq%%qqq%q%%%j6q%%qq%Qk4J6j6Qqq%%qq%%%k4J6j6qQqqQj6Qqj6Qj6
+292A2032Q%k4Qj6qJ6qq%%q%q%q%j6q%%%%k4Q%J6j6j6%%%%j6q%%q%qqQQj6q%%qqq%q%%Qj6%
+286A1824j6K4j6qq%q%qq%Qk4Q%j6Q%qq%%qq%%q%%Qj6qq%q%j6K4qj6q%q%%%qq%%q%q%%%%j6
+281A1608j6J6j6%%%qq%%qQk4Qj6q%Qqqq%%Qq%qq%%qq%%qq%%%%q%q%q%j6q%%q%%%q%%%j6q%
+275A1384%q%%%qqq%%%%qj6J6j6Qqj6Qj6Qj6%%%%q%qq%%Qj6q%q%qJ6k4J6j6%qqQ%%k4%q%Qq
+269A1192q%%q%%%qqqq%Qqqj6K4k4J6qqq%%%q%k4%J6j6%Qq%q%qqq%%%%%qj6J6qq%q%qq%Qqq
+264A0992%j6J6j6%%q%%%q%qq%%q%q%qqQQj6qq%%%%q%k4K4j6q%%%q%Qj6q%q%q%%%q%q%%%qq
+258A0792%%q%q%q%q%%%q%q%q%%%q%Qj6qJ6k4Q%qq%%%qqq%Qj6%Qqq%%q%q%q%%%q%q%q%%%qq
+252A0592q%%%q%q%%Qk4Q%qq%%%qq%%%%qq%%%%qqq%%%qq%Qqqq%%%q%q%q%%%q%qq%%q%%%q%%
+246A0392%q%q%q%%%qq%%qq%Qqq%qQj6%%Qk4QqqQq%q%%%%%%%k4qJ6qj6Q%%q%q%%%j6%%k4K4
+240A0216qqq%qJ6qqQk4Q%%q%%qQj6%q%qqQQqj6Q%j6Qq%qqQqQk4K4k4Q%%j6j6QQqq%%%%qq%
+234A0040%qq%%q%%%j6J6qqqJ6k4Q%%qq%%qqQq%Qj6j6J6%j6Qk4J6%Qk4qQJ6l2Qq%j6K4qj6%
+229I888%Q%j6q%qqQ%%j6Qj6q%K4l2%%K4m8L2l2J6k4J6Q%qQk4K4k4Qqk4K4qj6%Qj6q%QQqQ%
+225I768ql2QQj6j6J6qQq%j6Qq%K4k4j6K4Qk4%qQk4qJ6k4Qk4J6%QqQj6J6l2L2m8J6j6K4l2L2
+220I640j6k4J6j6J6qJ6k4%%J6j6qqK4m8K4%%%qk4K4k4%M0%m8K4k4%qJ6%j6K4n6M0j6qj6QJ6
+216I528qj6J6j6j6QJ6j6%qk4K4Qk4%qJ6%j6%Qq%j6J6J6l2j6J6%k4K4j6%qqJ6%j6Qqk4K4q%
+212I408%j6K4m8K4qj6J6Qj6Qqk4Q%Qj6qK4k4J6qqJ6j6j6J6k4K4qqqqqQQj6J6j6Qq%qqq%QQ
+207I296qj6%qQq%J6k4Qqj6Qq%qq%K4j6%%qQ%k4Qq%%%q%%qq%%qK4j6%j6qQ%%q%q%%qQqQqj6
+202I128Qj6QQqq%%q%qQqQqqk4J6Qq%j6%%Qj6QqqQQk4qQqQ%j6QqQj6Q%qJ6j6j6Qq%%%j6%Q%
+196I000q%%qj6J6j6J6j6qQ%%%qQj6%%%%qqj6J6qqJ6k4J6qQqj6QqqJ6qq%qqJ6q%%%%k4Qq%%
+191H864%%j6J6qQj6%Qqqq%%%qqJ6q%qQq%Qj6Qk4Q%%q%j6J6q%q%%%%%qq%%q%%%qq%Qq%%Qq%
+185H736q%q%%%qq%%%%q%%%qqQj6%J6j6q%Qq%%Qq%qqq%QQj6q%Qqq%%%%%%qq%%q%%QqqQQj6q
+179H584q%q%%Qq%j6J6qq%Qqq%%q%%%%%q%%%%%qq%%q%%%q%q%%%q%%%%%q%q%%%q%q%QQqqq%q
+173H432%%%q%j6QQj6Qj6Q%%%%%qq%Qj6%%q%J6k4Qj6Q%j6J6%qq%%%j6Q%qqJ6q%%%j6Q%j6qJ6
+168H320%j6Q%%q%qqQq%%%qQqQj6Qj6%%%%%j6J6%k4%Qq%Q%qq%%qQqqQqqQ%qQ%qj6%Qj6%Q%q
+162H184%q%%%%%%q%q%Qj6Qj6Qq%%Qj6J6k4Q%%qQqq%Qj6Q%j6Qq%%Qq%q%q%%%q%Qj6qJ6q%%%
+156H072qq%%%%q%%%%%j6J6j6Qq%q%%Qq%q%q%%Qq%q%qqQQqq%Qj6qQQq%%%j6q%Q%%q%%j6J6j6
+150G936Q%q%q%%%%%qq%%%%%%q%%%qq%Qq%q%%qJ6q%qq%%%%%q%qj6K4qQqQqqq%%%%q%%%q%%%
+144G816%%q%%%%%qq%%q%%Qq%q%q%%%%%%%qqQQqj6J6qq%%%%%q%%%%%q%qq%%%Qq%q%q%%%q%%
+137G688%q%%%%%q%q%%%q%%Qq%%%q%Qq%k4Q%%q%Qq%%%q%Qj6Qq%qQj6Q%%j6%%%Q%%q%q%q%%%
+131G568q%%Qq%q%q%%%%%%%q%qq%Q%%q%q%%%%%q%%%%Qqqq%%%%%%j6J6j6%qK4j6q%%%%%%%q%
+125G456%%%qQj6qJ6j6J6j6%q%%%J6j6qQ%%%j6J6k4QQqqqqJ6qJ6j6Qqq%%Qk4J6qJ6k4%Qqj6
+120G352K4Qk4%qQ%k4QQqqJ6%qQj6Qj6QQj6q%J6%j6qJ6qqQqqQj6J6qQj6J6k4J6j6qK4j6%%%
+115G288j6QQ%j6qJ6q%q%%j6%%J6qj6J6qQqQk4J6q%Qqj6%Qqj6J6Qqj6J6j6%qJ6%qj6J6q%j6
+111G184J6%Qj6%j6%%%J6q%%q%j6J6%%q%qq%Qqq%Qq%j6K4q%%%q%%%q%%%q%qQQj6qQ%%q%q%%
+105G096%%Qq%q%%%qq%Qq%q%QQk4QQqj6Q%q%Qqq%%%Q%%qq%Q%%%j6Qk4J6Qj6Qk4J6%q%%%%%%
+99G008qq%QqJ6k4Qq%%%q%%Qj6%QQq%qqqJ6%j6J6qq%qqK4j6%%q%%q%Q%q%q%qQ%%%%k4J6QQl2
+93F896J6j6%%%j6J6QqqqQqQqJ6k4qK4qqq%J6l2J6qQJ6k4%qQ%QqqqQ%%k4J6j6%%QQqj6QQqq
+88F816Q%Q%j6q%Qq%%%%qqQqQq%%%q%%Q%j6%%q%%%%%q%%%%%Qk4J6qj6Q%Qqj6J6qQqqQ%qQqq
+82F720Q%q%QqqQqj6K4qq%%q%%%q%%%%%%%q%%Qqq%%qQQk4Q%%%%%q%q%%Qj6qJ6qq%QQqq%Qqq
+76F624%%%%%%q%%%%%%%qq%%q%%%q%%QqJ6k4Q%%%%%q%Qk4J6q%%%Qj6%%j6%J6k4QJ6q%%qqQ%
+70F544qqQ%qQq%%%%%%%j6J6q%%%j6Qq%%j6K4qqQq%Qq%%j6QqQq%%%%%qJ6k4Q%qqJ6j6%%Q%q
+65F456qJ6%j6%%%qQqqQqQq%%Qq%q%%qQ%qQq%qQ%qQq%q%%Qq%q%%qK4j6%%q%%%q%%%q%%%%%%
+58F368Qq%qqQQqq%%q%QQqq%Qq%%Qqqq%%%%%%%q%%%%%q%%%q%%Qqq%Q%%q%%%q%%%%%q%q%%Qq
+52F272%%%q%q%QqJ6l2L2j6%%%QqqQqk4L2l2J6k4L2qq%%qJ6k4QQqj6J6%j6K4j6%qQ%k4J6qQ
+47F208Qqj6J6j6%QQqqq%%%%Q%%q%%%q%%qQj6%Q%%Qqj6J6qq%%%%q%qJ6k4J6QqqQq%%%%%%%q
+41F128%j6J6q%%%q%QQq%qq%Qqq%Qq%QQq%j6Qj6J6j6QqJ6qJ6l2Qj6J6q%%%q%q%%Q%Qq%q%j6
+35F040K4qq%Q%%q%%%q%j6J6qJ6qqq%QQk4J6j6Qq%Q%l2L2Qj6q%k4K4qJ6j6J6qqq%QQq%j6Qj6
+30E976J6%%q%k4L2j6Q%%%Ql2QqJ6q%j6K4%%l2K4qqJ6k4%qL2qq%l2QK4j6j6QQQ%J6m8M0m8M0
+26E944j6qj6J6K4k4k4K4j6%J6qj6J6%qQqk4L2Ql2%j6K4j6K4k4M8qqm0O4q0L2Q%Qm0K4Qk4Q
+21E880j6L2k4j6%j6K4j6L2%qj6J6l2J6%Qk4L2j6q%%Qj6Qj6qJ6j6QK4k4qL2qj6j6J6%J6k4q
+17E816Q%j6J6%%q%qK4qqq%J6j6l2L2%Qq%qq%%J6l2L2k4%J6Qk4qQ%%Qk4Qq%K4qj6%J6j6%%%
+12E768%Qq%q%%%%%%%qQj6J6j6%J6j6%Qq%%%%%q%%%%qJ6k4J6j6%%%Q%Qj6j6QQq%q%%Qq%%%%
+7E704Qj6q%Q%%q%%%Qj6qJ6%qq%q%QqJ6j6QqJ6j6Q%qq%QqQk4J6QqqQ%qqQ%Qj6qJ6j6Q%q%%%
+1E632q%%Qq%%%%%%
+0E624
+##$OBSERVED MULTIPLETS=	(I, X, Y, Hs, Vs, An, H, C, N, (J))
+$$ I: Multiplet Index
+$$ X: Strt Coordinate
+$$ Y: End Coordinate
+$$ Hs: Horizontal Chemical Shift
+$$ An: Normalised Integral Area
+$$ H: Hydrogens
+$$ C: Category
+$$ N: Name
+$$ (J): Coupling Constants
+(1, 5.6144356029178315026, 5.6979291057092540385, 5.6562353365511492953, 1.9285673762364505812, 2, p, 4&comma;5, 2.86 2.86 2.81 2.81)
+(2, 1.951349659314276952, 2.053153823422333879, 2.0010653631038319844, 4.0501790638887724683, 4, m, 1&comma;2)
+(3, 1.5635832587234919089, 1.6615727017239172447, 1.6086791108563451846, 4.0212535598747765064, 4, m, 3&comma;6)
+##$OBSERVED MULTIPLETS AREAS=	
+(1, 1.7548308328425510361)
+(2, 3.6853154250256299207)
+(3, 3.6589956983079008346)
+##$OBSERVED MULTIPLETS PEAKS=	(I, X, Y)
+$$ I: Multiplet Peak Index
+$$ X: Peak x Position
+$$ Y: Peak Intensity
+(1, 5.6833622422054199674, 0.0002057864039670675993)
+(1, 5.6801197292639331593, 0.0002835061168298125267)
+(1, 5.6667682053872212578, 0.0036500496789813041687)
+(1, 5.6612368597811553173, 0.011197457090020179749)
+(1, 5.6562777223412332717, 0.014372366480529308319)
+(1, 5.6513185849013121143, 0.011137402616441249847)
+(1, 5.6455965032398642833, 0.0036534946411848068237)
+(1, 5.6322449793631523818, 0.00029312242986634373665)
+(1, 5.6291932024770465759, 0.00021086428023409098387)
+(2, 2.0492681790198687963, 8.6978907347656786442e-05)
+(2, 2.0456441939676186514, 0.00012703178799711167812)
+(2, 2.0399221123061708205, 0.00023020723892841488123)
+(2, 2.0383962238631179176, 0.00024371661129407584667)
+(2, 2.0332463503678148697, 0.00042132107773795723915)
+(2, 2.0219929231003006542, 0.0047809965908527374268)
+(2, 2.0198948264911029682, 0.0032751157414168119431)
+(2, 2.0166523135496161601, 0.0085368147119879722595)
+(2, 2.010930231888167885, 0.011423310264945030212)
+(2, 2.0088321352789706431, 0.014531790278851985931)
+(2, 2.0063525665590096203, 0.012205446138978004456)
+(2, 2.0033007896729042585, 0.019886316731572151184)
+(2, 2.0002490127867988967, 0.012359499931335449219)
+(2, 1.9981509161776012107, 0.015103870071470737457)
+(2, 1.9956713474576404099, 0.012580727227032184601)
+(2, 1.9903307379069556937, 0.0097934892401099205017)
+(2, 1.9867067528547053268, 0.0035716474521905183792)
+(2, 1.9849901283562709775, 0.0055313869379460811615)
+(2, 1.9762162698087175627, 0.00060644926270470023155)
+(2, 1.9741181731995200987, 0.00049859192222356796265)
+(2, 1.971638604479559298, 0.00040058823651634156704)
+(2, 1.9680146194273089311, 0.00027758546639233827591)
+(2, 1.9668702030950193649, 0.00027412371127866208553)
+(2, 1.961148121433571534, 0.00015938069554977118969)
+(2, 1.9580963445474659501, 0.00010936766921076923609)
+(3, 1.6431911171124506943, 0.00032009070855565369129)
+(3, 1.6407115483924898935, 0.00037523853825405240059)
+(3, 1.6332728422326077133, 0.00097871012985706329346)
+(3, 1.6321284259003181472, 0.00093728158390149474144)
+(3, 1.6296488571803573464, 0.00072083238046616315842)
+(3, 1.6210657346881856, 0.011256718076765537262)
+(3, 1.6140085006390665345, 0.012534640729427337646)
+(3, 1.6119104040298690705, 0.011859701015055179596)
+(3, 1.6079049468668553668, 0.024656232446432113647)
+(3, 1.6037087536484604389, 0.011282598599791526794)
+(3, 1.6016106570392627528, 0.01211943943053483963)
+(3, 1.600656976762354855, 0.011936831288039684296)
+(3, 1.5945534229901436873, 0.01012824568897485733)
+(3, 1.5838722038887742549, 0.00076169514795765280724)
+(3, 1.5821555793903399056, 0.00078245124313980340958)
+(3, 1.5749076092858393938, 0.00031329723424278199673)
+(3, 1.5722373045104969247, 0.00024150624813046306372)
+##$PREDICTED PEAKS=	(X Y T A)
+(1.6069499445060093645,  , 0.10000000000000000555, <1-a>)
+(1.6069499445060093645,  , 0.10000000000000000555, <1-b>)
+(1.6091521152483871937,  , 0.10000000000000000555, <2-a>)
+(1.6091521152483871937,  , 0.10000000000000000555, <2-b>)
+(2.0032451267268265305,  , 0.10000000000000000555, <3-a>)
+(2.0032451267268265305,  , 0.10000000000000000555, <3-b>)
+(5.656201528715440574,  , 0.10000000000000000555, <4>)
+(5.656201528715440574,  , 0.10000000000000000555, <5>)
+(2.0032451267268265305,  , 0.10000000000000000555, <6-a>)
+(2.0032451267268265305,  , 0.10000000000000000555, <6-b>)
+##$PREDICTEDCOUPLINGCONSTANTS=	J(A,B)	$$ (Hz)
+12.4(1-a, 1-b)
+7.1(1-a, 2-a)
+7.1(1-a, 2-b)
+0.9(1-a, 5)
+5.25(1-a, 6-a)
+8.01(1-a, 6-b)
+12.4(1-b, 1-a)
+7.1(1-b, 2-a)
+7.1(1-b, 2-b)
+0.9(1-b, 5)
+8.01(1-b, 6-a)
+5.25(1-b, 6-b)
+7.1(2-a, 1-a)
+7.1(2-a, 1-b)
+12.4(2-a, 2-b)
+5.25(2-a, 3-a)
+8.01(2-a, 3-b)
+0.9(2-a, 4)
+7.1(2-b, 1-a)
+7.1(2-b, 1-b)
+12.4(2-b, 2-a)
+8.01(2-b, 3-a)
+5.25(2-b, 3-b)
+0.9(2-b, 4)
+5.25(3-a, 2-a)
+8.01(3-a, 2-b)
+12.04(3-a, 3-b)
+4.41(3-a, 4)
+0.9(3-a, 5)
+1(3-a, 6-a)
+1(3-a, 6-b)
+8.01(3-b, 2-a)
+5.25(3-b, 2-b)
+12.04(3-b, 3-a)
+4.41(3-b, 4)
+0.9(3-b, 5)
+1(3-b, 6-a)
+1(3-b, 6-b)
+0.9(4, 2-a)
+0.9(4, 2-b)
+4.41(4, 3-a)
+4.41(4, 3-b)
+10.9(4, 5)
+0.9(4, 6-a)
+0.9(4, 6-b)
+0.9(5, 1-a)
+0.9(5, 1-b)
+0.9(5, 3-a)
+0.9(5, 3-b)
+10.9(5, 4)
+4.41(5, 6-a)
+4.41(5, 6-b)
+5.25(6-a, 1-a)
+8.01(6-a, 1-b)
+1(6-a, 3-a)
+1(6-a, 3-b)
+0.9(6-a, 4)
+4.41(6-a, 5)
+12.04(6-a, 6-b)
+8.01(6-b, 1-a)
+5.25(6-b, 1-b)
+1(6-b, 3-a)
+1(6-b, 3-b)
+0.9(6-b, 4)
+4.41(6-b, 5)
+12.04(6-b, 6-a)
+##END=		$$ NMR SPECTRUM
+##TITLE=	Predicted 1H NMR Spectrum
+##JCAMP-DX=	6.0	$$ MestReNova 17.0.0-41178
+##DATA TYPE=	NMR PEAK TABLE
+##DATA CLASS=	PEAK TABLE
+##BLOCK_ID=	4
+##ORIGIN=	Mestrelab Research S.L.
+##OWNER=	ctheodore
+##CROSS REFERENCE=	NMR SPECTRUM: BLOCK_ID=3                                     
+##.OBSERVE FREQUENCY=	500
+##.OBSERVE NUCLEUS=	^1H
+##NPOINTS=	51
+##FIRSTX=	1.5722373045104969247
+##LASTX=	5.6833622422054199674
+##XFACTOR=	1
+##YFACTOR=	1
+##FIRSTY=	0.00024150624813046306372
+##XUNITS=	PPM
+##YUNITS=	ARBITRARY UNITS
+##PEAK TABLE=	(XYW..XYW)
+1.5722373045104969247,0.00024150624813046306372,0.0091818143475991126357
+1.5749076092858393938,0.00031329723424278199673,0.0040054571630135189439
+1.5821555793903399056,0.00078245124313980340958,0.0055311432235445445044
+1.5838722038887742549,0.00076169514795765280724,0.0024795687199607500083
+1.5945534229901436873,0.01012824568897485733,0.0044977288057990293807
+1.600656976762354855,0.011936831288039684296,0.0045057839669366108251
+1.6016106570392627528,0.01211943943053483963,0.0022888326645791536203
+1.6037087536484604389,0.011282598599791526794,0.00095368027690798074739
+1.6079049468668553668,0.024656232446432113647,0.0051533595989952819122
+1.6119104040298690705,0.011859701015055179596,0.0013351523876711729813
+1.6140085006390665345,0.012534640729427337646,0.0070381917791506711304
+1.6210657346881856,0.011256718076765537262,0.0047370130801584189525
+1.6296488571803573464,0.00072083238046616315842,0.00038147211076319228812
+1.6321284259003181472,0.00093728158390149474144,0.0024795687199607500083
+1.6332728422326077133,0.00097871012985706329346,0.0062498753399693645141
+1.6407115483924898935,0.00037523853825405240059,0.0038147211076319229896
+1.6431911171124506943,0.00032009070855565369129,0.0068189757110698806172
+1.9580963445474659501,0.00010936766921076923609,0.0070572340491190568151
+1.961148121433571534,0.00015938069554977118969,0.0034332489968687306472
+1.9668702030950193649,0.00027412371127866208553,0.0051498734953030955372
+1.9680146194273089311,0.00027758546639233827591,0.0011444163322895768101
+1.971638604479559298,0.00040058823651634156704,0.0036239850522503266016
+1.9741181731995200987,0.00049859192222356796265,0.0024795687199607500083
+1.9762162698087175627,0.00060644926270470023155,0.0024795687199607500083
+1.9849901283562709775,0.0055313869379460811615,0.0021244298288004143105
+1.9867067528547053268,0.0035716474521905183792,0.0011444163322895768101
+1.9903307379069556937,0.0097934892401099205017,0.0032643784870203655137
+1.9956713474576404099,0.012580727227032184601,0.0065195339011777132809
+1.9981509161776012107,0.015103870071470737457,0.0024795687199607500083
+2.0002490127867988967,0.012359499931335449219,0.0019073605538159614948
+2.0033007896729042585,0.019886316731572151184,0.0045776653291583072405
+2.0063525665590096203,0.012205446138978004456,0.0017166244984343653236
+2.0088321352789706431,0.014531790278851985931,0.0028610408307239419169
+2.010930231888167885,0.011423310264945030212,0.0041961932183951153319
+2.0166523135496161601,0.0085368147119879722595,0.0033587458667371462503
+2.0198948264911029682,0.0032751157414168119431,0.0011444163322895768101
+2.0219929231003006542,0.0047809965908527374268,0.0022327063150328558053
+2.0332463503678148697,0.00042132107773795723915,0.0053406095506846919252
+2.0383962238631179176,0.00024371661129407584667,0.0017166244984343653236
+2.0399221123061708205,0.00023020723892841488123,0.0055313456060662883132
+2.0456441939676186514,0.00012703178799711167812,0.0034332489968687306472
+2.0492681790198687963,8.6978907347656786442e-05,0.0049591374399215000165
+5.6291932024770465759,0.00021086428023409098387,0.0062648630596627216671
+5.6322449793631523818,0.00029312242986634373665,0.0053406095506846919252
+5.6455965032398642833,0.0036534946411848068237,0.0032281392069132982224
+5.6513185849013121143,0.011137402616441249847,0.0046039950954538293518
+5.6562777223412332717,0.014372366480529308319,0.0057220816614478838338
+5.6612368597811553173,0.011197457090020179749,0.0044329736832769087856
+5.6667682053872212578,0.0036500496789813041687,0.0034374847826710778868
+5.6801197292639331593,0.0002835061168298125267,0.0051498734953030955372
+5.6833622422054199674,0.0002057864039670675993,0.006029406648943613431
+##$MNOVA/PEAK_DATA_TABLE=	(T,F,A,ST,SP,APT,APC)
+$$ Complementary to PEAK TABLE
+$$ T: Type
+$$ F: Flags
+$$ A: Annotation
+$$ ST: Shape Type
+$$ SP: Shape Parameter
+$$ APT: Attached Peaks Type
+$$ APC: Attached Peaks Count
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+Compound,None,,0,0,0,0
+##END=		$$ NMR PEAK TABLE
+##END=		$$ LINK
