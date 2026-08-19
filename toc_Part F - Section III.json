@@ -1,0 +1,36 @@
+[
+  {
+    "id": "S0Jhy/u3D994hrqrStwNINBs+xo=",
+    "mf": "C8H8O",
+    "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
+    "file": "./Part F - Section III/acetophenone.nmrium.zip",
+    "title": "acetophenone",
+    "selected": true,
+    "idCode": "didH@@RYm^Eh@@@@"
+  },
+  {
+    "id": "uAdm3s8VJ0l5AQ3sNlbASi5aRIw=",
+    "mf": "C6H6",
+    "idCodeHash": "7ccc8660dbfdfa70d319f761de5c81d5",
+    "file": "./Part F - Section III/benzene.nmrium.zip",
+    "title": "benzene",
+    "idCode": "gFp@DiTt@@@"
+  },
+  {
+    "id": "7i7l89ZnFsAg5Wvx9lVt1u7VQxM=",
+    "mf": "C5H8O",
+    "idCodeHash": "c5ac65f1b8fc436d2d8636370e9429e7",
+    "file": "./Part F - Section III/conjugated_ketone.nmrium.zip",
+    "title": "conjugated_ketone",
+    "idCode": "gGQ@@dsmLIh",
+    "noStereoIDCodeHash": "254f3502e73801e2a8e938c80449b0ce"
+  },
+  {
+    "id": "QqZAK0IAsjZTH+c6p66YqdBJ584=",
+    "mf": "C6H6O",
+    "idCodeHash": "22bc4cd0f647be5d11103699a14f4378",
+    "file": "./Part F - Section III/phenol.nmrium.zip",
+    "title": "phenol",
+    "idCode": "gOq@@drm\\@@@@"
+  }
+]

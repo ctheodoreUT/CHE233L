@@ -1,0 +1,464 @@
+[
+  {
+    "groupName": "Part A",
+    "folderName": "Part A",
+    "children": [
+      {
+        "id": "S3iTiudKE14cB1DDJ3PQ36hsh/o=",
+        "mf": "C2H6O",
+        "idCodeHash": "38e383ca596cea47097c63f7616f5723",
+        "file": "./Part A/ethanol.nmrium.zip",
+        "title": "ethanol",
+        "selected": true,
+        "idCode": "eMHAIh@"
+      },
+      {
+        "id": "GXD154ZXD9cFND1ZgLrgqZvZrSc=",
+        "mf": "C3H8",
+        "idCodeHash": "4e51074baa72c9def0a796d23c6f8f3f",
+        "file": "./Part A/propane.nmrium.zip",
+        "title": "propane",
+        "idCode": "eM@Hz@"
+      }
+    ]
+  },
+  {
+    "groupName": "Part B - Section I",
+    "folderName": "Part B - Section I",
+    "children": [
+      {
+        "id": "cae2m7BVXsPFgeCno9MoucVdMao=",
+        "mf": "C2H7N",
+        "idCodeHash": "3f716707415b933a4b54a0ceb0028cf2",
+        "file": "./Part B - Section I/ethanamine.nmrium.zip",
+        "title": "ethanamine",
+        "idCode": "eM`AIh@"
+      },
+      {
+        "id": "CPAZ7hPXojLkV32xSC3bdk5iFa0=",
+        "mf": "C2H6S",
+        "idCodeHash": "3e2c13401a10c183243941f2f8002d48",
+        "file": "./Part B - Section I/ethanethiol.nmrium.zip",
+        "title": "ethanethiol",
+        "idCode": "eMB@HRZ@"
+      },
+      {
+        "id": "S3iTiudKE14cB1DDJ3PQ36hsh/o=",
+        "mf": "C2H6O",
+        "idCodeHash": "38e383ca596cea47097c63f7616f5723",
+        "file": "./Part B - Section I/ethanol.nmrium.zip",
+        "title": "ethanol",
+        "idCode": "eMHAIh@"
+      },
+      {
+        "id": "glEejOzIH0qaay7VP8GhoJiKzI0=",
+        "mf": "C2H5F",
+        "idCodeHash": "93b2823f8e29f93a346a686856b926ef",
+        "file": "./Part B - Section I/fluoroethane.nmrium.zip",
+        "title": "fluoroethane",
+        "idCode": "eMBBPRZ@"
+      },
+      {
+        "id": "GXD154ZXD9cFND1ZgLrgqZvZrSc=",
+        "mf": "C3H8",
+        "idCodeHash": "4e51074baa72c9def0a796d23c6f8f3f",
+        "file": "./Part B - Section I/propane.nmrium.zip",
+        "title": "propane",
+        "idCode": "eM@Hz@"
+      }
+    ]
+  },
+  {
+    "groupName": "Part B - Section II",
+    "folderName": "Part B - Section II",
+    "children": [
+      {
+        "id": "iipoiNAQUW1G7K9eCynfVTung3o=",
+        "mf": "C2H4O",
+        "idCodeHash": "625142d9166bfa396cb1b393159498a2",
+        "file": "./Part B - Section II/acetaldehyde.nmrium.zip",
+        "title": "acetaldehyde",
+        "idCode": "eMHAIX@"
+      },
+      {
+        "id": "lBZbYX73Kpry87O2EPrM0tFVq7Y=",
+        "mf": "C3H6O",
+        "idCodeHash": "6dcd1895bf667363055aa89da065612d",
+        "file": "./Part B - Section II/acetone.nmrium.zip",
+        "title": "acetone",
+        "idCode": "gCa@@dsP@"
+      },
+      {
+        "id": "uAdm3s8VJ0l5AQ3sNlbASi5aRIw=",
+        "mf": "C6H6",
+        "idCodeHash": "7ccc8660dbfdfa70d319f761de5c81d5",
+        "file": "./Part B - Section II/benzene.nmrium.zip",
+        "title": "benzene",
+        "idCode": "gFp@DiTt@@@"
+      },
+      {
+        "id": "TkZOjDkfP0DZwVhnziMI/92emvg=",
+        "mf": "C6H12",
+        "idCodeHash": "181856b632234d88088e01eea6bec252",
+        "file": "./Part B - Section II/cyclohexane.nmrium.zip",
+        "title": "cyclohexane",
+        "idCode": "gFp@DiTvjh@"
+      },
+      {
+        "id": "z4rcD7H664cqSaCH/zqdh4u51kQ=",
+        "mf": "C6H10",
+        "idCodeHash": "37bda40ad086a34bedb633da0ffa5359",
+        "file": "./Part B - Section II/cyclohexene.nmrium.zip",
+        "title": "cyclohexene",
+        "idCode": "gFp@DiTujh@"
+      },
+      {
+        "id": "ifF9DomlIopaXLgWegIfiA1Ige0=",
+        "mf": "C2H6",
+        "idCodeHash": "53ff964ab55b01573423f235a3889ffa",
+        "file": "./Part B - Section II/ethane.nmrium.zip",
+        "title": "ethane",
+        "idCode": "eF@Hp@"
+      },
+      {
+        "id": "ZxlBaMdWv2NveDrfkojRI1h5pOM=",
+        "mf": "C2H4",
+        "idCodeHash": "29638bf3dd6d15e072bc8c43ad0697b1",
+        "file": "./Part B - Section II/ethene.nmrium.zip",
+        "title": "ethene",
+        "idCode": "eF@Hh@"
+      },
+      {
+        "id": "Jn8Wo0Fcepd9Vl2KdzboxQxhQ0U=",
+        "mf": "C2H2",
+        "idCodeHash": "6805236b8547565d9ec1d33a84cec41a",
+        "file": "./Part B - Section II/ethyne.nmrium.zip",
+        "title": "ethyne",
+        "idCode": "eF@Hx@"
+      },
+      {
+        "id": "GXD154ZXD9cFND1ZgLrgqZvZrSc=",
+        "mf": "C3H8",
+        "idCodeHash": "4e51074baa72c9def0a796d23c6f8f3f",
+        "file": "./Part B - Section II/propane.nmrium.zip",
+        "title": "propane",
+        "idCode": "eM@Hz@"
+      },
+      {
+        "id": "0/9L0511SXfufshquO/+EA0VwLI=",
+        "mf": "C3H6",
+        "idCodeHash": "8bffb8a974f368094132d51dbbaf6791",
+        "file": "./Part B - Section II/propene.nmrium.zip",
+        "title": "propene",
+        "idCode": "eM@Hv@"
+      },
+      {
+        "id": "VYisyfHOCtRa7ICvYTgUHOHYwJ8=",
+        "mf": "C7H8",
+        "idCodeHash": "dcfa642cecdc1980661c15c0b38de999",
+        "file": "./Part B - Section II/toluene.nmrium.zip",
+        "title": "toluene",
+        "idCode": "gOp@DjWkB@@@"
+      }
+    ]
+  },
+  {
+    "groupName": "Part B - Section III",
+    "folderName": "Part B - Section III",
+    "children": [
+      {
+        "id": "S0Jhy/u3D994hrqrStwNINBs+xo=",
+        "mf": "C8H8O",
+        "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
+        "file": "./Part B - Section III/acetophenone.nmrium.zip",
+        "title": "acetophenone",
+        "idCode": "didH@@RYm^Eh@@@@"
+      },
+      {
+        "id": "uAdm3s8VJ0l5AQ3sNlbASi5aRIw=",
+        "mf": "C6H6",
+        "idCodeHash": "7ccc8660dbfdfa70d319f761de5c81d5",
+        "file": "./Part B - Section III/benzene.nmrium.zip",
+        "title": "benzene",
+        "idCode": "gFp@DiTt@@@"
+      },
+      {
+        "id": "QqZAK0IAsjZTH+c6p66YqdBJ584=",
+        "mf": "C6H6O",
+        "idCodeHash": "22bc4cd0f647be5d11103699a14f4378",
+        "file": "./Part B - Section III/phenol.nmrium.zip",
+        "title": "phenol",
+        "idCode": "gOq@@drm\\@@@@"
+      }
+    ]
+  },
+  {
+    "groupName": "Part C",
+    "folderName": "Part C",
+    "children": [
+      {
+        "id": "HbbgeUxbLAJv1Sd1ootHKh4ahBk=",
+        "mf": "C4H10O",
+        "idCodeHash": "e7e10e1f80c7f0f586e9c255166d83f0",
+        "file": "./Part C/diethyl_ether.nmrium.zip",
+        "title": "diethyl_ether",
+        "idCode": "gJQ@@eKU@@"
+      },
+      {
+        "id": "bg+gUp7RyFgZSbK43FdGt/CUInk=",
+        "mf": "C4H10O",
+        "idCodeHash": "95685218a9baeae52dee7dfcfd0ab091",
+        "file": "./Part C/methyl_isopropyl_ether.nmrium.zip",
+        "title": "methyl_isopropyl_ether",
+        "idCode": "gJQ@@eMU@@"
+      },
+      {
+        "id": "RP67ar1AqeIQTYMZpKkT5eo2rpY=",
+        "mf": "C4H10O",
+        "idCodeHash": "7cdd7750d5aeaa6933beda981168841f",
+        "file": "./Part C/methyl_propyl_ether.nmrium.zip",
+        "title": "methyl_propyl_ether",
+        "idCode": "gJQ@@eOU@@"
+      }
+    ]
+  },
+  {
+    "id": "kFNtizzIWaNRIy84CVO/QckeP1k=",
+    "mf": "C4H8O2",
+    "idCodeHash": "8dce89763ab899350b4a01be188c1555",
+    "file": "./Part D/ethyl_acetate.nmrium.zip",
+    "title": "Part D",
+    "idCode": "gGP`@df]j`@"
+  },
+  {
+    "groupName": "Part E",
+    "folderName": "Part E",
+    "children": [
+      {
+        "id": "S3iTiudKE14cB1DDJ3PQ36hsh/o=",
+        "mf": "C2H6O",
+        "idCodeHash": "38e383ca596cea47097c63f7616f5723",
+        "file": "./Part E/ethanol.nmrium.zip",
+        "title": "ethanol",
+        "idCode": "eMHAIh@"
+      },
+      {
+        "id": "GXD154ZXD9cFND1ZgLrgqZvZrSc=",
+        "mf": "C3H8",
+        "idCodeHash": "4e51074baa72c9def0a796d23c6f8f3f",
+        "file": "./Part E/propane.nmrium.zip",
+        "title": "propane",
+        "idCode": "eM@Hz@"
+      }
+    ]
+  },
+  {
+    "groupName": "Part F - Section I",
+    "folderName": "Part F - Section I",
+    "children": [
+      {
+        "id": "cae2m7BVXsPFgeCno9MoucVdMao=",
+        "mf": "C2H7N",
+        "idCodeHash": "3f716707415b933a4b54a0ceb0028cf2",
+        "file": "./Part F - Section I/ethanamine.nmrium.zip",
+        "title": "ethanamine",
+        "idCode": "eM`AIh@"
+      },
+      {
+        "id": "CPAZ7hPXojLkV32xSC3bdk5iFa0=",
+        "mf": "C2H6S",
+        "idCodeHash": "3e2c13401a10c183243941f2f8002d48",
+        "file": "./Part F - Section I/ethanethiol.nmrium.zip",
+        "title": "ethanethiol",
+        "idCode": "eMB@HRZ@"
+      },
+      {
+        "id": "S3iTiudKE14cB1DDJ3PQ36hsh/o=",
+        "mf": "C2H6O",
+        "idCodeHash": "38e383ca596cea47097c63f7616f5723",
+        "file": "./Part F - Section I/ethanol.nmrium.zip",
+        "title": "ethanol",
+        "idCode": "eMHAIh@"
+      },
+      {
+        "id": "glEejOzIH0qaay7VP8GhoJiKzI0=",
+        "mf": "C2H5F",
+        "idCodeHash": "93b2823f8e29f93a346a686856b926ef",
+        "file": "./Part F - Section I/fluoroethane.nmrium.zip",
+        "title": "fluoroethane",
+        "idCode": "eMBBPRZ@"
+      },
+      {
+        "id": "GXD154ZXD9cFND1ZgLrgqZvZrSc=",
+        "mf": "C3H8",
+        "idCodeHash": "4e51074baa72c9def0a796d23c6f8f3f",
+        "file": "./Part F - Section I/propane.nmrium.zip",
+        "title": "propane",
+        "idCode": "eM@Hz@"
+      }
+    ]
+  },
+  {
+    "groupName": "Part F - Section II",
+    "folderName": "Part F - Section II",
+    "children": [
+      {
+        "id": "Ys6Ca0NPN273m6/j/Y9z3juUx0o=",
+        "mf": "C2H4O",
+        "idCodeHash": "625142d9166bfa396cb1b393159498a2",
+        "file": "./Part F - Section II/acetaldehyde.nmrium.zip",
+        "title": "acetaldehyde",
+        "idCode": "eMHAIX@"
+      },
+      {
+        "id": "Ftrd3nnI4aP9XHEKJhFFnsAARzY=",
+        "mf": "C3H6O",
+        "idCodeHash": "6dcd1895bf667363055aa89da065612d",
+        "file": "./Part F - Section II/acetone.nmrium.zip",
+        "title": "acetone",
+        "idCode": "gCa@@dsP@"
+      },
+      {
+        "id": "uAdm3s8VJ0l5AQ3sNlbASi5aRIw=",
+        "mf": "C6H6",
+        "idCodeHash": "7ccc8660dbfdfa70d319f761de5c81d5",
+        "file": "./Part F - Section II/benzene.nmrium.zip",
+        "title": "benzene",
+        "idCode": "gFp@DiTt@@@"
+      },
+      {
+        "id": "TkZOjDkfP0DZwVhnziMI/92emvg=",
+        "mf": "C6H12",
+        "idCodeHash": "181856b632234d88088e01eea6bec252",
+        "file": "./Part F - Section II/cyclohexane.nmrium.zip",
+        "title": "cyclohexane",
+        "idCode": "gFp@DiTvjh@"
+      },
+      {
+        "id": "z4rcD7H664cqSaCH/zqdh4u51kQ=",
+        "mf": "C6H10",
+        "idCodeHash": "37bda40ad086a34bedb633da0ffa5359",
+        "file": "./Part F - Section II/cyclohexene.nmrium.zip",
+        "title": "cyclohexene",
+        "idCode": "gFp@DiTujh@"
+      },
+      {
+        "id": "ifF9DomlIopaXLgWegIfiA1Ige0=",
+        "mf": "C2H6",
+        "idCodeHash": "53ff964ab55b01573423f235a3889ffa",
+        "file": "./Part F - Section II/ethane.nmrium.zip",
+        "title": "ethane",
+        "idCode": "eF@Hp@"
+      },
+      {
+        "id": "dMf3JQCNddvNiy0sUZ3IWdhtbhY=",
+        "mf": "C2H4",
+        "idCodeHash": "29638bf3dd6d15e072bc8c43ad0697b1",
+        "file": "./Part F - Section II/ethene.nmrium.zip",
+        "title": "ethene",
+        "idCode": "eF@Hh@"
+      },
+      {
+        "id": "Jn8Wo0Fcepd9Vl2KdzboxQxhQ0U=",
+        "mf": "C2H2",
+        "idCodeHash": "6805236b8547565d9ec1d33a84cec41a",
+        "file": "./Part F - Section II/ethyne.nmrium.zip",
+        "title": "ethyne",
+        "idCode": "eF@Hx@"
+      },
+      {
+        "id": "GXD154ZXD9cFND1ZgLrgqZvZrSc=",
+        "mf": "C3H8",
+        "idCodeHash": "4e51074baa72c9def0a796d23c6f8f3f",
+        "file": "./Part F - Section II/propane.nmrium.zip",
+        "title": "propane",
+        "idCode": "eM@Hz@"
+      },
+      {
+        "id": "0/9L0511SXfufshquO/+EA0VwLI=",
+        "mf": "C3H6",
+        "idCodeHash": "8bffb8a974f368094132d51dbbaf6791",
+        "file": "./Part F - Section II/propene.nmrium.zip",
+        "title": "propene",
+        "idCode": "eM@Hv@"
+      },
+      {
+        "id": "VYisyfHOCtRa7ICvYTgUHOHYwJ8=",
+        "mf": "C7H8",
+        "idCodeHash": "dcfa642cecdc1980661c15c0b38de999",
+        "file": "./Part F - Section II/toluene.nmrium.zip",
+        "title": "toluene",
+        "idCode": "gOp@DjWkB@@@"
+      }
+    ]
+  },
+  {
+    "groupName": "Part F - Section III",
+    "folderName": "Part F - Section III",
+    "children": [
+      {
+        "id": "S0Jhy/u3D994hrqrStwNINBs+xo=",
+        "mf": "C8H8O",
+        "idCodeHash": "e4617999ccdccfc27ee8da157b5d8bdd",
+        "file": "./Part F - Section III/acetophenone.nmrium.zip",
+        "title": "acetophenone",
+        "idCode": "didH@@RYm^Eh@@@@"
+      },
+      {
+        "id": "uAdm3s8VJ0l5AQ3sNlbASi5aRIw=",
+        "mf": "C6H6",
+        "idCodeHash": "7ccc8660dbfdfa70d319f761de5c81d5",
+        "file": "./Part F - Section III/benzene.nmrium.zip",
+        "title": "benzene",
+        "idCode": "gFp@DiTt@@@"
+      },
+      {
+        "id": "7i7l89ZnFsAg5Wvx9lVt1u7VQxM=",
+        "mf": "C5H8O",
+        "idCodeHash": "c5ac65f1b8fc436d2d8636370e9429e7",
+        "file": "./Part F - Section III/conjugated_ketone.nmrium.zip",
+        "title": "conjugated_ketone",
+        "idCode": "gGQ@@dsmLIh",
+        "noStereoIDCodeHash": "254f3502e73801e2a8e938c80449b0ce"
+      },
+      {
+        "id": "QqZAK0IAsjZTH+c6p66YqdBJ584=",
+        "mf": "C6H6O",
+        "idCodeHash": "22bc4cd0f647be5d11103699a14f4378",
+        "file": "./Part F - Section III/phenol.nmrium.zip",
+        "title": "phenol",
+        "idCode": "gOq@@drm\\@@@@"
+      }
+    ]
+  },
+  {
+    "groupName": "Part G",
+    "folderName": "Part G",
+    "children": [
+      {
+        "id": "wekBB7VVxehYIy6wfJ0zZYLl6GM=",
+        "mf": "C4H10O",
+        "idCodeHash": "e7e10e1f80c7f0f586e9c255166d83f0",
+        "file": "./Part G/diethyl_ether.nmrium.zip",
+        "title": "diethyl_ether",
+        "idCode": "gJQ@@eKU@@"
+      },
+      {
+        "id": "8pDIrbkqeOyky30r9H3RArHSxMs=",
+        "mf": "C4H10O",
+        "idCodeHash": "95685218a9baeae52dee7dfcfd0ab091",
+        "file": "./Part G/methyl_isopropyl_ether.nmrium.zip",
+        "title": "methyl_isopropyl_ether",
+        "idCode": "gJQ@@eMU@@"
+      },
+      {
+        "id": "mnCVz1SCS0WNAsbt5YmzXBRzs5o=",
+        "mf": "C4H10O",
+        "idCodeHash": "7cdd7750d5aeaa6933beda981168841f",
+        "file": "./Part G/methyl_propyl_ether.nmrium.zip",
+        "title": "methyl_propyl_ether",
+        "idCode": "gJQ@@eOU@@"
+      }
+    ]
+  }
+]
