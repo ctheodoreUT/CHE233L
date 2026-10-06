@@ -1,0 +1,43 @@
+[
+  {
+    "id": "cae2m7BVXsPFgeCno9MoucVdMao=",
+    "mf": "C2H7N",
+    "idCodeHash": "3f716707415b933a4b54a0ceb0028cf2",
+    "file": "./Part B - Section I/ethanamine.nmrium.zip",
+    "title": "ethanamine",
+    "selected": true,
+    "idCode": "eM`AIh@"
+  },
+  {
+    "id": "CPAZ7hPXojLkV32xSC3bdk5iFa0=",
+    "mf": "C2H6S",
+    "idCodeHash": "3e2c13401a10c183243941f2f8002d48",
+    "file": "./Part B - Section I/ethanethiol.nmrium.zip",
+    "title": "ethanethiol",
+    "idCode": "eMB@HRZ@"
+  },
+  {
+    "id": "S3iTiudKE14cB1DDJ3PQ36hsh/o=",
+    "mf": "C2H6O",
+    "idCodeHash": "38e383ca596cea47097c63f7616f5723",
+    "file": "./Part B - Section I/ethanol.nmrium.zip",
+    "title": "ethanol",
+    "idCode": "eMHAIh@"
+  },
+  {
+    "id": "glEejOzIH0qaay7VP8GhoJiKzI0=",
+    "mf": "C2H5F",
+    "idCodeHash": "93b2823f8e29f93a346a686856b926ef",
+    "file": "./Part B - Section I/fluoroethane.nmrium.zip",
+    "title": "fluoroethane",
+    "idCode": "eMBBPRZ@"
+  },
+  {
+    "id": "GXD154ZXD9cFND1ZgLrgqZvZrSc=",
+    "mf": "C3H8",
+    "idCodeHash": "4e51074baa72c9def0a796d23c6f8f3f",
+    "file": "./Part B - Section I/propane.nmrium.zip",
+    "title": "propane",
+    "idCode": "eM@Hz@"
+  }
+]

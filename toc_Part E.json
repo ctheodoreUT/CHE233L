@@ -1,0 +1,19 @@
+[
+  {
+    "id": "S3iTiudKE14cB1DDJ3PQ36hsh/o=",
+    "mf": "C2H6O",
+    "idCodeHash": "38e383ca596cea47097c63f7616f5723",
+    "file": "./Part E/ethanol.nmrium.zip",
+    "title": "ethanol",
+    "selected": true,
+    "idCode": "eMHAIh@"
+  },
+  {
+    "id": "GXD154ZXD9cFND1ZgLrgqZvZrSc=",
+    "mf": "C3H8",
+    "idCodeHash": "4e51074baa72c9def0a796d23c6f8f3f",
+    "file": "./Part E/propane.nmrium.zip",
+    "title": "propane",
+    "idCode": "eM@Hz@"
+  }
+]

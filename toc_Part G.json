@@ -1,0 +1,27 @@
+[
+  {
+    "id": "wekBB7VVxehYIy6wfJ0zZYLl6GM=",
+    "mf": "C4H10O",
+    "idCodeHash": "e7e10e1f80c7f0f586e9c255166d83f0",
+    "file": "./Part G/diethyl_ether.nmrium.zip",
+    "title": "diethyl_ether",
+    "selected": true,
+    "idCode": "gJQ@@eKU@@"
+  },
+  {
+    "id": "8pDIrbkqeOyky30r9H3RArHSxMs=",
+    "mf": "C4H10O",
+    "idCodeHash": "95685218a9baeae52dee7dfcfd0ab091",
+    "file": "./Part G/methyl_isopropyl_ether.nmrium.zip",
+    "title": "methyl_isopropyl_ether",
+    "idCode": "gJQ@@eMU@@"
+  },
+  {
+    "id": "mnCVz1SCS0WNAsbt5YmzXBRzs5o=",
+    "mf": "C4H10O",
+    "idCodeHash": "7cdd7750d5aeaa6933beda981168841f",
+    "file": "./Part G/methyl_propyl_ether.nmrium.zip",
+    "title": "methyl_propyl_ether",
+    "idCode": "gJQ@@eOU@@"
+  }
+]
